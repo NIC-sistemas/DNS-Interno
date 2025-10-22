@@ -1,0 +1,16 @@
+$TTL 86400	
+@	IN	SOA	ns.nic.cr. ti.nic.cr. (
+			 2024082002	; Serial
+			 7200		; Refresh
+			 3600		; Retry
+			 2419200		; Expire
+			 86400 )	; Negative Cache TTL
+;
+@		IN	NS	ns.nic.cr.
+@		IN	A	200.107.82.47
+;@		IN	A	200.107.82.10
+grafana		IN	A	192.168.30.24
+ixpmanager	IN	A	200.107.82.44
+rpki		IN	A	200.107.82.43
+nfa		IN	A	192.168.200.126
+smokeping	IN	A	192.168.200.248

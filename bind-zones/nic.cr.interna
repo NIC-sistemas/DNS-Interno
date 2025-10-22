@@ -1,0 +1,269 @@
+$TTL 86400	
+@	IN	SOA	ns.nic.cr. ti.nic.cr. (
+			 2025090801	; Serial
+			 7200		; Refresh
+			 3600		; Retry
+			 2419200		; Expire
+			 86400 )	; Negative Cache TTL
+;
+@		IN	NS	ns.nic.cr.
+@		IN	A	200.107.82.5
+
+nic.cr.         300             IN MX   0 nic-cr.mail.protection.outlook.com.
+nic.cr.         300             IN TXT  "v=spf1 include:spf.protection.outlook.com ip4:200.107.82.0/24 ip4:192.168.0.0/16 ip6:2001:13c7:7004:1::/48 -all"
+
+return.nic.cr.	300		IN MX   0 nic-cr.mail.protection.outlook.com.
+return.nic.cr.  300             IN TXT  "v=spf1 include:spf.protection.outlook.com ip4:200.107.82.0/24 ip4:192.168.0.0/16 ip6:2001:13c7:7004:1::/48 -all"
+                
+autodiscover.nic.cr.    3600            IN CNAME autodiscover.outlook.com.
+
+enterpriseregistration 3600     IN CNAME enterpriseregistration.windows.net.
+enterpriseenrollment 3600       IN CNAME enterpriseenrollment.manage.microsoft.com.
+msoid           3600            IN CNAME clientconfig.microsoftonline-p.net.
+
+sip             3600            IN CNAME sipdir.online.lync.com.
+lyncdiscover    3600            IN CNAME webdir.online.lync.com.
+
+
+buscador	IN	A	200.107.82.21
+aula		IN	A	200.107.82.60
+local-smtp-1	IN	A	192.168.30.54
+zabbix-mysql	IN	A	192.168.30.56
+zabbix-server	IN	A	192.168.30.57
+zabbix-proxy-1	IN	A	192.168.30.58
+status		IN	A	192.168.30.59
+zabbix-proxy-2	IN	A	192.168.30.29
+grafana.nic.cr.		IN	A	192.168.60.244
+support		IN	A	192.168.30.62
+support-test	IN	A	192.168.80.62
+jumpbox		IN	A	192.168.60.7
+idrac1		IN	A	192.168.10.7
+idrac2		IN	A	192.168.10.8
+idrac3		IN	A	192.168.10.9
+idrac4		IN	A	192.168.10.53
+idrac5		IN	A	192.168.10.54
+idrac6		IN	A	192.168.10.55
+srv		3600	A	192.168.80.101
+confbacks	IN	A	192.168.30.4
+wiki		IN	A	192.168.30.5
+encuestas	IN	A	192.168.30.6
+administrativo	IN	A	192.168.30.9
+win1.internal	IN	A	192.168.30.10
+monitoreo-server IN	A	192.168.30.19
+aura-dev	IN	CNAME	aura1.nic.cr.
+aura1		IN	A	192.168.80.11
+www.aura1	IN	A	192.168.80.11
+pandora-dev	IN	CNAME	pandora1.nic.cr.
+pandora1	IN	A	192.168.80.31
+aura2		IN	A	192.168.80.52
+pandora2	IN	A	192.168.80.52
+#lab-admin	IN	A	192.168.80.254
+; Temporal
+certtest	IN	A	192.168.60.240
+sflow		IN	A	192.168.200.124
+smokeping	IN	A	192.168.30.248
+local		IN	A	200.107.82.254
+wp-cci		IN	A	192.168.60.24
+wp		IN	A	192.168.60.25
+igf		IN	A	200.107.82.8
+recursos	IN	A	192.168.120.4
+
+nas		IN	A	192.168.10.75
+nas2		IN	A	192.168.10.76
+ap2		IN	A	192.168.10.102
+
+pvenic04	IN	A	192.168.10.221
+proxmoxpruebas	IN	A	192.168.10.221
+pvecrix02	IN	A	192.168.10.222
+proxmoxcrix02	IN	A	192.168.10.222
+pvecrix01	IN	A	192.168.10.223
+proxmoxcrix01	IN	A	192.168.10.223
+pvenic01        IN      A       192.168.10.237
+proxmox01       IN      A       192.168.10.237
+pvenic02        IN      A       192.168.10.238
+proxmox02       IN      A       192.168.10.238
+pvenic03        IN      A       192.168.10.239
+proxmox03       IN      A       192.168.10.239
+pvetest01	IN	A	192.168.10.214
+pvetest02       IN      A       192.168.10.215
+pvetest03       IN      A       192.168.10.216
+
+#smokeping	IN	CNAME	libre.nic.cr.
+nms		IN	CNAME	libre.nic.cr.
+email		IN	CNAME	mailgun.org.
+daphne		IN	CNAME	fred-admin.nic.cr.
+test		IN	A	192.168.30.8
+libre		IN	A	192.168.30.30
+nagios-dominios	IN	A	192.168.30.22
+helpdesk	IN	A	192.168.30.31
+ansible		IN	A	192.168.30.33
+freeipa		IN	A	192.168.30.34
+nagios		IN	A	192.168.30.35
+confluence	IN	A	192.168.30.37
+graficas	IN	A	192.168.30.38
+tableau 	IN	A	192.168.30.40
+netbox	 	IN	A	192.168.30.46
+netboxn		IN	A	192.168.30.47
+foro	 	IN	A	192.168.30.49
+venus	 	IN	A	192.168.30.100
+hdns		IN	A	45.231.54.101
+		IN	AAAA	2801:1d:a004:1::101
+hdns1		IN	A	200.107.82.34
+		IN	AAAA	2001:13c7:7004:1::3:4
+hdns2		IN	A	200.107.82.37
+		IN	AAAA	2001:13c7:7004:1::3:7
+hdns3-i		IN	A	192.168.30.50
+hdns3		IN	A	45.231.54.100
+		IN	AAAA	2801:1d:a004::1:0:0
+hdns4		IN	A	44.218.45.101
+rpki		IN	A	192.168.200.123
+nfsen		IN	A	192.168.200.124
+ixpmanager	IN	A	192.168.200.125
+netflow		IN	A	192.168.200.126
+
+ca1		IN	A	185.159.197.100
+		IN	AAAA	2620:10a:80aa::100
+ca2		IN	A	185.159.198.100
+		IN	AAAA	2620:10a:80ab::100
+
+;local		IN	A	201.193.196.58
+
+pandora		IN	A	192.168.80.31
+issabel         IN      A       200.107.82.10
+rdap		IN	A	200.107.82.36
+oculto		IN	A	200.107.82.18
+fred-reg	IN	A	192.168.80.172
+dev		IN	A	192.168.81.3
+acceso		IN	A	192.168.80.35
+dev-admin	IN	A	192.168.81.4
+fred-signer	IN	A	192.168.30.201
+fred-admin	IN	A	192.168.30.200
+ferda		IN	A	192.168.30.200
+fred-db		IN	A	192.168.30.199
+fred-whois	IN	A	200.107.82.36
+whois		IN	A	200.107.82.36
+whois		IN	AAAA	2001:13c7:7004:1::36
+ixp		IN	A	200.107.82.54
+correoixp	IN	A	200.107.82.55
+ns		IN	A	200.107.82.83
+monitoreo	IN	A	200.107.82.46
+reportes	IN	A	200.107.82.46
+hosting		IN	A	192.168.80.93
+ca		IN	A	192.168.30.20
+stag-registrar	IN	A	192.168.80.9
+dev-registrar	IN	A	192.168.81.9
+
+bsa-dominios	IN	A	192.168.120.19
+bsa-admin	IN	A	192.168.30.19
+
+datos-pg1	IN	A	192.168.30.51
+datos-pg2	IN	A	192.168.30.52
+librenms	IN	A	192.168.30.30
+librenms2       IN      A       192.168.30.29
+
+pantallas	IN	A	192.168.60.68
+owncloud	IN	A	192.168.60.100
+netdisco	IN	A	192.168.10.250
+dns.nic.cr.	IN	A	200.107.82.100
+		IN	AAAA	2001:13c7:7004:1::d100
+dns-ext.nic.cr. IN      A       200.107.82.219
+                IN      AAAA    2001:13c7:7004:110::219
+dnssec.nic.cr.	IN	A	200.107.82.8
+www.dnssec	IN	A	200.107.82.8
+mx.nic.cr.	IN	A	200.107.82.20
+		IN	AAAA	2001:13c7:7004:1::20
+mx2.nic.cr.	IN	A	50.30.43.137
+;ns.nic.cr.	IN	A	163.178.8.2
+secundario	IN	A	198.57.204.98
+www.nic.cr.	IN	A	200.107.82.5
+www.nic.cr.	IN	AAAA	2001:13c7:7004:1::5
+ipv6.nic.cr.	IN	A	200.107.82.16
+www.ipv6	IN	A	200.107.82.16
+micrositios	IN	A	200.107.82.16
+p.nic.cr.	IN	A	204.61.216.98
+		IN	AAAA	2001:500:14:6089:ad::1
+
+de		IN	AAAA	2001:678:e:107::53
+		IN	A	194.0.11.107
+remote		IN	A	190.124.248.50
+docker		IN	A	192.168.60.36
+conexiones	IN	A	192.168.60.36
+heimdall	IN	A	192.168.60.36
+guacamole	IN	A	192.168.60.36
+portainer	IN	A	192.168.60.36
+dev-crix	IN	A	192.168.80.47
+logserver	IN	A	192.168.30.21
+teampass	IN	A	192.168.30.25
+snipeit		IN	A	192.168.30.26
+stag		IN	A	192.168.80.3
+www.stag	IN	A	192.168.80.3
+stag-admin	IN	A	192.168.80.4
+stag-gti	IN	A	192.168.80.40
+stag-gti-admin	IN	A	192.168.80.41	
+; Proyecto redirección
+
+lab-nic		IN	A	192.168.80.62
+lab		IN	A	192.168.80.63
+lab-admin	IN	A	192.168.80.64
+
+; Ambiente Pre-Produccion
+
+pp		IN	A	192.168.82.3
+pp-admin	IN	A	192.168.82.4
+dominios	IN	A	192.168.120.9
+
+; Página antigua
+
+clientes-ant	IN	A	192.168.80.215
+admin-ant	IN	A	192.168.80.216
+mysql-ant	IN	A	192.168.80.217
+freddb-ant	IN	A	192.168.80.218
+fred-ant	IN	A	192.168.80.219
+
+; Active Directory
+
+win1-root.ca.nic.cr. 	IN	CNAME	win1.nic.cr.
+win1.nic.cr. IN A 192.168.30.10
+_ldap._tcp.nic.cr. 600 IN SRV 0 100 389 WIN1.nic.cr.
+_ldap._tcp.Default-First-Site-Name._sites.nic.cr. 600 IN SRV 0 100 389 WIN1.nic.cr.
+_ldap._tcp.pdc._msdcs.nic.cr. 600 IN SRV 0 100 389 WIN1.nic.cr.
+_ldap._tcp.a43fc13d-0e39-4a61-aa06-c57161ea11c3.domains._msdcs.nic.cr. 600 IN SRV 0 100 389 WIN1.nic.cr.
+bdfca28a-989e-4c3a-94f3-20aa6dd927f7._msdcs.nic.cr. 600 IN CNAME WIN1.nic.cr.
+_ldap._tcp.dc._msdcs.nic.cr. 600 IN SRV 0 100 389 WIN1.nic.cr.
+_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.nic.cr. 600 IN SRV 0 100 389 WIN1.nic.cr.
+_ldap._tcp.gc._msdcs.nic.cr. 600 IN SRV 0 100 3268 WIN1.nic.cr.
+_ldap._tcp.Default-First-Site-Name._sites.gc._msdcs.nic.cr. 600 IN SRV 0 100 3268 WIN1.nic.cr.
+gc._msdcs.nic.cr. 600 IN AAAA 2001:13c7:7004:30::10
+gc._msdcs.nic.cr. 600 IN A 192.168.30.10
+_kerberos._tcp.dc._msdcs.nic.cr. 600 IN SRV 0 100 88 WIN1.nic.cr.
+_kerberos._tcp.Default-First-Site-Name._sites.dc._msdcs.nic.cr. 600 IN SRV 0 100 88 WIN1.nic.cr.
+_kerberos._tcp.nic.cr. 600 IN SRV 0 100 88 WIN1.nic.cr.
+_kerberos._tcp.Default-First-Site-Name._sites.nic.cr. 600 IN SRV 0 100 88 WIN1.nic.cr.
+_gc._tcp.nic.cr. 600 IN SRV 0 100 3268 WIN1.nic.cr.
+_gc._tcp.Default-First-Site-Name._sites.nic.cr. 600 IN SRV 0 100 3268 WIN1.nic.cr.
+_kerberos._udp.nic.cr. 600 IN SRV 0 100 88 WIN1.nic.cr.
+_kpasswd._tcp.nic.cr. 600 IN SRV 0 100 464 WIN1.nic.cr.
+_kpasswd._udp.nic.cr. 600 IN SRV 0 100 464 WIN1.nic.cr.
+
+; Active Directory - Samba
+
+_ldap._tcp.srv.nic.cr. 600 IN SRV 0 100 389 srv.nic.cr.
+_ldap._tcp.Default-First-Site-Name._sites.srv.nic.cr. 600 IN SRV 0 100 389 srv.nic.cr.
+_ldap._tcp.pdc._msdcs.nic.cr. 600 IN SRV 0 100 389 srv.nic.cr.
+_ldap._tcp.a43fc13d-0e39-4a61-aa06-c57161ea11c3.domains._msdcs.srv.nic.cr. 600 IN SRV 0 100 389 srv.nic.cr.
+bdfca28a-989e-4c3a-94f3-20aa6dd927f7._msdcs.srv.nic.cr. 600 IN CNAME srv.nic.cr.
+_ldap._tcp.dc._srv.msdcs.nic.cr. 600 IN SRV 0 100 389 srv.nic.cr.
+_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.srv.nic.cr. 600 IN SRV 0 100 389 srv.nic.cr.
+_ldap._tcp.gc._msdcs.srv.nic.cr. 600 IN SRV 0 100 3268 srv.nic.cr.
+_ldap._tcp.Default-First-Site-Name._sites.gc._msdcs.srv.nic.cr. 600 IN SRV 0 100 3268 srv.nic.cr.
+gc._msdcs.srv.nic.cr. 600 IN AAAA 2001:13c7:7004:30::10
+gc._msdcs.srv.nic.cr. 600 IN A 192.168.30.10
+_kerberos._tcp.dc._msdcs.srv.nic.cr. 600 IN SRV 0 100 88 srv.nic.cr.
+_kerberos._tcp.Default-First-Site-Name._sites.dc._msdcs.srv.nic.cr. 600 IN SRV 0 100 88 srv.nic.cr.
+_kerberos._tcp.srv.nic.cr. 600 IN SRV 0 100 88 srv.nic.cr.
+_kerberos._tcp.Default-First-Site-Name._sites.srv.nic.cr. 600 IN SRV 0 100 88 srv.nic.cr.
+_gc._tcp.srv.nic.cr. 600 IN SRV 0 100 3268 srv.nic.cr.
+_gc._tcp.Default-First-Site-Name._sites.srv.nic.cr. 600 IN SRV 0 100 3268 srv.nic.cr.
+_kerberos._udp.srv.nic.cr. 600 IN SRV 0 100 88 srv.nic.cr.
+_kpasswd._tcp.srv.nic.cr. 600 IN SRV 0 100 464 srv.nic.cr.
+_kpasswd._udp.srv.nic.cr. 600 IN SRV 0 100 464 srv.nic.cr.

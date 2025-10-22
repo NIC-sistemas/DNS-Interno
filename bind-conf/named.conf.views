@@ -1,0 +1,61 @@
+acl niccr {
+	200.107.82.0/24;
+	2001:13c7:7004::/48;
+	192.168.0.0/16;
+	10.0.0.0/8;
+	127.0.0.1;
+};
+
+view "interna" {
+        match-clients { niccr; };
+        recursion yes;			/* this is the default */
+	allow-query { any; };
+        zone "nic.cr" {
+                type master;
+                file "nic.cr.interna";
+		check-names ignore;
+		allow-transfer { 192.168.30.252;  }; 
+		also-notify { 192.168.30.252; };   
+		allow-update { 192.168.0.0/24; };
+	};
+        zone "cci.cr" {
+                type master;
+                file "cci.cr.interna";
+                check-names ignore;
+                allow-transfer { 192.168.30.252;  };
+                also-notify { 192.168.30.252; };
+                allow-update { 192.168.0.0/24; };
+        };
+        zone "crix.cr" {
+                type master;
+                file "crix.cr.interna";
+                check-names ignore;
+                allow-transfer { 192.168.30.252;  };
+                also-notify { 192.168.30.252; };
+                allow-update { 192.168.0.0/24; };
+        };
+        zone "nic-registrars.cr" {
+                type master;
+                file "nic-registrars.cr.interna";
+                check-names ignore;
+                allow-transfer { 192.168.30.252;  };
+                also-notify { 192.168.30.252; };
+                allow-update { 192.168.0.0/24; };
+        };
+	zone "168.192.in-addr.arpa" {
+                type master;
+                file "192.168.interna";
+                check-names ignore;
+                allow-transfer { 192.168.30.252;  };
+                also-notify { 192.168.30.252; };
+                allow-update { 192.168.0.0/24; };
+	};
+
+include "/etc/bind/named.conf.default-zones";
+include "/etc/bind/bind.keys";
+};
+
+view "external" {
+	match-clients { any; };
+	recursion no;
+};

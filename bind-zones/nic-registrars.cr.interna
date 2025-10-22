@@ -1,0 +1,11 @@
+$TTL 86400	
+@	IN	SOA	ns.nic.cr. ti.nic.cr. (
+			 2023062001	; Serial
+			 7200		; Refresh
+			 3600		; Retry
+			 2419200		; Expire
+			 86400 )	; Negative Cache TTL
+;
+@		IN	NS	ns.nic.cr.
+@		IN	A	200.107.82.8
+www		IN	A	200.107.82.8
