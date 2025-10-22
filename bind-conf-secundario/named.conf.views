@@ -1,0 +1,53 @@
+acl niccr {
+	200.107.82.0/24;
+	2001:13c7:7004::/48;
+	192.168.0.0/16;
+	10.0.0.0/8;
+	127.0.0.1;
+};
+
+view "interna" {
+        match-clients { niccr; };
+        recursion yes;			/* this is the default */
+	allow-query { any; };
+
+        zone "nic.cr" {
+                type slave;
+                file "nic.cr.interna";
+		masters { 192.168.30.253; };
+		allow-notify { 192.168.30.253; };
+	};
+
+        zone "cci.cr" {
+                type slave;
+                file "cci.cr.interna";
+                masters { 192.168.30.253; };
+                allow-notify { 192.168.30.253; };
+        };
+        zone "crix.cr" {
+                type slave;
+                file "crix.cr.interna";
+                masters { 192.168.30.253; };
+                allow-notify { 192.168.30.253; };
+        };
+        zone "nic-registrars.cr" {
+                type slave;
+                file "nic-registrars.cr.interna";
+                masters { 192.168.30.253; };
+                allow-notify { 192.168.30.253; };
+        };
+        zone "168.192.in-addr.arpa" {
+                type slave;
+                file "192.168.cr.interna";
+                masters { 192.168.30.253; };
+                allow-notify { 192.168.30.253; };
+        };
+
+include "/etc/bind/named.conf.default-zones";
+
+};
+
+view "external" {
+	match-clients { any; };
+	recursion no;
+};
