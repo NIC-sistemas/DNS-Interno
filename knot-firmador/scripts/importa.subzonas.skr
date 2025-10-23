@@ -1,0 +1,5 @@
+#!/bin/bash
+
+for a in ac ed co fi or sa go;do
+  keymgr $a.cr. import-skr /var/tmp/$a.cr.skr
+done

@@ -1,0 +1,4 @@
+for b in ac ed co fi or sa go;do
+  keymgr $b.cr. pregenerate +0 +1y > /var/tmp/$b.cr.ksr
+done
+

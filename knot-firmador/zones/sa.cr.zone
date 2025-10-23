@@ -1,0 +1,127 @@
+;; Zone dump (Knot DNS 3.4.6)
+sa.cr.              	3600	SOA	dns.nic.cr. ti.nic.cr. 1761237902 14400 3600 1209600 7200
+sa.cr.              	3600	NS	a.lactld.org.
+sa.cr.              	3600	NS	p.nic.cr.
+sa.cr.              	3600	NS	de.nic.cr.
+sa.cr.              	3600	NS	ca1.nic.cr.
+sa.cr.              	3600	NS	ca2.nic.cr.
+sa.cr.              	3600	NS	dns.nic.cr.
+sa.cr.              	86400	DNSKEY	256 3 13 QRGV1UDMegZjef46Po/tMsbPuc4nwsSWQPz/PeYIdKVQHyXSUn7vXtUNs7RMNc8LokOo708H8y7EDSBgJPjNgQ==
+sa.cr.              	86400	DNSKEY	257 3 13 qaV9NffztClpl1HKihQTl4lte7JHxWxdu3gf7XYZgQZbvGR+q1pbJ/7fmnEE3j9+VSHqScjOPj+K9UB0VkwOfw==
+sa.cr.              	3600	NSEC3PARAM	1 0 0 -
+acanamed.sa.cr.     	3600	NS	ns1.s412.sureserver.com.
+acanamed.sa.cr.     	3600	NS	ns2.s412.sureserver.com.
+ach.sa.cr.          	3600	NS	ns1.supercp.com.
+ach.sa.cr.          	3600	NS	ns2.supercp.com.
+ach.sa.cr.          	3600	NS	ns3.supercp.com.
+ach.sa.cr.          	3600	NS	ns4.supercp.com.
+arca.sa.cr.         	3600	NS	ccss.sa.cr.
+arca.sa.cr.         	3600	NS	secundario.nic.cr.
+binasss.sa.cr.      	3600	NS	ns.binasss.sa.cr.
+binasss.sa.cr.      	3600	NS	secundario.nic.cr.
+ns.binasss.sa.cr.   	3600	A	196.40.24.242
+bvs.sa.cr.          	3600	NS	ns.scielo.sa.cr.
+bvs.sa.cr.          	3600	NS	secundario.nic.cr.
+ccss.sa.cr.         	3600	NS	ns.ccss.sa.cr.
+ccss.sa.cr.         	3600	NS	ns2.ccss.sa.cr.
+ns.ccss.sa.cr.      	3600	A	201.199.101.105
+ns2.ccss.sa.cr.     	3600	A	201.199.101.28
+cendeisss.sa.cr.    	3600	NS	ns.binasss.sa.cr.
+cendeisss.sa.cr.    	3600	NS	secundario.nic.cr.
+centromedicointegral.sa.cr.	3600	NS	hgns1.hostgator.com.
+centromedicointegral.sa.cr.	3600	NS	hgns2.hostgator.com.
+clinicabiblica.sa.cr.	3600	NS	ns7.galileocr.net.
+clinicabiblica.sa.cr.	3600	NS	ns8.galileocr.net.
+coopesain.sa.cr.    	3600	NS	ns3014.mochahost.com.
+coopesain.sa.cr.    	3600	NS	ns4014.mochahost.com.
+hmp.sa.cr.          	3600	NS	ns.hmp.sa.cr.
+hmp.sa.cr.          	3600	NS	secundario.nic.cr.
+ns.hmp.sa.cr.       	3600	A	196.40.47.154
+hnn.sa.cr.          	3600	NS	ns1-05.azure-dns.com.
+hnn.sa.cr.          	3600	NS	ns2-05.azure-dns.net.
+hnn.sa.cr.          	3600	NS	ns3-05.azure-dns.org.
+hnn.sa.cr.          	3600	NS	ns4-05.azure-dns.info.
+hnncr.sa.cr.        	3600	NS	ns1-05.azure-dns.com.
+hnncr.sa.cr.        	3600	NS	ns2-05.azure-dns.net.
+hnncr.sa.cr.        	3600	NS	ns3-05.azure-dns.org.
+hnncr.sa.cr.        	3600	NS	ns4-05.azure-dns.info.
+hospital.sa.cr.     	3600	NS	dns1.hospitalcima.com.
+hospital.sa.cr.     	3600	NS	dns2.hospitalcima.com.
+hospitalheredia.sa.cr.	3600	NS	ns1.hospitalheredia.sa.cr.
+hospitalheredia.sa.cr.	3600	NS	secundario.nic.cr.
+ns1.hospitalheredia.sa.cr.	3600	A	196.40.79.41
+hospitalsanrafael.sa.cr.	3600	NS	ns1.cyberfuel.com.
+hospitalsanrafael.sa.cr.	3600	NS	ns2.cyberfuel.com.
+hsvp.sa.cr.         	3600	NS	ns2.gmedica.caja.ccss.sa.cr.
+hsvp.sa.cr.         	3600	NS	secundario.nic.cr.
+inciensa.sa.cr.     	3600	NS	samara.ns.cloudflare.com.
+inciensa.sa.cr.     	3600	NS	charles.ns.cloudflare.com.
+innovo.sa.cr.       	3600	NS	ns1.digitalocean.com.
+innovo.sa.cr.       	3600	NS	secundario.nic.cr.
+netsalud.sa.cr.     	3600	NS	ns.netsalud.sa.cr.
+netsalud.sa.cr.     	3600	NS	secundario.nic.cr.
+ns.netsalud.sa.cr.  	3600	A	201.193.188.180
+panare.sa.cr.       	3600	NS	igd-dns01.itp.cloud.
+panare.sa.cr.       	3600	NS	igd-dns02.itp.cloud.
+scielo.sa.cr.       	3600	NS	ns.scielo.sa.cr.
+scielo.sa.cr.       	3600	NS	secundario.nic.cr.
+ns.scielo.sa.cr.    	3600	A	196.40.24.245
+vigila.sa.cr.       	3600	NS	ns1.powernet.co.cr.
+vigila.sa.cr.       	3600	NS	ns2.powernet.co.cr.
+;; DNSSEC signatures
+sa.cr.              	3600	RRSIG	NS 13 2 3600 20251105181504 20251022164504 60224 sa.cr. KYhWuUEm1ErwnRqCsvb2yYeOKm/Wbufp2/N1LUe/6lHv/CHqwYJCyiw3A2JsirLsMIqcEQJGFw/+x8+QSP93cQ==
+sa.cr.              	3600	RRSIG	SOA 13 2 3600 20251106164503 20251023151503 60224 sa.cr. cy3bJXqEBRyM2DPtN7kXkNvhGdZferhJ7imMQq/qQuI7ehpI9NaoWRpr0pUXB/HPoB+WNkx3Ia6tKyEzG0C+nw==
+sa.cr.              	86400	RRSIG	DNSKEY 13 2 86400 20251024231139 20251010214139 55029 sa.cr. XSCdlIgl0CI83bCUheAs+RgwH4eEcyOQZZ4HIRmcKwsrkVW5MlvY7qbDql5wLLPVlMNPSs+yOn37ZUqjYuuVQw==
+sa.cr.              	3600	RRSIG	NSEC3PARAM 13 2 3600 20251105181504 20251022164504 60224 sa.cr. IxLACSFuTUhG2/gTZDwo5MUjfz1T998HeD6U0iw443XOozyr/qo49VuoNIjbPZVgM7MtqBUB2K1koZcYCUTkmg==
+;; DNSSEC NSEC3 chain
+09bmsl6boi0psuvbr9fnvcr3lblqcgoi.sa.cr. 3600	NSEC3	1 0 0 - 22p9dccusihe6ulk34iqibq1pvglm7k4 NS
+22p9dccusihe6ulk34iqibq1pvglm7k4.sa.cr. 3600	NSEC3	1 0 0 - 3k5jmo1mfeajfk9jgfkkmq8lki7h0n2e NS
+3k5jmo1mfeajfk9jgfkkmq8lki7h0n2e.sa.cr. 3600	NSEC3	1 0 0 - 8mca1s6renl4lkcdj8n5k1562mjg4bf3 NS
+8mca1s6renl4lkcdj8n5k1562mjg4bf3.sa.cr. 3600	NSEC3	1 0 0 - 9maf4ihidjon3cj8oulj3h271osn5ofq NS
+9maf4ihidjon3cj8oulj3h271osn5ofq.sa.cr. 3600	NSEC3	1 0 0 - dldrpikt4ijtjoh73bnfb1e0tcmfg06g NS
+dldrpikt4ijtjoh73bnfb1e0tcmfg06g.sa.cr. 3600	NSEC3	1 0 0 - eaj1tcufeg81fq4majqf900t4u8uqvgk NS
+eaj1tcufeg81fq4majqf900t4u8uqvgk.sa.cr. 3600	NSEC3	1 0 0 - eava2jd12k9i4l2d3qapdq2i1qicc0pf NS
+eava2jd12k9i4l2d3qapdq2i1qicc0pf.sa.cr. 3600	NSEC3	1 0 0 - edpeh2i7uev2rj52un966rc71hpf59qp NS
+edpeh2i7uev2rj52un966rc71hpf59qp.sa.cr. 3600	NSEC3	1 0 0 - ek4bf2m537pulou3b3m5nt400ll3pisp NS
+ek4bf2m537pulou3b3m5nt400ll3pisp.sa.cr. 3600	NSEC3	1 0 0 - f49jp6gcbka8eb7gg1penj7irn7584nt NS
+f49jp6gcbka8eb7gg1penj7irn7584nt.sa.cr. 3600	NSEC3	1 0 0 - gfcidsgdb0ceqrnladio0nrjl68nvvvu NS
+gfcidsgdb0ceqrnladio0nrjl68nvvvu.sa.cr. 3600	NSEC3	1 0 0 - i337h8t8v4fc1ln8h8sh9254jl1b2hbl NS
+i337h8t8v4fc1ln8h8sh9254jl1b2hbl.sa.cr. 3600	NSEC3	1 0 0 - k2c9kilmu0opigfjm7anq9i1qhdgojro NS
+k2c9kilmu0opigfjm7anq9i1qhdgojro.sa.cr. 3600	NSEC3	1 0 0 - kbi8j8qt4hmfgqqjmusimsovnnj98793 NS
+kbi8j8qt4hmfgqqjmusimsovnnj98793.sa.cr. 3600	NSEC3	1 0 0 - lbogq690mc0cad3df173pn40bnoaigmd NS
+lbogq690mc0cad3df173pn40bnoaigmd.sa.cr. 3600	NSEC3	1 0 0 - ni6jqp9m9ptlkdk6a2ale30jilt798h8 NS
+ni6jqp9m9ptlkdk6a2ale30jilt798h8.sa.cr. 3600	NSEC3	1 0 0 - nnnn8p0si3erhasjp48q5ujpnu8kigb5 NS
+nnnn8p0si3erhasjp48q5ujpnu8kigb5.sa.cr. 3600	NSEC3	1 0 0 - pihlk6ti8mcuvlok14468baevm50lev1 NS
+pihlk6ti8mcuvlok14468baevm50lev1.sa.cr. 3600	NSEC3	1 0 0 - pst74g4mhblp83m0cc96f8p04q0d07g9 NS
+pst74g4mhblp83m0cc96f8p04q0d07g9.sa.cr. 3600	NSEC3	1 0 0 - teirll43vpdghfrn2nuod0ig92fms7ju NS SOA RRSIG DNSKEY NSEC3PARAM
+teirll43vpdghfrn2nuod0ig92fms7ju.sa.cr. 3600	NSEC3	1 0 0 - vbt2vc1o5a9e64l5rud6gnqmfmil1e60 NS
+vbt2vc1o5a9e64l5rud6gnqmfmil1e60.sa.cr. 3600	NSEC3	1 0 0 - vm96c34rmkkoek6hefqvd24mljlu3isn NS
+vm96c34rmkkoek6hefqvd24mljlu3isn.sa.cr. 3600	NSEC3	1 0 0 - vvie3sugbuk2q72e9ss0jdvr5dlgksnl NS
+vvie3sugbuk2q72e9ss0jdvr5dlgksnl.sa.cr. 3600	NSEC3	1 0 0 - 09bmsl6boi0psuvbr9fnvcr3lblqcgoi NS
+;; DNSSEC NSEC3 signatures
+09bmsl6boi0psuvbr9fnvcr3lblqcgoi.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. K8PgR74aZys+Dsd+9AV8MuB+LNK2uyrNAxf+Dv+uxzimbnkCgyZTOazGNSfxlCoRoGGbLHXdBGVzl1T30xUJQQ==
+22p9dccusihe6ulk34iqibq1pvglm7k4.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. GyPmbJFzCwpcZXDKZtQqVppg5fYxsL9yOW3A8Hmp3Q5W2jh09gjh9LLLcQ9UNIQsopJX/f2nXz3swQ4Hy1yEQg==
+3k5jmo1mfeajfk9jgfkkmq8lki7h0n2e.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. YvUBBOa60dqHvOP9di5NgNqvlk8J5yPaleL3l1Ifmk8am7SZkzVWA9vfoM4JzLJRmWyGccxvrXkdaDDAGRoG3A==
+8mca1s6renl4lkcdj8n5k1562mjg4bf3.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. br/2IHpTmPsQglkddtxHlaYbda0iijo4PXV3JclysWW/on8Q4O3Yt1iq/pNmKHgCZH8br8UuESzwZcbn/ToNbA==
+9maf4ihidjon3cj8oulj3h271osn5ofq.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. nZReJ0NQI/4ZcdVhlNmbOsO/0gfyeWlGfv7yTR2XOKsGT+RjlSRMTFgAaw8eknr3vMgB2cWP1BbQsovuMYEauw==
+dldrpikt4ijtjoh73bnfb1e0tcmfg06g.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. D4a5Z9Vx4UH+x/GwBVZExau7oBKNJqfSCUtzKN3DQtkwd7RL8Kum8OyUTcrsyMpY820zOe8scAdT+aHq6CozSw==
+eaj1tcufeg81fq4majqf900t4u8uqvgk.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. CIR0PHUEhuYT6+lCHQP0Go5f2cncjgF8zDLNDxXuW8VfsNMq0OxNyO7GLul0j1092zYuA7Vw08k6HarikwCLoA==
+eava2jd12k9i4l2d3qapdq2i1qicc0pf.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. T6eeX9rft6WIGUEJgwAsTvugHpp5Wu0GroIqnYa2CBUs/+hlrOGBUTabhGxAJtT/iaxNppY78hSsAUWSfc1Ziw==
+edpeh2i7uev2rj52un966rc71hpf59qp.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. 5JQuRjXmRrNPgbJ0n+wfIU0Oq4dl47RFGsMALX9uh66kz3VQFYcxZ1BYUBYjh5tYaC44lXp0adioabQ1c8gvDA==
+ek4bf2m537pulou3b3m5nt400ll3pisp.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. KkiJYaxxo2vLdFCiWjSjsTduZCL/ZJaE+gPi0PG09pchrhfm88bo1y97OO6ePQWTpU9Sc9xoTAJTSf22UV84yQ==
+f49jp6gcbka8eb7gg1penj7irn7584nt.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. DLmptMywX3ugLmqNdhgORXJSRHQUTrjjJ517pSO3i33Ktkyz/aMH5kWPiTrSGCdiVp3AhUr+ejGdlW7KfnxbEg==
+gfcidsgdb0ceqrnladio0nrjl68nvvvu.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. hs9T0EP4Ug8u1edq3KN1kY3tCiN0VPcOAlNblbWDrPMYTEP6ThKVgyrtDbRJO71mNTqq3ry7O65PZATozMpCbA==
+i337h8t8v4fc1ln8h8sh9254jl1b2hbl.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. nvL/yXynX6wsiIU/YF/Y13l4BvwSxDVdPitZwhJURNvGHe95Pjen+blOxQCdRh5cAJ5czu2SJChxNrciWaxKhg==
+k2c9kilmu0opigfjm7anq9i1qhdgojro.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. Z2/u8PI17x9LI5nNbfWNZh3BM+tIiVT3hndsmI0JEuss5A9jEiMcRldGg3CTZQu/hYzFE8wlKwNB949whxCRMg==
+kbi8j8qt4hmfgqqjmusimsovnnj98793.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. imZlx77oz+ehvHX1HCPeAA3PvGv2LY67rwTYLlGuqbDasuABjOuDFsVROlak5u4YQtDhmWI2AkGeSPwwTXjEnA==
+lbogq690mc0cad3df173pn40bnoaigmd.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. sTDPXD3ekOIrZas5YApt1uT/UOtafVZhFZlzz6cT8hsmKsn6UFgt3bpjTLO/TAPQ3YGk50kNQkMfKjJhAN0uGA==
+ni6jqp9m9ptlkdk6a2ale30jilt798h8.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. JKqc972H6KPsDR2TBB1rStHhFruxYJ4NRvHGmWWjvU97QFaPh7qctni63t504FvMkK4BOacgEFuhlWWc8lX8uQ==
+nnnn8p0si3erhasjp48q5ujpnu8kigb5.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. Woa3GKCKJin6Vo5Dshn/+HxzPy8rEar2wt/6KZi0ivG1mxyztB1/gUoY9uP1DLrmCO0h7BD3OVjDVp5e6U/ZVA==
+pihlk6ti8mcuvlok14468baevm50lev1.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. ifvmz+jsnLQcyzkNMDngb4KNbaTzNX87EkkqpjKg4/iShzbSjX9HihQAYze4Uku4Aybu/n2SKzWUsaNvFMPyig==
+pst74g4mhblp83m0cc96f8p04q0d07g9.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. fyNIFBTf3K6g/1rWTCB8hZGdjs3qviyuR76ZJxy3OjCJD3RAwPVkDfOFLbv6Pv2z1aL9NahdleW8tG+ggGBsvw==
+teirll43vpdghfrn2nuod0ig92fms7ju.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. KCzBJciRDIG5obbEGpnvOlPDq/jD0CdYS9aVA6+x/KoAkuAGDBHw/6C3XoLDXZGrTTLKw9Cho+ZXPYhl7+jhOg==
+vbt2vc1o5a9e64l5rud6gnqmfmil1e60.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. 8WkPhi2Bu2x9ALhJOfMLB2ziW2nbrwX4PQjzPXz6GWakpk0On0wLasnB4v/O4RJCKIVszj9H41lnUEd1dtkRag==
+vm96c34rmkkoek6hefqvd24mljlu3isn.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. WULzgKPLL4qOCHwX/rqZ+Vhjz3dgTM22hbLxmewwI071WidcrrWOY3oHyyaf9VJbIEn5BIG4IYsg10VX70h/Tg==
+vvie3sugbuk2q72e9ss0jdvr5dlgksnl.sa.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105181504 20251022164504 60224 sa.cr. RZzpnmdt4vx85HqoRvyjGYPpqZIW8GeVZVfEk2C8olbhifoOt8R8+0vLyMEhSL1gAQZd4xJ53yjfr6B4fxWufA==
+;; Written 121 records
+;; Time 2025-10-23 10:45:03 CST

@@ -1,0 +1,88 @@
+#!/bin/bash
+
+SUBZONAS="ac.cr ed.cr sa.cr or.cr go.cr co.cr fi.cr"
+DNSDIR=/var/cache/bind
+
+rm -f /var/cache/bind/db*cr-*
+
+# Genera zonas en /var/cache/bind
+
+/usr/bin/genzone_client -z $DNSDIR $SUBZONAS
+/usr/bin/genzone_client -z $DNSDIR cr
+
+# Revisión de consistencia de los nuevos archivos
+
+#wc -l $DNSDIR/db.cr* | head -4 | awk '{print $1}' | perl -e '$dato1 = <>; chop ($dato1); $dato2 = <>; chop($dato2); $porcentaje = $dato1/$dato2; if ($porcentaje < 0.95) {exit(1);} else {exit(0);}'
+RC=$?
+
+#if [ $RC -eq 0 ] ; then
+#        for a in $SUBZONAS;do
+#             if [ $RC -eq 0 ] ; then
+#                wc -l $DNSDIR/db.$a* | head -2 | awk '{print $1}' | perl -e '$dato1 = <>; chop ($dato1); $dato2 = <>; chop($dato2); $porcentaje = $dato1/$dato2; if ($porcentaje < 0.95) {exit(1);} else {exit(0);}'
+#                RC=$?
+#             fi
+#        done
+#fi
+
+
+# Firma de subzonas
+
+for a in $SUBZONAS;  do
+	cat >> $DNSDIR/db.$a << EOF
+__EOF__.$a.  IN   TXT     "Zona correctamente generada, fecha `date`"
+EOF
+#	rsync  -e "ssh -p7879" -aq 200.107.82.12:/etc/bind/dssets/dsset-clientes.$a $DNSDIR/dssets
+	/usr/local/bin/firma.zona $a
+	logger "[DNSNIC] Zona $a firmada, `date`"
+done
+
+# Agrega a db.cr algunos dominios
+
+#if [ $RC -eq 0 ] ; then
+	cat >> $DNSDIR/db.cr << EOF
+email.cr.  		IN A       	163.178.8.2
+ns.cr.	    		MX 10   	email.cr.
+ns.cr.	   		IN A	   	163.178.8.2
+www.cr.			IN A		200.107.82.13
+			IN AAAA		2001:13c7:7004:1::13
+morales.cr. 		IN A   		200.107.82.16
+	    		IN AAAA 	2001:13c7:7004:1::16
+consejoconsultivo.cr. 	IN A   		200.107.82.16
+            		IN AAAA 	2001:13c7:7004:1::16
+www.consejoconsultivo.cr.   IN A        200.107.82.16
+                        IN AAAA         2001:13c7:7004:1::16
+whois.cr.		IN A		200.107.82.36
+			IN AAAA		2001:13c7:7004:1::36
+csirt.cr.		IN MX	10	asterix.crnet.cr.
+gallopinto.cr.		IN A		209.126.111.208
+www.gallopinto.cr.	IN A		209.126.111.208
+mascaradas.cr.		IN A		209.126.111.208
+www.mascaradas.cr.	IN A		209.126.111.208
+churchill.cr.		IN A		209.126.111.208
+www.churchill.cr.       IN A            209.126.111.208
+riceandbeans.cr.        IN A            209.126.111.208
+www.riceandbeans.cr.    IN A            209.126.111.208
+rocabruja.cr.        	IN A            209.126.111.208
+www.rocabruja.cr.       IN A            209.126.111.208
+volcan.cr.		IN A		209.126.111.208
+www.volcan.cr.          IN A            209.126.111.208
+carreta.cr.		IN A		209.126.111.208
+www.carreta.cr.         IN A            209.126.111.208		
+tamales.cr.             IN A            209.126.111.208
+www.tamales.cr.         IN A            209.126.111.208
+yosoy.cr.		IN A		200.107.82.13
+			IN AAAA		2001:13c7:7004:1::13
+www.yosoy.cr.           IN A            200.107.82.13
+                        IN AAAA         2001:13c7:7004:1::13
+__EOF__.cr.  IN   TXT     "Zona correctamente generada, fecha `date`"
+EOF
+# Obtiene los DS de clientes de .cr
+#rsync  -e "ssh -p7879" -aq 200.107.82.12:/etc/bind/dssets/dsset-clientes.cr $DNSDIR/dssets
+# Agrega DS de subdominios a zona .cr
+cat $DNSDIR/dsset-??.cr. $DNSDIR/dsset-crnet.cr. $DNSDIR/dsset-nic.cr.  >>  $DNSDIR/db.cr
+#fi
+
+# Firma zona .cr
+
+/usr/local/bin/firma.zona cr
+logger "[DNSNIC] Zona .cr firmada, fecha `date`"

@@ -1,0 +1,32 @@
+#!/bin/bash
+
+DNSDIR=/var/cache/bind
+#DNSDIR2=/var/tmp/bind
+
+rm -f /var/cache/bind/db.cr-*
+
+# Genera zonas en /var/cache/bind
+
+/usr/bin/genzone_client -z $DNSDIR cr
+
+# Agrega a db.cr algunos dominios
+
+#if [ $RC -eq 0 ] ; then
+	cat >> $DNSDIR/db.cr << EOF
+www.cr.			IN A		200.107.82.5
+			IN AAAA		2001:13c7:7004:1::5
+whois.cr.		IN A		200.107.82.36
+			IN AAAA		2001:13c7:7004:1::36
+__EOF__.cr.  IN   TXT     "Zona correctamente generada, fecha `date`"
+EOF
+# Obtiene los DS de clientes de .cr
+#rsync  -e "ssh -p7879" -aq 200.107.82.12:/etc/bind/dssets/dsset-clientes.cr $DNSDIR/dssets
+# Agrega DS de subdominios a zona .cr
+cat  $DNSDIR/dsset-??.cr. /var/tmp/dsset-all  >>  $DNSDIR/db.cr
+#fi
+#cat /var/tmp/dsset-viejos /var/tmp/dsset-all $DNSDIR/dsset-crnet.cr. $DNSDIR/dsset-nic.cr. >>  $DNSDIR/db.cr
+
+# Firma zona .cr
+
+/usr/local/bin/firma.zona.cr.respaldo
+logger "[DNSNIC] Zona .cr firmada, fecha `date`"

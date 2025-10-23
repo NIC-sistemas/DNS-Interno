@@ -1,0 +1,819 @@
+;; Zone dump (Knot DNS 3.4.6)
+ac.cr.              	3600	SOA	dns.nic.cr. ti.nic.cr. 1761237902 14400 3600 1209600 7200
+ac.cr.              	3600	NS	a.lactld.org.
+ac.cr.              	3600	NS	p.nic.cr.
+ac.cr.              	3600	NS	de.nic.cr.
+ac.cr.              	3600	NS	ca1.nic.cr.
+ac.cr.              	3600	NS	ca2.nic.cr.
+ac.cr.              	3600	NS	dns.nic.cr.
+ac.cr.              	86400	DNSKEY	256 3 13 F9f7W9zXijcFsNemyLqPklgx7nwKM19DFbUEFATBrUHCYnq2oqEhwXapubR7IvhcbVBs+yaRx633hgT4aPrHnQ==
+ac.cr.              	86400	DNSKEY	257 3 13 pgmpiHvPQWJ2P99Hy5Rtc2nSNM9iIp8+yqAiZhrzVWk6RknLcXkHeUPFrPX0vYStClKyBDAdwSfOKIZGX5t4Qw==
+ac.cr.              	3600	NSEC3PARAM	1 0 0 -
+aba.ac.cr.          	3600	NS	ns1.hostmonster.com.
+aba.ac.cr.          	3600	NS	ns2.hostmonster.com.
+acguanacaste.ac.cr. 	3600	NS	ns1.he.net.
+acguanacaste.ac.cr. 	3600	NS	ns2.he.net.
+acguanacaste.ac.cr. 	3600	NS	ns3.he.net.
+acguanacaste.ac.cr. 	3600	NS	ns4.he.net.
+acguanacaste.ac.cr. 	3600	NS	ns5.he.net.
+acl.ac.cr.          	3600	NS	dns2.easydns.net.
+acl.ac.cr.          	3600	NS	dns3.easydns.ca.
+admision.ac.cr.     	3600	NS	webconare.conare.ac.cr.
+admision.ac.cr.     	3600	NS	secundario.nic.cr.
+anc.ac.cr.          	3600	NS	ns.anc.cr.
+anc.ac.cr.          	3600	NS	secundario.nic.cr.
+aulainteramericana.ac.cr.	3600	NS	ns-198.awsdns-24.com.
+aulainteramericana.ac.cr.	3600	NS	ns-591.awsdns-09.net.
+aulainteramericana.ac.cr.	3600	NS	ns-1159.awsdns-16.org.
+aulainteramericana.ac.cr.	3600	NS	ns-1903.awsdns-45.co.uk.
+bibliotecacuc.ac.cr.	3600	NS	ns.admintekcr.net.
+bibliotecacuc.ac.cr.	3600	NS	ns1.admintekcr.net.
+bibliotecacuc.ac.cr.	3600	NS	ns2.admintekcr.net.
+boston.ac.cr.       	3600	NS	jade.ns.cloudflare.com.
+boston.ac.cr.       	3600	NS	lynn.ns.cloudflare.com.
+castrocarazo.ac.cr. 	3600	NS	love.ns.cloudflare.com.
+castrocarazo.ac.cr. 	3600	NS	noah.ns.cloudflare.com.
+catie.ac.cr.        	3600	NS	ns-477.awsdns-59.com.
+catie.ac.cr.        	3600	NS	ns-656.awsdns-18.net.
+catie.ac.cr.        	3600	NS	ns-1493.awsdns-58.org.
+cca.ac.cr.          	3600	NS	gsnsuned1.uned.ac.cr.
+cca.ac.cr.          	3600	NS	gsnsuned2.uned.ac.cr.
+cenat.ac.cr.        	3600	NS	tatsu.conare.ac.cr.
+cenat.ac.cr.        	3600	NS	webconare.conare.ac.cr.
+cenat.ac.cr.        	3600	NS	secundario.nic.cr.
+cenibiot.ac.cr.     	3600	NS	conare.ac.cr.
+cenibiot.ac.cr.     	3600	NS	webconare.conare.ac.cr.
+cenibiot.ac.cr.     	3600	NS	secundario.nic.cr.
+centrocultural.ac.cr.	3600	NS	ns1.centrocultural.cr.
+centrocultural.ac.cr.	3600	NS	ns2.centrocultural.cr.
+centrovirtual-ina.ac.cr.	3600	NS	ns75.domaincontrol.com.
+centrovirtual-ina.ac.cr.	3600	NS	ns76.domaincontrol.com.
+chifladuradoctorado.ac.cr.	3600	NS	ns1.cloud.ulasalle.ac.cr.
+chifladuradoctorado.ac.cr.	3600	NS	ns2.cloud.ulasalle.ac.cr.
+cisco.ac.cr.        	3600	NS	ns.una.ac.cr.
+cisco.ac.cr.        	3600	NS	ns2.una.ac.cr.
+cisco.ac.cr.        	3600	NS	ns3.una.ac.cr.
+conare.ac.cr.       	3600	NS	webconare.conare.ac.cr.
+conare.ac.cr.       	3600	NS	secundario.nic.cr.
+webconare.conare.ac.cr.	3600	A	201.201.219.41
+coned.ac.cr.        	3600	NS	pns21.cloudns.net.
+coned.ac.cr.        	3600	NS	pns22.cloudns.net.
+coned.ac.cr.        	3600	NS	pns23.cloudns.net.
+coned.ac.cr.        	3600	NS	pns24.cloudns.net.
+conozcasuescuela.ac.cr.	3600	NS	ns1.internet-costarica.com.
+conozcasuescuela.ac.cr.	3600	NS	ns2.internet-costarica.com.
+cordelariadna.ac.cr.	3600	NS	pns21.cloudns.net.
+cordelariadna.ac.cr.	3600	NS	pns22.cloudns.net.
+cordelariadna.ac.cr.	3600	NS	pns23.cloudns.net.
+cordelariadna.ac.cr.	3600	NS	pns24.cloudns.net.
+cuc.ac.cr.          	3600	NS	ns.admintekcr.net.
+cuc.ac.cr.          	3600	NS	ns2.admintekcr.net.
+cuc-carrera-ti.ac.cr.	3600	NS	ns1.racklodgedns.com.
+cuc-carrera-ti.ac.cr.	3600	NS	ns2.racklodgedns.com.
+cucvirtual.ac.cr.   	3600	NS	ns1.racklodgedns.com.
+cucvirtual.ac.cr.   	3600	NS	ns2.racklodgedns.com.
+cunlimon.ac.cr.     	3600	NS	ns1-34.azure-dns.com.
+cunlimon.ac.cr.     	3600	NS	ns2-34.azure-dns.net.
+cunlimon.ac.cr.     	3600	NS	ns3-34.azure-dns.org.
+cunlimon.ac.cr.     	3600	NS	ns3015.mochahost.com.
+cunlimon.ac.cr.     	3600	NS	ns4-34.azure-dns.info.
+cunlimon.ac.cr.     	3600	NS	ns4015.mochahost.com.
+daad-centroamerica.ac.cr.	3600	NS	tatsu.conare.ac.cr.
+daad-centroamerica.ac.cr.	3600	NS	webconare.conare.ac.cr.
+daad-centroamerica.ac.cr.	3600	NS	secundario.nic.cr.
+docinade.ac.cr.     	3600	NS	ns.admintekcr.net.
+docinade.ac.cr.     	3600	NS	ns1.admintekcr.net.
+docinade.ac.cr.     	3600	NS	ns2.admintekcr.net.
+doctoradoencienciasdelmovimientohumano.ac.cr. 3600	NS	ns.bpomark.com.
+doctoradoencienciasdelmovimientohumano.ac.cr. 3600	NS	secundario.nic.cr.
+earth.ac.cr.        	3600	NS	ns1.earth.ac.cr.
+earth.ac.cr.        	3600	NS	ns2.earth.ac.cr.
+ns1.earth.ac.cr.    	3600	A	186.32.1.178
+ns1.earth.ac.cr.    	3600	A	201.206.132.254
+ns1.earth.ac.cr.    	3600	A	201.207.42.2
+ns1.earth.ac.cr.    	3600	A	201.207.49.6
+ns1.earth.ac.cr.    	3600	A	201.207.97.2
+ns2.earth.ac.cr.    	3600	A	186.32.1.178
+ns2.earth.ac.cr.    	3600	A	201.206.132.253
+ns2.earth.ac.cr.    	3600	A	201.207.42.2
+ns2.earth.ac.cr.    	3600	A	201.207.49.6
+ns2.earth.ac.cr.    	3600	A	201.207.97.3
+ecc.ac.cr.          	3600	NS	love.ns.cloudflare.com.
+ecc.ac.cr.          	3600	NS	noah.ns.cloudflare.com.
+eccl.ac.cr.         	3600	NS	ns1.cyberfuel.com.
+eccl.ac.cr.         	3600	NS	ns2.cyberfuel.com.
+ecyt.ac.cr.         	3600	NS	ns1.hostactiva.com.
+ecyt.ac.cr.         	3600	NS	ns2.hostactiva.com.
+edusp.ac.cr.        	3600	NS	ns1.wordpress.com.
+edusp.ac.cr.        	3600	NS	ns2.wordpress.com.
+edusp.ac.cr.        	3600	NS	ns3.wordpress.com.
+esuaca.ac.cr.       	3600	NS	ns0.esuaca.ac.cr.
+esuaca.ac.cr.       	3600	NS	secundario.nic.cr.
+ns0.esuaca.ac.cr.   	3600	A	201.196.25.6
+etai.ac.cr.         	3600	NS	ns1.siteground.net.
+etai.ac.cr.         	3600	NS	ns2.siteground.net.
+federada.ac.cr.     	3600	NS	ns43.domaincontrol.com.
+federada.ac.cr.     	3600	NS	ns44.domaincontrol.com.
+flacso.ac.cr.       	3600	NS	ns1.bh-46.webhostbox.net.
+flacso.ac.cr.       	3600	NS	ns2.bh-46.webhostbox.net.
+fod.ac.cr.          	3600	NS	ns1-05.azure-dns.com.
+fod.ac.cr.          	3600	NS	ns2-05.azure-dns.net.
+fod.ac.cr.          	3600	NS	ns3-05.azure-dns.org.
+fod.ac.cr.          	3600	NS	ns4-05.azure-dns.info.
+fodinnova.ac.cr.    	3600	NS	ns1-08.azure-dns.com.
+fodinnova.ac.cr.    	3600	NS	ns2-08.azure-dns.net.
+fodinnova.ac.cr.    	3600	NS	ns3-08.azure-dns.org.
+fodinnova.ac.cr.    	3600	NS	ns4-08.azure-dns.info.
+fundacionucr.ac.cr. 	3600	NS	ns1-01.azure-dns.com.
+fundacionucr.ac.cr. 	3600	NS	ns2-01.azure-dns.net.
+fundacionucr.ac.cr. 	3600	NS	ns3-01.azure-dns.org.
+fundacionucr.ac.cr. 	3600	NS	ns4-01.azure-dns.info.
+fundatec.ac.cr.     	3600	NS	ns1-04.azure-dns.com.
+fundatec.ac.cr.     	3600	NS	ns2-04.azure-dns.net.
+fundatec.ac.cr.     	3600	NS	ns3-04.azure-dns.org.
+fundatec.ac.cr.     	3600	NS	ns4-04.azure-dns.info.
+fundepos.ac.cr.     	3600	NS	ns1.s1005.sureserver.com.
+fundepos.ac.cr.     	3600	NS	ns2.s1005.sureserver.com.
+globallearning.ac.cr.	3600	NS	achiel.ns.cloudflare.com.
+globallearning.ac.cr.	3600	NS	bonnie.ns.cloudflare.com.
+ic-itcr.ac.cr.      	3600	NS	ns-214.awsdns-26.com.
+ic-itcr.ac.cr.      	3600	NS	ns-680.awsdns-21.net.
+ic-itcr.ac.cr.      	3600	NS	ns-1307.awsdns-35.org.
+icai.ac.cr.         	3600	NS	ns.una.ac.cr.
+icai.ac.cr.         	3600	NS	ns2.una.ac.cr.
+icai.ac.cr.         	3600	NS	ns3.una.ac.cr.
+icap.ac.cr.         	3600	NS	ns-215.awsdns-26.com.
+icap.ac.cr.         	3600	NS	ns-669.awsdns-19.net.
+icap.ac.cr.         	3600	NS	ns-1076.awsdns-06.org.
+icap.ac.cr.         	3600	NS	ns-1915.awsdns-47.co.uk.
+iica.ac.cr.         	3600	NS	ns1-05.azure-dns.com.
+iica.ac.cr.         	3600	NS	ns2-05.azure-dns.net.
+iica.ac.cr.         	3600	NS	ns3-05.azure-dns.org.
+iica.ac.cr.         	3600	NS	ns4-05.azure-dns.info.
+iidh-jurisprudencia.ac.cr.	3600	NS	ns-404.awsdns-50.com.
+iidh-jurisprudencia.ac.cr.	3600	NS	ns-924.awsdns-51.net.
+iidh-jurisprudencia.ac.cr.	3600	NS	ns-1081.awsdns-07.org.
+iidh-jurisprudencia.ac.cr.	3600	NS	ns-1856.awsdns-40.co.uk.
+imn.ac.cr.          	3600	NS	ns1.imn.ac.cr.
+imn.ac.cr.          	3600	NS	ns2.imn.ac.cr.
+ns1.imn.ac.cr.      	3600	A	190.113.121.26
+ns2.imn.ac.cr.      	3600	A	190.113.121.25
+ina.ac.cr.          	3600	NS	auriga.ina.ac.cr.
+ina.ac.cr.          	3600	NS	pluton.ina.ac.cr.
+ina.ac.cr.          	3600	NS	auriga2.ina.ac.cr.
+auriga.ina.ac.cr.   	3600	A	186.177.94.4
+auriga2.ina.ac.cr.  	3600	A	186.177.94.36
+pluton.ina.ac.cr.   	3600	A	186.177.92.163
+ina-pidte.ac.cr.    	3600	NS	ns1-04.azure-dns.com.
+ina-pidte.ac.cr.    	3600	NS	ns2-04.azure-dns.net.
+ina-pidte.ac.cr.    	3600	NS	ns3-04.azure-dns.org.
+ina-pidte.ac.cr.    	3600	NS	ns4-04.azure-dns.info.
+inainscripcioncursos.ac.cr.	3600	NS	mns01.domaincontrol.com.
+inainscripcioncursos.ac.cr.	3600	NS	mns02.domaincontrol.com.
+inapruebas.ac.cr.   	3600	NS	ns1-03.azure-dns.com.
+inapruebas.ac.cr.   	3600	NS	ns2-03.azure-dns.net.
+inapruebas.ac.cr.   	3600	NS	ns3-03.azure-dns.org.
+inapruebas.ac.cr.   	3600	NS	ns4-03.azure-dns.info.
+inapymes.ac.cr.     	3600	NS	ns1.hermes-soft.com.
+inapymes.ac.cr.     	3600	NS	ns2.hermes-soft.com.
+inavirtual.ac.cr.   	3600	NS	ns1.bluehost.com.
+inavirtual.ac.cr.   	3600	NS	ns2.bluehost.com.
+inavirtual.ac.cr.   	3600	NS	reservado1.nic.cr.
+incae.ac.cr.        	3600	NS	ns-314.awsdns-39.com.
+incae.ac.cr.        	3600	NS	ns-613.awsdns-12.net.
+incae.ac.cr.        	3600	NS	ns-1163.awsdns-17.org.
+incae.ac.cr.        	3600	NS	ns-1945.awsdns-51.co.uk.
+incisa.ac.cr.       	3600	NS	adel.ns.cloudflare.com.
+incisa.ac.cr.       	3600	NS	alaric.ns.cloudflare.com.
+innova.ac.cr.       	3600	NS	ns.inmotionhosting.com.
+innova.ac.cr.       	3600	NS	ns2.inmotionhosting.com.
+institutosangerardo.ac.cr.	3600	NS	ns1.posys.ws.
+institutosangerardo.ac.cr.	3600	NS	ns2.posys.ws.
+invenio.ac.cr.      	3600	NS	dns2.continumcenter.com.
+invenio.ac.cr.      	3600	NS	dns3.continumcenter.com.
+ipa.ac.cr.          	3600	NS	ns-474.awsdns-59.com.
+ipa.ac.cr.          	3600	NS	ns-881.awsdns-46.net.
+ipa.ac.cr.          	3600	NS	ns-1328.awsdns-38.org.
+ipa.ac.cr.          	3600	NS	ns-1620.awsdns-10.co.uk.
+iparamedica.ac.cr.  	3600	NS	ns1.crservers.net.
+iparamedica.ac.cr.  	3600	NS	ns2.crservers.net.
+iparamedica.ac.cr.  	3600	NS	ns3.crservers.net.
+ipjimenez.ac.cr.    	3600	NS	ns.ipjimenez.ac.cr.
+ipjimenez.ac.cr.    	3600	NS	secundario.nic.cr.
+ns.ipjimenez.ac.cr. 	3600	A	206.153.38.226
+isd.ac.cr.          	3600	NS	ns1.siteground.net.
+isd.ac.cr.          	3600	NS	ns2.siteground.net.
+isesa.ac.cr.        	3600	NS	micah.ns.cloudflare.com.
+isesa.ac.cr.        	3600	NS	rihana.ns.cloudflare.com.
+itcr.ac.cr.         	3600	NS	ns1-07.azure-dns.com.
+itcr.ac.cr.         	3600	NS	ns2-07.azure-dns.net.
+itcr.ac.cr.         	3600	NS	ns3-07.azure-dns.org.
+itcr.ac.cr.         	3600	NS	ns4-07.azure-dns.info.
+jimenez.ac.cr.      	3600	NS	ns1.dns-parking.com.
+jimenez.ac.cr.      	3600	NS	ns2.dns-parking.com.
+kla.ac.cr.          	3600	NS	kla.itcr.ac.cr.
+kla.ac.cr.          	3600	NS	secundario.nic.cr.
+madc.ac.cr.         	3600	NS	ns.admintekcr.net.
+madc.ac.cr.         	3600	NS	ns1.admintekcr.net.
+madc.ac.cr.         	3600	NS	ns2.admintekcr.net.
+matriculacuc.ac.cr. 	3600	NS	ns.admintekcr.net.
+matriculacuc.ac.cr. 	3600	NS	ns1.admintekcr.net.
+matriculacuc.ac.cr. 	3600	NS	ns2.admintekcr.net.
+mccc-tec.ac.cr.     	3600	NS	ns1-37.azure-dns.com.
+mccc-tec.ac.cr.     	3600	NS	ns2-37.azure-dns.net.
+newhorizons.ac.cr.  	3600	NS	ns1.bdm.microsoftonline.com.
+newhorizons.ac.cr.  	3600	NS	ns2.bdm.microsoftonline.com.
+newhorizons.ac.cr.  	3600	NS	ns3.bdm.microsoftonline.com.
+newhorizons.ac.cr.  	3600	NS	ns4.bdm.microsoftonline.com.
+nosotrasenlapolitica.ac.cr.	3600	NS	ns1.he.net.
+nosotrasenlapolitica.ac.cr.	3600	NS	ns2.he.net.
+nosotrasenlapolitica.ac.cr.	3600	NS	ns3.he.net.
+nosotrasenlapolitica.ac.cr.	3600	NS	ns4.he.net.
+nosotrasenlapolitica.ac.cr.	3600	NS	ns5.he.net.
+observatoriotrata.ac.cr.	3600	NS	ns1.he.net.
+observatoriotrata.ac.cr.	3600	NS	ns2.he.net.
+observatoriotrata.ac.cr.	3600	NS	ns3.he.net.
+observatoriotrata.ac.cr.	3600	NS	ns4.he.net.
+observatoriotrata.ac.cr.	3600	NS	ns5.he.net.
+oet.ac.cr.          	3600	NS	ns1.ots.ac.cr.
+oet.ac.cr.          	3600	NS	rip.psg.com.
+olcoma.ac.cr.       	3600	NS	ns1.gridfast.net.
+olcoma.ac.cr.       	3600	NS	ns2.gridfast.net.
+ots.ac.cr.          	3600	NS	ns1.ots.ac.cr.
+ots.ac.cr.          	3600	NS	rip.psg.com.
+ns1.ots.ac.cr.      	3600	A	201.197.69.194
+plerus.ac.cr.       	3600	NS	ns41.cloudns.net.
+plerus.ac.cr.       	3600	NS	ns42.cloudns.net.
+plerus.ac.cr.       	3600	NS	ns43.cloudns.net.
+plerus.ac.cr.       	3600	NS	ns44.cloudns.net.
+prias.ac.cr.        	3600	NS	webconare.conare.ac.cr.
+prias.ac.cr.        	3600	NS	secundario.nic.cr.
+profuaca.ac.cr.     	3600	NS	ns0.profuaca.ac.cr.
+profuaca.ac.cr.     	3600	NS	secundario.nic.cr.
+ns0.profuaca.ac.cr. 	3600	A	201.196.25.6
+proyectosdigitales.ac.cr.	3600	NS	tim.ns.cloudflare.com.
+proyectosdigitales.ac.cr.	3600	NS	violet.ns.cloudflare.com.
+redconare.ac.cr.    	3600	NS	webconare.conare.ac.cr.
+redconare.ac.cr.    	3600	NS	secundario.nic.cr.
+revistacienciaysalud.ac.cr.	3600	NS	adel.ns.cloudflare.com.
+revistacienciaysalud.ac.cr.	3600	NS	alaric.ns.cloudflare.com.
+sedeiua.ac.cr.      	3600	NS	ns.sedeiua.ac.cr.
+sedeiua.ac.cr.      	3600	NS	secundario.nic.cr.
+ns.sedeiua.ac.cr.   	3600	A	201.201.219.41
+sinaes.ac.cr.       	3600	NS	pdns01.domaincontrol.com.
+sinaes.ac.cr.       	3600	NS	pdns02.domaincontrol.com.
+sirpc.ac.cr.        	3600	NS	srp.ucr.ac.cr.
+sirpc.ac.cr.        	3600	NS	secundario.nic.cr.
+siua.ac.cr.         	3600	NS	ns.siua.ac.cr.
+siua.ac.cr.         	3600	NS	ns2.siua.ac.cr.
+siua.ac.cr.         	3600	NS	ns3.siua.ac.cr.
+siua.ac.cr.         	3600	NS	ns4.siua.ac.cr.
+ns.siua.ac.cr.      	3600	A	181.193.87.2
+ns2.siua.ac.cr.     	3600	A	181.193.87.3
+ns3.siua.ac.cr.     	3600	A	201.204.76.211
+ns4.siua.ac.cr.     	3600	A	201.204.76.212
+skillscr.ac.cr.     	3600	NS	ns0.wixdns.net.
+skillscr.ac.cr.     	3600	NS	ns1.wixdns.net.
+soyboston.ac.cr.    	3600	NS	jade.ns.cloudflare.com.
+soyboston.ac.cr.    	3600	NS	lynn.ns.cloudflare.com.
+tec.ac.cr.          	3600	NS	ns1-08.azure-dns.com.
+tec.ac.cr.          	3600	NS	ns2-08.azure-dns.net.
+tec.ac.cr.          	3600	NS	ns3-08.azure-dns.org.
+tec.ac.cr.          	3600	NS	ns4-08.azure-dns.info.
+tecnosalud.ac.cr.   	3600	NS	ns71.domaincontrol.com.
+tecnosalud.ac.cr.   	3600	NS	ns72.domaincontrol.com.
+uaca.ac.cr.         	3600	NS	ns0.uaca.ac.cr.
+uaca.ac.cr.         	3600	NS	secundario.nic.cr.
+ns0.uaca.ac.cr.     	3600	A	201.196.25.6
+uam.ac.cr.          	3600	NS	ns1-32.azure-dns.com.
+uam.ac.cr.          	3600	NS	ns2-32.azure-dns.net.
+uam.ac.cr.          	3600	NS	ns3-32.azure-dns.org.
+uam.ac.cr.          	3600	NS	ns4-32.azure-dns.info.
+ubcarrillo.ac.cr.   	3600	NS	ns1.hosting506.com.
+ubcarrillo.ac.cr.   	3600	NS	ns2.hosting506.com.
+ubcarrillo.ac.cr.   	3600	NS	ns3.hosting506.com.
+ubcarrillo.ac.cr.   	3600	NS	ns4.hosting506.com.
+ubcarrillo.ac.cr.   	3600	NS	ns5.hosting506.com.
+ubl.ac.cr.          	3600	NS	dns1.spainbs.net.
+ubl.ac.cr.          	3600	NS	dns2.spainbs.net.
+uc.ac.cr.           	3600	NS	woz.ns.cloudflare.com.
+uc.ac.cr.           	3600	NS	elly.ns.cloudflare.com.
+uca.ac.cr.          	3600	NS	ns1.bdm.microsoftonline.com.
+uca.ac.cr.          	3600	NS	ns2.bdm.microsoftonline.com.
+uca.ac.cr.          	3600	NS	ns3.bdm.microsoftonline.com.
+uca.ac.cr.          	3600	NS	ns4.bdm.microsoftonline.com.
+ucacis.ac.cr.       	3600	NS	ns1.siteground.net.
+ucacis.ac.cr.       	3600	NS	ns2.siteground.net.
+ucatolica.ac.cr.    	3600	NS	hans.ns.cloudflare.com.
+ucatolica.ac.cr.    	3600	NS	kate.ns.cloudflare.com.
+ucatolica.ac.cr.    	3600	DS	2371 13 2 9571F3E65725BD6D696ED3C6E43702E687E7429FD895BA56D5FE9C7263B87119
+uccart.ac.cr.       	3600	NS	laura.ns.cloudflare.com.
+uccart.ac.cr.       	3600	NS	oswald.ns.cloudflare.com.
+ucec.ac.cr.         	3600	NS	ns1.hosting506.com.
+ucec.ac.cr.         	3600	NS	ns2.hosting506.com.
+ucec.ac.cr.         	3600	NS	ns3.hosting506.com.
+ucec.ac.cr.         	3600	NS	ns4.hosting506.com.
+ucec.ac.cr.         	3600	NS	ns5.hosting506.com.
+ucem.ac.cr.         	3600	NS	ns-186.awsdns-23.com.
+ucem.ac.cr.         	3600	NS	ns-352.awsdns-44.com.
+ucem.ac.cr.         	3600	NS	ns-709.awsdns-24.net.
+ucem.ac.cr.         	3600	NS	ns-1052.awsdns-03.org.
+ucem.ac.cr.         	3600	NS	ns-1259.awsdns-29.org.
+ucem.ac.cr.         	3600	NS	ns-1558.awsdns-02.co.uk.
+ucenfotec.ac.cr.    	3600	NS	dns-ca.pointhq.com.
+ucenfotec.ac.cr.    	3600	NS	dns-fr.pointhq.com.
+ucenfotec.ac.cr.    	3600	NS	dns-uk.pointhq.com.
+ucenfotec.ac.cr.    	3600	NS	dns-us.pointhq.com.
+ucentral.ac.cr.     	3600	NS	rip.psg.com.
+ucentral.ac.cr.     	3600	NS	dns1.internexo.com.
+ucentral.ac.cr.     	3600	NS	dns2.internexo.com.
+uci.ac.cr.          	3600	NS	jim.ns.cloudflare.com.
+uci.ac.cr.          	3600	NS	monika.ns.cloudflare.com.
+uciarte.ac.cr.      	3600	NS	ns22.neothek.com.
+uciarte.ac.cr.      	3600	NS	ns23.neothek.com.
+ucimed.ac.cr.       	3600	NS	adel.ns.cloudflare.com.
+ucimed.ac.cr.       	3600	NS	alaric.ns.cloudflare.com.
+ucr.ac.cr.          	3600	NS	ns1.ucr.ac.cr.
+ucr.ac.cr.          	3600	NS	ns2.ucr.ac.cr.
+ucr.ac.cr.          	3600	NS	secundario.nic.cr.
+ns1.ucr.ac.cr.      	3600	A	163.178.88.4
+ns2.ucr.ac.cr.      	3600	A	163.178.84.4
+ucreativa.ac.cr.    	3600	NS	evan.ns.cloudflare.com.
+ucreativa.ac.cr.    	3600	NS	alice.ns.cloudflare.com.
+udelascienciasyelarte.ac.cr.	3600	NS	ns43.domaincontrol.com.
+udelascienciasyelarte.ac.cr.	3600	NS	ns44.domaincontrol.com.
+udelascienciasyelarte.ac.cr.	3600	NS	ns91.neothek.com.
+udelascienciasyelarte.ac.cr.	3600	NS	ns92.neothek.com.
+udelascienciasyelarte.ac.cr.	3600	NS	pdns07.domaincontrol.com.
+udelascienciasyelarte.ac.cr.	3600	NS	pdns08.domaincontrol.com.
+udelascienciasyelarte.ac.cr.	3600	NS	secundario.nic.cr.
+uescuelalibre.ac.cr.	3600	NS	ns01.sitcocr.com.
+uescuelalibre.ac.cr.	3600	NS	ns02.sitcocr.com.
+ufederada.ac.cr.    	3600	NS	ns15.domaincontrol.com.
+ufederada.ac.cr.    	3600	NS	ns16.domaincontrol.com.
+ufide.ac.cr.        	3600	NS	pdns09.domaincontrol.com.
+ufide.ac.cr.        	3600	NS	pdns10.domaincontrol.com.
+ufidelitas.ac.cr.   	3600	NS	ns-431.awsdns-53.com.
+ufidelitas.ac.cr.   	3600	NS	ns-1012.awsdns-62.net.
+ufidelitas.ac.cr.   	3600	NS	ns-1284.awsdns-32.org.
+ufidelitas.ac.cr.   	3600	NS	ns-1664.awsdns-16.co.uk.
+uh.ac.cr.           	3600	NS	pdns07.domaincontrol.com.
+uh.ac.cr.           	3600	NS	pdns08.domaincontrol.com.
+uhispano.ac.cr.     	3600	NS	pdns07.domaincontrol.com.
+uhispano.ac.cr.     	3600	NS	pdns08.domaincontrol.com.
+uia.ac.cr.          	3600	NS	ns-406.awsdns-50.com.
+uia.ac.cr.          	3600	NS	ns-705.awsdns-24.net.
+uia.ac.cr.          	3600	NS	ns-1232.awsdns-26.org.
+uia.ac.cr.          	3600	NS	ns-1788.awsdns-31.co.uk.
+uin.ac.cr.          	3600	NS	ns1.he.net.
+uin.ac.cr.          	3600	NS	ns2.he.net.
+uin.ac.cr.          	3600	NS	ns3.he.net.
+uin.ac.cr.          	3600	NS	ns4.he.net.
+uin.ac.cr.          	3600	NS	ns5.he.net.
+uindependiente.ac.cr.	3600	NS	ns71.domaincontrol.com.
+uindependiente.ac.cr.	3600	NS	ns72.domaincontrol.com.
+uisil.ac.cr.        	3600	NS	ns1.uisil.ac.cr.
+uisil.ac.cr.        	3600	NS	ns2.uisil.ac.cr.
+ns1.uisil.ac.cr.    	3600	A	205.234.134.47
+ns2.uisil.ac.cr.    	3600	A	205.234.134.47
+ujpii.ac.cr.        	3600	NS	chuck.ns.cloudflare.com.
+ujpii.ac.cr.        	3600	NS	angelina.ns.cloudflare.com.
+ulacit.ac.cr.       	3600	NS	nile.ns.cloudflare.com.
+ulacit.ac.cr.       	3600	NS	melinda.ns.cloudflare.com.
+ulasalle.ac.cr.     	3600	NS	ns1.cloud.ulasalle.ac.cr.
+ulasalle.ac.cr.     	3600	NS	ns2.cloud.ulasalle.ac.cr.
+ns1.cloud.ulasalle.ac.cr.	3600	A	162.214.101.140
+ns2.cloud.ulasalle.ac.cr.	3600	A	162.214.101.142
+ulatina.ac.cr.      	3600	NS	ns1-33.azure-dns.com.
+ulatina.ac.cr.      	3600	NS	ns2-33.azure-dns.net.
+ulatina.ac.cr.      	3600	NS	ns3-33.azure-dns.org.
+ulatina.ac.cr.      	3600	NS	ns4-33.azure-dns.info.
+ulead.ac.cr.        	3600	NS	ns-394.awsdns-49.com.
+ulead.ac.cr.        	3600	NS	ns-997.awsdns-60.net.
+ulead.ac.cr.        	3600	NS	ns-1522.awsdns-62.org.
+ulead.ac.cr.        	3600	NS	ns-1852.awsdns-39.co.uk.
+ulicori.ac.cr.      	3600	NS	pns41.cloudns.net.
+ulicori.ac.cr.      	3600	NS	pns42.cloudns.net.
+ulicori.ac.cr.      	3600	NS	pns43.cloudns.net.
+ulicori.ac.cr.      	3600	NS	pns44.cloudns.net.
+um.ac.cr.           	3600	NS	dns1.sered.net.
+um.ac.cr.           	3600	NS	dns2.sered.net.
+umagister.ac.cr.    	3600	NS	ns1.dns-parking.com.
+umagister.ac.cr.    	3600	NS	ns2.dns-parking.com.
+umetodista.ac.cr.   	3600	NS	ns1.site5.com.
+umetodista.ac.cr.   	3600	NS	ns2.site5.com.
+umtccr.ac.cr.       	3600	NS	ns1.inmotionhosting.com.
+umtccr.ac.cr.       	3600	NS	ns2.inmotionhosting.com.
+una.ac.cr.          	3600	NS	ns.una.ac.cr.
+una.ac.cr.          	3600	NS	ns2.una.ac.cr.
+una.ac.cr.          	3600	NS	ns3.una.ac.cr.
+una.ac.cr.          	3600	NS	ns6.una.ac.cr.
+ns.una.ac.cr.       	3600	A	45.162.204.31
+ns2.una.ac.cr.      	3600	A	45.162.204.32
+ns3.una.ac.cr.      	3600	A	45.162.204.33
+ns6.una.ac.cr.      	3600	A	172.200.171.166
+unadeca.ac.cr.      	3600	NS	ns1909215823.a2dns.com.
+unadeca.ac.cr.      	3600	NS	ns1909215853.a2dns.com.
+uned.ac.cr.         	3600	NS	pns21.cloudns.net.
+uned.ac.cr.         	3600	NS	pns22.cloudns.net.
+uned.ac.cr.         	3600	NS	pns23.cloudns.net.
+uned.ac.cr.         	3600	NS	pns24.cloudns.net.
+unela.ac.cr.        	3600	NS	ns1.dns-parking.com.
+unela.ac.cr.        	3600	NS	ns2.dns-parking.com.
+uneotropical.ac.cr. 	3600	NS	ns1.tico-net.com.
+uneotropical.ac.cr. 	3600	NS	ns2.tico-net.com.
+unibe.ac.cr.        	3600	NS	ns1.siteground.net.
+unibe.ac.cr.        	3600	NS	ns2.siteground.net.
+universidadcentral.ac.cr.	3600	NS	ns1.bdm.microsoftonline.com.
+universidadcentral.ac.cr.	3600	NS	ns2.bdm.microsoftonline.com.
+universidaddesanjose.ac.cr.	3600	NS	ns7051.banahosting.com.
+universidaddesanjose.ac.cr.	3600	NS	ns7052.banahosting.com.
+universidadsanjose.ac.cr.	3600	NS	micah.ns.cloudflare.com.
+universidadsanjose.ac.cr.	3600	NS	rihana.ns.cloudflare.com.
+universidadsantalucia.ac.cr.	3600	NS	ns-251.awsdns-31.com.
+universidadsantalucia.ac.cr.	3600	NS	ns-844.awsdns-41.net.
+universidadsantalucia.ac.cr.	3600	NS	ns-1356.awsdns-41.org.
+universidadsantalucia.ac.cr.	3600	NS	ns-1866.awsdns-41.co.uk.
+upa.ac.cr.          	3600	NS	ns5928.banahosting.com.
+upa.ac.cr.          	3600	NS	ns5929.banahosting.com.
+upanamericana.ac.cr.	3600	NS	ns12.wixdns.net.
+upanamericana.ac.cr.	3600	NS	ns13.wixdns.net.
+upanamericana.ac.cr.	3600	NS	sedac.upanamericana.ac.cr.
+sedac.upanamericana.ac.cr.	3600	A	95.217.84.152
+upe.ac.cr.          	3600	NS	ns1-02.azure-dns.com.
+upe.ac.cr.          	3600	NS	ns2-02.azure-dns.net.
+upe.ac.cr.          	3600	NS	ns3-02.azure-dns.org.
+upe.ac.cr.          	3600	NS	ns4-02.azure-dns.info.
+upi.ac.cr.          	3600	NS	cash.ns.cloudflare.com.
+upi.ac.cr.          	3600	NS	elaine.ns.cloudflare.com.
+usam.ac.cr.         	3600	NS	mina.ns.cloudflare.com.
+usam.ac.cr.         	3600	NS	giancarlo.ns.cloudflare.com.
+usanjuandelacruz.ac.cr.	3600	NS	ns1.a2hosting.com.
+usanjuandelacruz.ac.cr.	3600	NS	ns2.a2hosting.com.
+usanjuandelacruz.ac.cr.	3600	NS	ns3.a2hosting.com.
+usanjudas.ac.cr.    	3600	NS	trevor.ns.cloudflare.com.
+usanjudas.ac.cr.    	3600	NS	addyson.ns.cloudflare.com.
+usanmarcos.ac.cr.   	3600	NS	kai.ns.cloudflare.com.
+usanmarcos.ac.cr.   	3600	NS	melinda.ns.cloudflare.com.
+usantalucia.ac.cr.  	3600	NS	ns1.bluehost.com.
+usantalucia.ac.cr.  	3600	NS	ns2.bluehost.com.
+usantapaula.ac.cr.  	3600	NS	ns1.bdm.microsoftonline.com.
+usantapaula.ac.cr.  	3600	NS	ns2.bdm.microsoftonline.com.
+usantapaula.ac.cr.  	3600	NS	ns3.bdm.microsoftonline.com.
+usantapaula.ac.cr.  	3600	NS	ns4.bdm.microsoftonline.com.
+usj.ac.cr.          	3600	NS	micah.ns.cloudflare.com.
+usj.ac.cr.          	3600	NS	rihana.ns.cloudflare.com.
+usjnicoya.ac.cr.    	3600	NS	ns1.hostmail.com.
+usjnicoya.ac.cr.    	3600	NS	ns2.hostmail.com.
+usl.ac.cr.          	3600	NS	ns1.uslgecai.com.
+usl.ac.cr.          	3600	NS	ns2.uslgecai.com.
+utac.ac.cr.         	3600	NS	ns0.wixdns.net.
+utac.ac.cr.         	3600	NS	ns1.wixdns.net.
+utc.ac.cr.          	3600	NS	ns1.dns-parking.com.
+utc.ac.cr.          	3600	NS	ns2.dns-parking.com.
+utn.ac.cr.          	3600	NS	ns1.utn.ac.cr.
+utn.ac.cr.          	3600	NS	ns2.utn.ac.cr.
+ns1.utn.ac.cr.      	3600	A	201.205.255.49
+ns2.utn.ac.cr.      	3600	A	200.229.5.210
+utur.ac.cr.         	3600	NS	ns1.racklodgedns.com.
+utur.ac.cr.         	3600	NS	ns2.racklodgedns.com.
+uveritas.ac.cr.     	3600	NS	ns-452.awsdns-56.com.
+uveritas.ac.cr.     	3600	NS	ns-697.awsdns-23.net.
+uveritas.ac.cr.     	3600	NS	ns-1337.awsdns-39.org.
+uveritas.ac.cr.     	3600	NS	ns-1598.awsdns-07.co.uk.
+uvirtual.ac.cr.     	3600	NS	ns1.dns-parking.com.
+uvirtual.ac.cr.     	3600	NS	ns2.dns-parking.com.
+veterinariaveritas.ac.cr.	3600	NS	ns1.tico-net.com.
+veterinariaveritas.ac.cr.	3600	NS	ns2.tico-net.com.
+;; DNSSEC signatures
+ac.cr.              	3600	RRSIG	NS 13 2 3600 20251101021503 20251018004503 51935 ac.cr. Sp0I8XUm4WH4MwVztLVzF2WqMJDQkym+WTSdqM09eZtxDZftjbM7ZgSyQlmvzk6Ig+B7wkTWy/mWrSiGevQ0aw==
+ac.cr.              	3600	RRSIG	SOA 13 2 3600 20251106164502 20251023151502 51935 ac.cr. rS8rl18c2NlRMcRTN6d87lnxP7Kad1v3cwFKGnSsQoeB9U0vevHgbxhn9yxj3sGOQIfMSj046iEbRxkJ7V+Dgg==
+ac.cr.              	86400	RRSIG	DNSKEY 13 2 86400 20251102061448 20251019044448 56795 ac.cr. egwHtyx2KbXJvp7otzMZYHeAxpJDk66Pu9Ou+qPmqHHzBVx5u7jlVNH9dLexE6IjuC3QqvWzH/HCxCHHlktKUQ==
+ac.cr.              	3600	RRSIG	NSEC3PARAM 13 2 3600 20251101021503 20251018004503 51935 ac.cr. UgTfL4idLBL/zs3abRmzukL8vE7QLcGs5OK/MjrKyLALCAhdCFTOqzDuQ+ElJj5VCuWFPlJvTq10CAKTO1X+/A==
+ucatolica.ac.cr.    	3600	RRSIG	DS 13 3 3600 20251101021503 20251018004503 51935 ac.cr. P0H/76iocmjOFBP5NGZGjnQPqurvQAtAKV/rFD9pkj6DD+QI3eVLoZKjLTb61UwTdPo9AvBxaVPwN+oqly4yFg==
+;; DNSSEC NSEC3 chain
+093jvs9e6hd9dai96pbe40hri1cf9e8j.ac.cr. 3600	NSEC3	1 0 0 - 0h1dlm4skh4a7ilau3v1sjrhs31vks3c NS
+0h1dlm4skh4a7ilau3v1sjrhs31vks3c.ac.cr. 3600	NSEC3	1 0 0 - 0j2dsjen5hjnbd37baugj80qssa4usnd NS
+0j2dsjen5hjnbd37baugj80qssa4usnd.ac.cr. 3600	NSEC3	1 0 0 - 0kqi09eate9vj6pa8625ie5be6s859eo NS
+0kqi09eate9vj6pa8625ie5be6s859eo.ac.cr. 3600	NSEC3	1 0 0 - 1522m76utg1kg392v65e0s85vu8vfm64 NS
+1522m76utg1kg392v65e0s85vu8vfm64.ac.cr. 3600	NSEC3	1 0 0 - 1bifgsamqedi131kh70dc88vfdchmmqs NS
+1bifgsamqedi131kh70dc88vfdchmmqs.ac.cr. 3600	NSEC3	1 0 0 - 1fc1n46ar2quqd6688vhlr6ddrj7ejae NS
+1fc1n46ar2quqd6688vhlr6ddrj7ejae.ac.cr. 3600	NSEC3	1 0 0 - 1fus3kt6mu3c2rqngbjd2e59r9fn18on NS
+1fus3kt6mu3c2rqngbjd2e59r9fn18on.ac.cr. 3600	NSEC3	1 0 0 - 1heq2eipgtednr1ck6g6du8crio4r6a6 NS
+1heq2eipgtednr1ck6g6du8crio4r6a6.ac.cr. 3600	NSEC3	1 0 0 - 1jhmp7vpium3jfikleijfan3qblef86h NS
+1jhmp7vpium3jfikleijfan3qblef86h.ac.cr. 3600	NSEC3	1 0 0 - 1r8jjn64fbdpogt71v3avqr4qfvolltp NS
+1r8jjn64fbdpogt71v3avqr4qfvolltp.ac.cr. 3600	NSEC3	1 0 0 - 1svg9vkvd5u9t68733gt2ighk92521gr NS
+1svg9vkvd5u9t68733gt2ighk92521gr.ac.cr. 3600	NSEC3	1 0 0 - 1u6h38t98noglt2luu8b1sc32ffhco4f NS
+1u6h38t98noglt2luu8b1sc32ffhco4f.ac.cr. 3600	NSEC3	1 0 0 - 1v1758v5n9525e8i2227haptk09iep1h NS
+1v1758v5n9525e8i2227haptk09iep1h.ac.cr. 3600	NSEC3	1 0 0 - 20koco6v64ne2nl9r0oj4u4jrplr6toh NS
+20koco6v64ne2nl9r0oj4u4jrplr6toh.ac.cr. 3600	NSEC3	1 0 0 - 22peg853vbkbd0v4tlnssb5mvv6pprs2 NS
+22peg853vbkbd0v4tlnssb5mvv6pprs2.ac.cr. 3600	NSEC3	1 0 0 - 25r2ufpc78j46t3ba3kudrjvb1qph2tr NS
+25r2ufpc78j46t3ba3kudrjvb1qph2tr.ac.cr. 3600	NSEC3	1 0 0 - 2deskisqhjot6h51cob1ph9qlijj5lar NS
+2deskisqhjot6h51cob1ph9qlijj5lar.ac.cr. 3600	NSEC3	1 0 0 - 2g06qk8f0covsjf82ups50jevrcrcg83 NS
+2g06qk8f0covsjf82ups50jevrcrcg83.ac.cr. 3600	NSEC3	1 0 0 - 30vfnttc48fmmksf0sghcq2vft5hj8h3 NS DS RRSIG
+30vfnttc48fmmksf0sghcq2vft5hj8h3.ac.cr. 3600	NSEC3	1 0 0 - 35h4ervv45eq0ghb3tc0bgbralf51fef NS
+35h4ervv45eq0ghb3tc0bgbralf51fef.ac.cr. 3600	NSEC3	1 0 0 - 3738ftgptoh2lpnbp2gdpujf76m60n5v NS
+3738ftgptoh2lpnbp2gdpujf76m60n5v.ac.cr. 3600	NSEC3	1 0 0 - 38lo40lcb77e9afu0fvqbfkbnmpoe2nv NS
+38lo40lcb77e9afu0fvqbfkbnmpoe2nv.ac.cr. 3600	NSEC3	1 0 0 - 3b9pr859r9a8sqrsn9htqd616po28jlm NS
+3b9pr859r9a8sqrsn9htqd616po28jlm.ac.cr. 3600	NSEC3	1 0 0 - 3cqhlkege7quhlhh3lg6gb7f0pdrpiqi NS
+3cqhlkege7quhlhh3lg6gb7f0pdrpiqi.ac.cr. 3600	NSEC3	1 0 0 - 3fbvba99ro9vlt20d02jfup0r5tq00da NS
+3fbvba99ro9vlt20d02jfup0r5tq00da.ac.cr. 3600	NSEC3	1 0 0 - 3i33f63i24qhcg5ls0jf9p45rgoacl49 NS
+3i33f63i24qhcg5ls0jf9p45rgoacl49.ac.cr. 3600	NSEC3	1 0 0 - 3j18ulm97vguio35mui76kahnl3uta2e NS
+3j18ulm97vguio35mui76kahnl3uta2e.ac.cr. 3600	NSEC3	1 0 0 - 3omg447t7giu2nonboqb3hq0r27tumm5 NS
+3omg447t7giu2nonboqb3hq0r27tumm5.ac.cr. 3600	NSEC3	1 0 0 - 3ruetgnfg4jsabhbgtg5ahei3en00ab5 NS
+3ruetgnfg4jsabhbgtg5ahei3en00ab5.ac.cr. 3600	NSEC3	1 0 0 - 405nevqu63t16bfue3ti22fcpns8nb71 NS
+405nevqu63t16bfue3ti22fcpns8nb71.ac.cr. 3600	NSEC3	1 0 0 - 4a2m70c95034dmvnr2nhinkh2gmnkpnm NS
+4a2m70c95034dmvnr2nhinkh2gmnkpnm.ac.cr. 3600	NSEC3	1 0 0 - 4hn41s32s4pp22sq3mhorf71f0dt9e71 NS
+4hn41s32s4pp22sq3mhorf71f0dt9e71.ac.cr. 3600	NSEC3	1 0 0 - 4lls7sdf2nsnic28e11oev2m1qklhsd8 NS
+4lls7sdf2nsnic28e11oev2m1qklhsd8.ac.cr. 3600	NSEC3	1 0 0 - 4o4ps0mj8cgsqoib0tfj28t7sme1p4bb NS
+4o4ps0mj8cgsqoib0tfj28t7sme1p4bb.ac.cr. 3600	NSEC3	1 0 0 - 62l58g9f00ll1niluuf9njejkig9st2f NS
+62l58g9f00ll1niluuf9njejkig9st2f.ac.cr. 3600	NSEC3	1 0 0 - 6goc07bmvnj4ijcpq5qragm5or3bs3sb NS
+6goc07bmvnj4ijcpq5qragm5or3bs3sb.ac.cr. 3600	NSEC3	1 0 0 - 6ooih45hnp02bo2dmf3s07fe6u9ec33a NS
+6ooih45hnp02bo2dmf3s07fe6u9ec33a.ac.cr. 3600	NSEC3	1 0 0 - 6q6jb97mt5gu6g4c4j5iq79nkv28unhc NS
+6q6jb97mt5gu6g4c4j5iq79nkv28unhc.ac.cr. 3600	NSEC3	1 0 0 - 6v6a4ukhpu1pbds7238gs499lsv5sa18 NS
+6v6a4ukhpu1pbds7238gs499lsv5sa18.ac.cr. 3600	NSEC3	1 0 0 - 778pvg2r9j3r5l6t19h1v3sjednro3ri NS
+778pvg2r9j3r5l6t19h1v3sjednro3ri.ac.cr. 3600	NSEC3	1 0 0 - 7fn2ien6tqc3oeqqqi0uaa9j1thfggqg NS
+7fn2ien6tqc3oeqqqi0uaa9j1thfggqg.ac.cr. 3600	NSEC3	1 0 0 - 7p4kgl2d1daa5a70l3k8jhu1cu7dj5jr NS
+7p4kgl2d1daa5a70l3k8jhu1cu7dj5jr.ac.cr. 3600	NSEC3	1 0 0 - 7ru4tj76prbfp41jrecjju59sl7vm14t NS
+7ru4tj76prbfp41jrecjju59sl7vm14t.ac.cr. 3600	NSEC3	1 0 0 - 7u0eis52nl5gfu0qagd7ktd8vaer8ga8 NS
+7u0eis52nl5gfu0qagd7ktd8vaer8ga8.ac.cr. 3600	NSEC3	1 0 0 - 87ogeeppotk69aoum21jcljgfmqomdsc NS
+87ogeeppotk69aoum21jcljgfmqomdsc.ac.cr. 3600	NSEC3	1 0 0 - 8a9ius49sibl12i7kheo4q7fn673t98q NS
+8a9ius49sibl12i7kheo4q7fn673t98q.ac.cr. 3600	NSEC3	1 0 0 - 8kqe1ejv3gokqnk0i9m1719quk93gi9g NS
+8kqe1ejv3gokqnk0i9m1719quk93gi9g.ac.cr. 3600	NSEC3	1 0 0 - 8p4ricrr7o5iec029llbnd1eic4oucif NS
+8p4ricrr7o5iec029llbnd1eic4oucif.ac.cr. 3600	NSEC3	1 0 0 - 8rnscic6h53ar4n9ul0koof9358187vr NS
+8rnscic6h53ar4n9ul0koof9358187vr.ac.cr. 3600	NSEC3	1 0 0 - 8usv16ju5vpnnmjh7ltfdfe7rdh7scp2 NS
+8usv16ju5vpnnmjh7ltfdfe7rdh7scp2.ac.cr. 3600	NSEC3	1 0 0 - 9134acf1p573jc6gcqngk3jpioetdeiv NS
+9134acf1p573jc6gcqngk3jpioetdeiv.ac.cr. 3600	NSEC3	1 0 0 - 968l8nt4thsu5p2tj9me4jhksa3nrdlh NS
+968l8nt4thsu5p2tj9me4jhksa3nrdlh.ac.cr. 3600	NSEC3	1 0 0 - 9b03i7i252nik8htuks16h1n0ukofb4c NS
+9b03i7i252nik8htuks16h1n0ukofb4c.ac.cr. 3600	NSEC3	1 0 0 - 9nrh3u7hjvk0ukiocf2t5g715u3a6drp NS
+9nrh3u7hjvk0ukiocf2t5g715u3a6drp.ac.cr. 3600	NSEC3	1 0 0 - a29mubjb2ecuresvofgvs5s5p6o0ngpm NS
+a29mubjb2ecuresvofgvs5s5p6o0ngpm.ac.cr. 3600	NSEC3	1 0 0 - a47s3adu5dr79nmp5f9iqht0jfbgscof NS
+a47s3adu5dr79nmp5f9iqht0jfbgscof.ac.cr. 3600	NSEC3	1 0 0 - a4jjkgqddjnpfijb5d3hppe181s79tm3 NS
+a4jjkgqddjnpfijb5d3hppe181s79tm3.ac.cr. 3600	NSEC3	1 0 0 - a7j0d4dif5v812iq167mtq7r1m6kudaf NS
+a7j0d4dif5v812iq167mtq7r1m6kudaf.ac.cr. 3600	NSEC3	1 0 0 - ac15fgrf2pco9l4beq94h0rshpres9vf NS
+ac15fgrf2pco9l4beq94h0rshpres9vf.ac.cr. 3600	NSEC3	1 0 0 - aedplj3rpr8dggfce4bfv56gtlvqqk8f NS
+aedplj3rpr8dggfce4bfv56gtlvqqk8f.ac.cr. 3600	NSEC3	1 0 0 - ahsin4oldp7labl28bv11lpmeqrrp6eo NS
+ahsin4oldp7labl28bv11lpmeqrrp6eo.ac.cr. 3600	NSEC3	1 0 0 - ak4ai3vdc70u92ugmtma75gd2cmli06h NS
+ak4ai3vdc70u92ugmtma75gd2cmli06h.ac.cr. 3600	NSEC3	1 0 0 - atcvsf86scmhs2jbcumi1fsii1frfr7j NS
+atcvsf86scmhs2jbcumi1fsii1frfr7j.ac.cr. 3600	NSEC3	1 0 0 - atliqlh73jhiqd5pj0raehleaprr8857 NS
+atliqlh73jhiqd5pj0raehleaprr8857.ac.cr. 3600	NSEC3	1 0 0 - aua8lkpucflnf10fss9etndjjipbib6h NS
+aua8lkpucflnf10fss9etndjjipbib6h.ac.cr. 3600	NSEC3	1 0 0 - b1iaq5sslqg81ju2httf9e904qt4rr8n NS
+b1iaq5sslqg81ju2httf9e904qt4rr8n.ac.cr. 3600	NSEC3	1 0 0 - bavmbbf2anjjish8sn2l5tr6cn5617t2 NS
+bavmbbf2anjjish8sn2l5tr6cn5617t2.ac.cr. 3600	NSEC3	1 0 0 - bedj3783pulppccft4q03lbmlu8nup3b NS
+bedj3783pulppccft4q03lbmlu8nup3b.ac.cr. 3600	NSEC3	1 0 0 - bjcfecuip91mt4r9i2obqdehm191lhbc NS
+bjcfecuip91mt4r9i2obqdehm191lhbc.ac.cr. 3600	NSEC3	1 0 0 - c2dekevl3v4np0rqq4a26ddk709i3p9j NS
+c2dekevl3v4np0rqq4a26ddk709i3p9j.ac.cr. 3600	NSEC3	1 0 0 - c74520uq6rorj4gmkacoque39bh26nor NS
+c74520uq6rorj4gmkacoque39bh26nor.ac.cr. 3600	NSEC3	1 0 0 - c9ah4rsr21nk3ns0k29d4p4l98ofmohg NS
+c9ah4rsr21nk3ns0k29d4p4l98ofmohg.ac.cr. 3600	NSEC3	1 0 0 - c9apurso034m60ht4ec6v4mubh9gatkq NS
+c9apurso034m60ht4ec6v4mubh9gatkq.ac.cr. 3600	NSEC3	1 0 0 - c9rkqs38qbrvgl0oej30tgkuokc7vabc NS
+c9rkqs38qbrvgl0oej30tgkuokc7vabc.ac.cr. 3600	NSEC3	1 0 0 - cin3u39d7o18l1b127atuj12cmkbn54s NS
+cin3u39d7o18l1b127atuj12cmkbn54s.ac.cr. 3600	NSEC3	1 0 0 - ck8aknmd3rdb3lcud6tcuafr1h6rk2mv NS
+ck8aknmd3rdb3lcud6tcuafr1h6rk2mv.ac.cr. 3600	NSEC3	1 0 0 - cnnqc40s4an4eme7esh6i2d0cnc1d3ng NS
+cnnqc40s4an4eme7esh6i2d0cnc1d3ng.ac.cr. 3600	NSEC3	1 0 0 - cofac1mfntkcfgq0og35vg0icr0ho6je NS
+cofac1mfntkcfgq0og35vg0icr0ho6je.ac.cr. 3600	NSEC3	1 0 0 - cph4rlbjnc7n38fi2tj90dv6i8n65otl NS
+cph4rlbjnc7n38fi2tj90dv6i8n65otl.ac.cr. 3600	NSEC3	1 0 0 - d24sjouafhnnhku024emekt6rtkvjvsc NS
+d24sjouafhnnhku024emekt6rtkvjvsc.ac.cr. 3600	NSEC3	1 0 0 - dlg1rac4r8uo722jh5upbhbcfias0f8a NS
+dlg1rac4r8uo722jh5upbhbcfias0f8a.ac.cr. 3600	NSEC3	1 0 0 - dmh6l1apnsiahrll9j897radc5jc9hu6 NS
+dmh6l1apnsiahrll9j897radc5jc9hu6.ac.cr. 3600	NSEC3	1 0 0 - dq0hnmo7ug8aces109cmuq7id8ri26nl NS
+dq0hnmo7ug8aces109cmuq7id8ri26nl.ac.cr. 3600	NSEC3	1 0 0 - dq9obheclnlh18i1v5nq12ontjc7akkl NS
+dq9obheclnlh18i1v5nq12ontjc7akkl.ac.cr. 3600	NSEC3	1 0 0 - dr8jg5unagricgn2tjhglls5ce5lh9hi NS
+dr8jg5unagricgn2tjhglls5ce5lh9hi.ac.cr. 3600	NSEC3	1 0 0 - e728us38eu1k3g7ckkdorof8f0872mpr NS
+e728us38eu1k3g7ckkdorof8f0872mpr.ac.cr. 3600	NSEC3	1 0 0 - fhv7cfi91l0nark3q9069s6elfg4a5bb NS
+fhv7cfi91l0nark3q9069s6elfg4a5bb.ac.cr. 3600	NSEC3	1 0 0 - fjreecfoj03mn3g82f4ski5fav5fkiec NS
+fjreecfoj03mn3g82f4ski5fav5fkiec.ac.cr. 3600	NSEC3	1 0 0 - g0dp0ro8lujr39c53f2oq13k7p5c4amp NS
+g0dp0ro8lujr39c53f2oq13k7p5c4amp.ac.cr. 3600	NSEC3	1 0 0 - g2bs7mngm5iqlv7r3nsbm4us27e0p4u8 NS
+g2bs7mngm5iqlv7r3nsbm4us27e0p4u8.ac.cr. 3600	NSEC3	1 0 0 - g6li5i4u1p8cn2frhbr28g87cstde8uo NS
+g6li5i4u1p8cn2frhbr28g87cstde8uo.ac.cr. 3600	NSEC3	1 0 0 - grvdcohgogbj4viottik993ahb0ejrgh NS
+grvdcohgogbj4viottik993ahb0ejrgh.ac.cr. 3600	NSEC3	1 0 0 - h2e4noqdivufh0ovdod1hc8kmhmrqch4 NS
+h2e4noqdivufh0ovdod1hc8kmhmrqch4.ac.cr. 3600	NSEC3	1 0 0 - hjmbbl8d6tafc3gmr4uolcuvfr1lmmo8 NS
+hjmbbl8d6tafc3gmr4uolcuvfr1lmmo8.ac.cr. 3600	NSEC3	1 0 0 - hov8b9qs3k0m5413aksbfstptcrjv74m NS
+hov8b9qs3k0m5413aksbfstptcrjv74m.ac.cr. 3600	NSEC3	1 0 0 - i0m5hgg0kvp5u9hopqne00mjsl5vpmhm NS
+i0m5hgg0kvp5u9hopqne00mjsl5vpmhm.ac.cr. 3600	NSEC3	1 0 0 - i49kabhsvqvuh6509n0k9ec5kamon4lu NS
+i49kabhsvqvuh6509n0k9ec5kamon4lu.ac.cr. 3600	NSEC3	1 0 0 - iem3k4q91lmus4frrm867ksigmak3tth NS
+iem3k4q91lmus4frrm867ksigmak3tth.ac.cr. 3600	NSEC3	1 0 0 - is8dm5d3q7dp0cbbeffej801d1g0g18p NS
+is8dm5d3q7dp0cbbeffej801d1g0g18p.ac.cr. 3600	NSEC3	1 0 0 - itts7f9d6b10j8atrnuo5noa05s4755l NS
+itts7f9d6b10j8atrnuo5noa05s4755l.ac.cr. 3600	NSEC3	1 0 0 - ivn0e1lto7c8927i5vlm4lqtluaeqcbq NS
+ivn0e1lto7c8927i5vlm4lqtluaeqcbq.ac.cr. 3600	NSEC3	1 0 0 - jba0h045nn9s3r1ibb0to6j2nhdeokei NS
+jba0h045nn9s3r1ibb0to6j2nhdeokei.ac.cr. 3600	NSEC3	1 0 0 - jbfm5287o7no8etfhcrjvfestsdhpevi NS
+jbfm5287o7no8etfhcrjvfestsdhpevi.ac.cr. 3600	NSEC3	1 0 0 - jjpqp67hb715cphecih912pknd96fb68 NS
+jjpqp67hb715cphecih912pknd96fb68.ac.cr. 3600	NSEC3	1 0 0 - jk8jc7tkfd2i5bm0te6ap6iqj8u6jrfn NS
+jk8jc7tkfd2i5bm0te6ap6iqj8u6jrfn.ac.cr. 3600	NSEC3	1 0 0 - jpsc1edioe2e0bjb93vo8gk349r1lff0 NS
+jpsc1edioe2e0bjb93vo8gk349r1lff0.ac.cr. 3600	NSEC3	1 0 0 - k4060ron50a5opn8m98db6o54mcoodgr NS
+k4060ron50a5opn8m98db6o54mcoodgr.ac.cr. 3600	NSEC3	1 0 0 - k96muq57rrijdva9butgh5qe1b4vu600 NS
+k96muq57rrijdva9butgh5qe1b4vu600.ac.cr. 3600	NSEC3	1 0 0 - l6seu58apg7d7u689rvf3r3din7185jh NS
+l6seu58apg7d7u689rvf3r3din7185jh.ac.cr. 3600	NSEC3	1 0 0 - l7a2n93ml7k16pprq4i3c245c5hga0cg NS
+l7a2n93ml7k16pprq4i3c245c5hga0cg.ac.cr. 3600	NSEC3	1 0 0 - l9g7lgjj99ccu97qu3i8gafjl4e7rjr5 NS
+l9g7lgjj99ccu97qu3i8gafjl4e7rjr5.ac.cr. 3600	NSEC3	1 0 0 - lc87lmchvrfv128vjhars2h5iq72qo89 NS
+lc87lmchvrfv128vjhars2h5iq72qo89.ac.cr. 3600	NSEC3	1 0 0 - lp89nl332g7sg07ibb0v29j9posmglve NS
+lp89nl332g7sg07ibb0v29j9posmglve.ac.cr. 3600	NSEC3	1 0 0 - lscd37jrf0r0hkhiagun940uhoie4mle NS
+lscd37jrf0r0hkhiagun940uhoie4mle.ac.cr. 3600	NSEC3	1 0 0 - lsoodlp8c79v765ei0ujh0t197p701gc NS
+lsoodlp8c79v765ei0ujh0t197p701gc.ac.cr. 3600	NSEC3	1 0 0 - ltud4oejg8f4nvftudvo65dd3vgna2oe NS
+ltud4oejg8f4nvftudvo65dd3vgna2oe.ac.cr. 3600	NSEC3	1 0 0 - mf3jfqur4v39ecli7oo45bj58pm7anpj NS
+mf3jfqur4v39ecli7oo45bj58pm7anpj.ac.cr. 3600	NSEC3	1 0 0 - n298dos7lvg62tfgl7kvum59ghvr8cpb NS
+n298dos7lvg62tfgl7kvum59ghvr8cpb.ac.cr. 3600	NSEC3	1 0 0 - n2uo1lt8gdipe1a5fif4j48gg33etsh6 NS
+n2uo1lt8gdipe1a5fif4j48gg33etsh6.ac.cr. 3600	NSEC3	1 0 0 - n3fnq7v8cuntq5ntb9keqv9gq37f6hgh NS
+n3fnq7v8cuntq5ntb9keqv9gq37f6hgh.ac.cr. 3600	NSEC3	1 0 0 - n6jh2jk1cj8b5o1e7knegdu64fd3mrs0 NS
+n6jh2jk1cj8b5o1e7knegdu64fd3mrs0.ac.cr. 3600	NSEC3	1 0 0 - ncji5ul652p1affgb7gddsp0khh287ac NS
+ncji5ul652p1affgb7gddsp0khh287ac.ac.cr. 3600	NSEC3	1 0 0 - nf3hvchj4stprqu4limlnspjqhnudvvt NS
+nf3hvchj4stprqu4limlnspjqhnudvvt.ac.cr. 3600	NSEC3	1 0 0 - nhatcg2qpo95tsrctkc6303fcamc9ug3 NS
+nhatcg2qpo95tsrctkc6303fcamc9ug3.ac.cr. 3600	NSEC3	1 0 0 - nj96d8b73pm7e47o2v494m5a17abdm0d NS
+nj96d8b73pm7e47o2v494m5a17abdm0d.ac.cr. 3600	NSEC3	1 0 0 - o9nta9876v3ks0p8pe6mtjucls5thn1f NS
+o9nta9876v3ks0p8pe6mtjucls5thn1f.ac.cr. 3600	NSEC3	1 0 0 - og4nv826ekl2p2f1cmq5n0hr1cnogpg2 NS
+og4nv826ekl2p2f1cmq5n0hr1cnogpg2.ac.cr. 3600	NSEC3	1 0 0 - ojck4shikit89bpj7dk58bbcfa801o0o NS
+ojck4shikit89bpj7dk58bbcfa801o0o.ac.cr. 3600	NSEC3	1 0 0 - oq5je4lla7idgl8bhgudstchfmltt998 NS
+oq5je4lla7idgl8bhgudstchfmltt998.ac.cr. 3600	NSEC3	1 0 0 - ovdn63njgmud59qg1624umppqsefn2i7 NS
+ovdn63njgmud59qg1624umppqsefn2i7.ac.cr. 3600	NSEC3	1 0 0 - p0bgrntoickacen2lcumg0u9t7666bi7 NS
+p0bgrntoickacen2lcumg0u9t7666bi7.ac.cr. 3600	NSEC3	1 0 0 - p59dhtd3vck5ma75sru7che42q67rto8 NS
+p59dhtd3vck5ma75sru7che42q67rto8.ac.cr. 3600	NSEC3	1 0 0 - p6s3t9g9o1vu0t220briq62rvdosl4bg NS
+p6s3t9g9o1vu0t220briq62rvdosl4bg.ac.cr. 3600	NSEC3	1 0 0 - psjbj337estfg1r7os65oa2eqgbhf8cn NS
+psjbj337estfg1r7os65oa2eqgbhf8cn.ac.cr. 3600	NSEC3	1 0 0 - qgmst3qnk4b2oi5fb9m548gfa0559kih NS
+qgmst3qnk4b2oi5fb9m548gfa0559kih.ac.cr. 3600	NSEC3	1 0 0 - qlmg7fpkr5f9nthe6412d0ira6g5nicj NS
+qlmg7fpkr5f9nthe6412d0ira6g5nicj.ac.cr. 3600	NSEC3	1 0 0 - qpncm592gqfm6mf86i3o59tig8askiku NS SOA RRSIG DNSKEY NSEC3PARAM
+qpncm592gqfm6mf86i3o59tig8askiku.ac.cr. 3600	NSEC3	1 0 0 - r18gtff84erlq4ei3kgvbotcoi5djs5c NS
+r18gtff84erlq4ei3kgvbotcoi5djs5c.ac.cr. 3600	NSEC3	1 0 0 - r5o55l0l87ipj5nfohneihnp5uv6885p NS
+r5o55l0l87ipj5nfohneihnp5uv6885p.ac.cr. 3600	NSEC3	1 0 0 - r65sp5n629bll2609r2dci5mmicdqk2c NS
+r65sp5n629bll2609r2dci5mmicdqk2c.ac.cr. 3600	NSEC3	1 0 0 - rhnc4hshtv1kqhqpa852ucm2se0v3ivv NS
+rhnc4hshtv1kqhqpa852ucm2se0v3ivv.ac.cr. 3600	NSEC3	1 0 0 - ru0evu3kvkopfnt69mn428uodapoipvn NS
+ru0evu3kvkopfnt69mn428uodapoipvn.ac.cr. 3600	NSEC3	1 0 0 - s9n0jntj1o3uun4gnkctb4ratuuug75t NS
+s9n0jntj1o3uun4gnkctb4ratuuug75t.ac.cr. 3600	NSEC3	1 0 0 - shdlvhlpg96ole4u6nbcaa0ac8ji1im2 NS
+shdlvhlpg96ole4u6nbcaa0ac8ji1im2.ac.cr. 3600	NSEC3	1 0 0 - sl4bvpg24kpbbhvmgiv48kjevshe5nqe NS
+sl4bvpg24kpbbhvmgiv48kjevshe5nqe.ac.cr. 3600	NSEC3	1 0 0 - sn2lldoeg4ko4g29b678ofvh30m8rfdv NS
+sn2lldoeg4ko4g29b678ofvh30m8rfdv.ac.cr. 3600	NSEC3	1 0 0 - st8vsmup7o4ea7m7v2mpecp0avabqusq NS
+st8vsmup7o4ea7m7v2mpecp0avabqusq.ac.cr. 3600	NSEC3	1 0 0 - t3tqlaeb6dnjlsuu53uqgkp93ac4mi7c NS
+t3tqlaeb6dnjlsuu53uqgkp93ac4mi7c.ac.cr. 3600	NSEC3	1 0 0 - t68poj4upg58klmm3q72n945dg7vu11e NS
+t68poj4upg58klmm3q72n945dg7vu11e.ac.cr. 3600	NSEC3	1 0 0 - tjlslo6tgrjgdcqf7s43khgq9rlo8a6b NS
+tjlslo6tgrjgdcqf7s43khgq9rlo8a6b.ac.cr. 3600	NSEC3	1 0 0 - tjv0fsi0pafjg3q8vp0v5bem7f7s3cmp NS
+tjv0fsi0pafjg3q8vp0v5bem7f7s3cmp.ac.cr. 3600	NSEC3	1 0 0 - tp2nhv9maqrg5slm8bbd6cr1snj8dtkp NS
+tp2nhv9maqrg5slm8bbd6cr1snj8dtkp.ac.cr. 3600	NSEC3	1 0 0 - tsshl0rd1kk047ajqrm3r3qfu4uqsnbj NS
+tsshl0rd1kk047ajqrm3r3qfu4uqsnbj.ac.cr. 3600	NSEC3	1 0 0 - u1torqku7rfnmtlls40bslakq4b1638c NS
+u1torqku7rfnmtlls40bslakq4b1638c.ac.cr. 3600	NSEC3	1 0 0 - uil8e3fcmpc0slc7e9kccrqhcshd0rqp NS
+uil8e3fcmpc0slc7e9kccrqhcshd0rqp.ac.cr. 3600	NSEC3	1 0 0 - uj52huktjrh6093qqr67vb5fgpeguoou NS
+uj52huktjrh6093qqr67vb5fgpeguoou.ac.cr. 3600	NSEC3	1 0 0 - vb42535g131lhrt6lc66h41l0as6o15u NS
+vb42535g131lhrt6lc66h41l0as6o15u.ac.cr. 3600	NSEC3	1 0 0 - vfj4c34nbjirtvs9m3camf7orpj8bv0l NS
+vfj4c34nbjirtvs9m3camf7orpj8bv0l.ac.cr. 3600	NSEC3	1 0 0 - vjq0qp03pdsjtdds0766v7rqvjah6t32 NS
+vjq0qp03pdsjtdds0766v7rqvjah6t32.ac.cr. 3600	NSEC3	1 0 0 - vqd1u43e7cta9057fu7snts7s1hteuku NS
+vqd1u43e7cta9057fu7snts7s1hteuku.ac.cr. 3600	NSEC3	1 0 0 - 093jvs9e6hd9dai96pbe40hri1cf9e8j NS
+;; DNSSEC NSEC3 signatures
+093jvs9e6hd9dai96pbe40hri1cf9e8j.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. mcPam5RR1qC2jzBTIi/QDj3xn2Wg70Y2vscH2eDijSJUcNobsnXlhEMMDoR5G45seDF1jCoC3xaqVmAoTFXBOg==
+0h1dlm4skh4a7ilau3v1sjrhs31vks3c.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. h0IKiBQKVjkYEQ+UVcKZn0XrNydDAAiwGOC+/FmGH6FVAfmmjW9h1RDvFYI5G2fKCTGLGX13mlL3RfguXHhJdg==
+0j2dsjen5hjnbd37baugj80qssa4usnd.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. BNMXdAUvR+A3hREZUl98gzernTXLI7zhcnKGprmWDNi/J77Wy8ZbWM9yrKQ6Q8Fryaj19dWSjBLU9hvvvG8YyQ==
+0kqi09eate9vj6pa8625ie5be6s859eo.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. aEMmuuj3N+zQx31j+5xPIX3ZTr0ScHpbB0YERMESk4pySkv9S99CL+NiRcLiXA0Vt0QjgECaurlf3J+WBUjaig==
+1522m76utg1kg392v65e0s85vu8vfm64.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. ZPRlqRFE7IxK9s7ZyD5eUWdNU7WTK2RmLxeFOMFazkv4lpqvWUdSkOBFmwjQgpbGSNjy/hMeyXfRenFA+OCh4Q==
+1bifgsamqedi131kh70dc88vfdchmmqs.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 6tn9DcaTJl6IRL4fCiqK6ByPP/Pj2KRXQmBuwkOVeR2vqiDTAtpG9U0/t3Gz466gDbZdAogv+BtMBIYNGHukAQ==
+1fc1n46ar2quqd6688vhlr6ddrj7ejae.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. bhFPhdy7d417nl6iZnbAZ5urYnFBvCpKnI2YceKmslYkxMdrWM5tvTGcQu5aIHUppsQJ5ydFQca4B339q5Qk3w==
+1fus3kt6mu3c2rqngbjd2e59r9fn18on.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. TOM/6Ts1QNzKNYFU5rEzJedNo1jLRP36OgeDRc5+q907wW7DYp+uYR/4O+ydHHraaK75JqeEix8UyyxQO/O8tA==
+1heq2eipgtednr1ck6g6du8crio4r6a6.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. u/1HaDISxBgMBW+V9tuHqc36WEjSheXzdNBYYKFd9kmwwYdchu61Tr3r74aIFzI6kUgtRNZD0DI1ZQwOnbVJiA==
+1jhmp7vpium3jfikleijfan3qblef86h.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. gZaTad5Jo8DPxG/gH1QTyInRj6HzIWic/NB30ZgCN0iHXDJphvocRV0Nf1gsqlMAKDVE9i8nTD/VG9gvJ9k7gA==
+1r8jjn64fbdpogt71v3avqr4qfvolltp.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 9TJIToJjwY5EWXT8rGkvHFBhjBB9S2vTXXkSrmngLCiq4kheyIBKR5PiELjZKTnuc+A4UdHdK+GLtOedoh8f0w==
+1svg9vkvd5u9t68733gt2ighk92521gr.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. RLOjK3Da3Sy13M7CwPxGDmyaDmIe3TC1Z9qrV8xVNW/GTnYxQfav3RsWSFPLAJD5PIE+E0Fg4zqxItrE+8ggeA==
+1u6h38t98noglt2luu8b1sc32ffhco4f.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. GUvKJqPm3sKlDBrQZiRaodUlY8mPp3szzrDNVN+KUxrs7H+GDWgiVgHLkd8sQ58kQIXkiYlM5mQkbRXuRd+esQ==
+1v1758v5n9525e8i2227haptk09iep1h.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 41Zz9sJndJ4Ha3Jodcq/OYiSSgM3aRvj6eJXq5ETajbyIWijLDS8L6hFHuJviuIRON9BQeNjIC2BPPf+EJuJFQ==
+20koco6v64ne2nl9r0oj4u4jrplr6toh.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. Kp1E1qklwOG1EGnaOnGbHI6fYwx2E1pJhfZahXwr9XJ6gD6gBnvxkHaQdxHLGc76AzO51gAFZMa7BbMUoNVnaQ==
+22peg853vbkbd0v4tlnssb5mvv6pprs2.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. LKkI+MRA6uTjcFRae9+c02aldUIhQOGosFJ7tj6SAyAATJDiJG6tnFlhEips87YFCrKg7HESVJGegbQMiY+b2A==
+25r2ufpc78j46t3ba3kudrjvb1qph2tr.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 9XZfxf2B2T3nBv3iiSh+rkjh3VknnqBZ+k23d5rYg3C4lyIe+g1JJRvlqfd6XvaKeJGF7za6kgp7yD25XC28pw==
+2deskisqhjot6h51cob1ph9qlijj5lar.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. mMH6T9n0AlU7QJEe86v6jBe0IWdAcWtESIAeSIaB49VD/0TJfzFGY9iuK9IF7aHpJNQ/ztU2G+ZwXtgpTJRYOA==
+2g06qk8f0covsjf82ups50jevrcrcg83.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. ebj712RcO9iKkLUVQHh51R8x5b4R1daSwX+d8h6tvz7mNT1orMRTHvuewpKiApacs1oKQsqHwd2Wb9UiJMDmbA==
+30vfnttc48fmmksf0sghcq2vft5hj8h3.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. EchskgmJqbYgmLc0u74Fdt/YdnZl5dY9usg3FX2jOIp+axLnpwejt+Nq4WZ25zvn09n8VDBdwKhPttJsQRbB5Q==
+35h4ervv45eq0ghb3tc0bgbralf51fef.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. IhrTFOBdBWl+kWgLtTWMREid+6EQOa3LL7wyspwW3Tu0T9/9GEafXtFT/QxIQoy9FBxXpUdicAi/etx/LXMCcA==
+3738ftgptoh2lpnbp2gdpujf76m60n5v.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. VpECWvgUbj7HOuOZt6Rxx2JZHW/D038j0JfrN8l83FFN0oLQZPtDH1qoQ+zZLpEcYXzRxd9nybYybZcrN/u5Ag==
+38lo40lcb77e9afu0fvqbfkbnmpoe2nv.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. UlpwS44ZNoFJx4vNEGKPrDlDErkAoOlsY/BYmz9L8Z/AdGn0OumwIz3a030CD9tvrKcbs3YNiJoXChFqxnB6XA==
+3b9pr859r9a8sqrsn9htqd616po28jlm.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. vW8xS70ffdm9JvD+oo3riY5WhR9E/gVbEVXuGPTcYYWGnIPbzVWvk7+9NV6lHwA2mi+VJTn8a8PaMJZvmM0Y8g==
+3cqhlkege7quhlhh3lg6gb7f0pdrpiqi.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. GFu6H4fSKsLTH3i/GFNsu2htU2TGcAUsjG4N8a7GTAWSFzH2Ya0tmbpvsPJIZRjtvEA214sGTa4npVEZLyjibw==
+3fbvba99ro9vlt20d02jfup0r5tq00da.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. wh7DfTil2BEIDqaNYErn4oCkowIl5lS1iM22KDjNicbOm70oj/oyBq+wmDjNxd6J4c584kKgaQR3QdFB+LGPsA==
+3i33f63i24qhcg5ls0jf9p45rgoacl49.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. f9U78iS43HMcmNE3F3S477voTq723i5fNpZ5DaHhHrZ2YK/nMij9dZaxHoEdItbphlO4b4aezpml0+WvZbMVmg==
+3j18ulm97vguio35mui76kahnl3uta2e.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. NUFSnVQl3zXStIR20j18nlAMbK52ggW6AdmORERL9oMhAVhTL/L6riup/+X7uKGzIWu9JhgxEj2moBaSbLZKcw==
+3omg447t7giu2nonboqb3hq0r27tumm5.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. TWZfZK7dM4VRaBe4kBOIcPwdbmYqJKBDSNKf90nao1jP85oGiqz9B/+yuZ8JFgUl9fXhV522y5awNW8lvxSSOg==
+3ruetgnfg4jsabhbgtg5ahei3en00ab5.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. ZgO/O5cBcg45eGz6fEblSIGrKS2nkmqNhA4YNun2UstTnyLUxAadHhgydEfLiqKyET7Bq9EZsuto/mKyasP/LQ==
+405nevqu63t16bfue3ti22fcpns8nb71.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. xvdFB/5CmBTh56D2KDLgBkx7xXKajl+UQ06ocxYrG0mWS2ZD+4INbf5NWoi6tO2Q/LyLoIw05e8A/mz/6EfWkg==
+4a2m70c95034dmvnr2nhinkh2gmnkpnm.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. HJBrB8kfnAEPiO3raJEV+/SGh76r0aR2WgePvPfyv0qKIchzZPloxJzUnH5NLCAuaePOcdo8TYobDE+U/fvw+w==
+4hn41s32s4pp22sq3mhorf71f0dt9e71.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. ald43Q7LnfB3PRZg5EnhDOXT2kfUByHdKT1k5aaQPMQF71cf+rSR0xAxTzjxIbx+j3jmYaRIkafmYjV0rnL/nQ==
+4lls7sdf2nsnic28e11oev2m1qklhsd8.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. qICVxF05Rw9JnF0usiBbslQTnB3a/8i8nSx3ZVng2plTLPIUCN/T9dQgmNXcndjFTp3+zDeNfpr0WauJ1QDygg==
+4o4ps0mj8cgsqoib0tfj28t7sme1p4bb.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. yCJrrDPboHLOKdIFeAtuqsDJ+600syGFG81kt8/SQMaVRkA0yh7uREAaYaPI0TUPW+r3ykx32jVUZad5qeSOcw==
+62l58g9f00ll1niluuf9njejkig9st2f.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. YGFOdulczknQtddzX4Ok5l5qG6oJ5EVpPX5lSu7aBHNNNDhnfQrDpBR7fEbKIShts4+hPyHa89ZK2VwUf2tl6w==
+6goc07bmvnj4ijcpq5qragm5or3bs3sb.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 9pI6Rerj8Mje4cf/cehNi+TFUDzxIi5pnWvtCWSeFLBcTG/XMYT0cXpLgSyG9hnz3tqwKf9kF0Q9/te6crEZRg==
+6ooih45hnp02bo2dmf3s07fe6u9ec33a.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. yNBvLHGUAgcbi4innSY69o5dZB6WeWbkr9zc38hI4GRi2f+Ypr1PmO5zbRQx8J+hW+zHft0HNaILv4fsudOnIA==
+6q6jb97mt5gu6g4c4j5iq79nkv28unhc.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. UYdzg91OyCU8WYr1dP9xeSeQaN8VcouD2CimS37xtb8/gBoXNmem/VXGioVRpzCA2R92kC7k53XE9L3y65GVJw==
+6v6a4ukhpu1pbds7238gs499lsv5sa18.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. jQSPhdqxdbqWnddJZAYeoTsabmLi3WbGFrh4qs8fd/PoM1vfMepBu0m628KS3pV4HSIrq1wo6+KP7aEe0P/n9Q==
+778pvg2r9j3r5l6t19h1v3sjednro3ri.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. YW2WGw1UT+C/b3WpSneqOpCjtUkFPsEenu6MzDkUeoVg/FiTRnMqqbY7/CY4Fl2D39p36bsvoxc10GoNJzOkOw==
+7fn2ien6tqc3oeqqqi0uaa9j1thfggqg.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. fNgucabmM51XEOi+iAdOyZcMAqpkggc83wW09C19xoIMHBBjJjDIm0vU8aHH4EVlkDvxr6yGFVgkICebYYyWmQ==
+7p4kgl2d1daa5a70l3k8jhu1cu7dj5jr.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. e9i4tazPdL9ZNqW2HFEVOzLUiypu77XciPZossVs3XOngJ56ye5bWkI0/ChOJqRNudZt0tv+a6qiAcIypMU+6g==
+7ru4tj76prbfp41jrecjju59sl7vm14t.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. +KrMXWqxEqhJLsNq/TXasjlfRcuoQ9x2CpxqOR0VQTfccH0qEEvplSRhKp3QsCGjWKBNvBzzVk8U0m0A+V2IRw==
+7u0eis52nl5gfu0qagd7ktd8vaer8ga8.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 6UBAq9v99ZjPLm8Aq/UlnzD2qroIDg/3RIqtkiPwT5jPlMUx0cwsVb8oQYsfYrvU5BT2mYAodezmDWxLAXuHUA==
+87ogeeppotk69aoum21jcljgfmqomdsc.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. Nz/H0Cf0Y3SgtC5pnv/zWd8QyOHsH7hBUeSv0lSSd7e2AqsoLkiP1HMMlwxlcHZVQ/hQNNk968XOGxzTQNzsXg==
+8a9ius49sibl12i7kheo4q7fn673t98q.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. ghP5L3UizKGQosMCbHwM6P4hc0SaIK/y/2nst/RBUp/MuS+qBOnXsDDfsiPDHtA/d0ydWGD8HA0762pJ65AqMg==
+8kqe1ejv3gokqnk0i9m1719quk93gi9g.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 3S+GmHiQsyTqSzGa1Z4tZ9qS/G6xDdHa3iA6Loo2hr7E+I8McPgHULK60N/MuE+YnxXHTQcwuKeYq2Ox9CGcNg==
+8p4ricrr7o5iec029llbnd1eic4oucif.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. ScE2S7qSCrDDfOeRDeFwNOHrmieFh1rQdttQUVwmGdK9s9FI4qWm5kLlclV2t0wYpJk1duEDF/T4O7J7Jxgz/A==
+8rnscic6h53ar4n9ul0koof9358187vr.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. KbfH0dgU/3PVaWVTlU7BsR7eAnVSv/XT7S6CJ9I0Sv9hZ/88IS0eotUIQWgRfdrTWL1g6+sIwwBdhi5+rjhdyQ==
+8usv16ju5vpnnmjh7ltfdfe7rdh7scp2.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. fjTsl39OrvKUcf7eYM7Gf6njkoKzbWGaEclcE/mh8OjpVT94CT8NOjPx9UOY8WBJ/qqv6/rC1AlhPT4/tWlcxA==
+9134acf1p573jc6gcqngk3jpioetdeiv.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. Oz3ebX0tgwXYwaYyFrbfcWEdEbQMTHYTZYxOr7vhgyS8CekoyLTpJrBuBZ+JNWgn/jTa1HKaofvxEcHKm9EgoQ==
+968l8nt4thsu5p2tj9me4jhksa3nrdlh.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. MPS48lgRfgKxOjE+RwUe7JvYPJ9tXy4vmvrZRHDE5ofaUUINxH6ang6hIWhIpYqRuDF3SwV0gyZgA4ljpVqDqA==
+9b03i7i252nik8htuks16h1n0ukofb4c.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. oX0ramEg9FRl6Cf7dDNU7eKH3bPjmATGL1k+5Ftfpypch2lWYWXSdtkRlXYZpIQW4EttHMTCPQN1t+ppJN94HQ==
+9nrh3u7hjvk0ukiocf2t5g715u3a6drp.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. FxHRoFPQ2sWnnNinnouA5/z9/3K1/dSXMyTxXNWQOMAU3DcsI+7Nkh73FUQZLMuoa34SGw8mKJgNruE253Ypng==
+a29mubjb2ecuresvofgvs5s5p6o0ngpm.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. wZbmO0WVsTpAjbYZMj0Vcq1562cRffPOKhgI8XEbwWku7BvwuonwAzdmZ4mMxqMjVTd6ADzN3SpzqB8RVvk6Vw==
+a47s3adu5dr79nmp5f9iqht0jfbgscof.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. u+0/FDW5KKgJEe1A4c+5rGoLB1lIEJjomuX8ascB58iGkJm5aFZUM4bYCeevU3v2+PGhszN5s+/ZlK7LSJ9xIg==
+a4jjkgqddjnpfijb5d3hppe181s79tm3.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. Vc8EYLlKq3m/R336NGJcSdYaw8nh0pRZ6eq9gf9+TtLaqJorqDPAn5ta5lEVA+V50YijFEbTWoE8KgPkRXpteg==
+a7j0d4dif5v812iq167mtq7r1m6kudaf.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. zYp6G5kWwAiDL6pZc/y4xtjVl29H54CYElXM7NdJNc/KOhoepJdkOFzmdXg772YUTwAbUcomjv9LNGu1oOc8SQ==
+ac15fgrf2pco9l4beq94h0rshpres9vf.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. R/tYWe3FySiXHyUONzXLOmq2SXrrSUq8i3IwGw+VnqHCsKbTSSmKpB8vo6OXFQ/wlsgfJkRmOgmxtLoPzoD08A==
+aedplj3rpr8dggfce4bfv56gtlvqqk8f.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. GAYgIaFN2GMlHP4+e1l1SuBj7LmAUWPW9CvjTLPuB7/1LkC9GKrkYj8MelABM+QpdWKRDMkngTL020tXdG7AXA==
+ahsin4oldp7labl28bv11lpmeqrrp6eo.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. W1Xi7vdxLRCcuKTvp548rAhcZvhOV1osBmMW3g6fWZinaXgyEx1E5M9r0WUTd3tKs0btfKb3K/z1HjUQhjt0TQ==
+ak4ai3vdc70u92ugmtma75gd2cmli06h.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. WwcROJt2qxLn5z73aXtDM3X4FIeeFRWxQCNtpNWVfdoo8ghcZismXxIknzwBoPyjk6ZuTh2JgjK0fFlQz0W1gA==
+atcvsf86scmhs2jbcumi1fsii1frfr7j.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. Hzro1OuS1rIiydpnevKATyOByK9M9yfTnEJz8ENcPuDkoex82h8J7w5GAU7iSfOZ/VK7WwwyFS+x/GoXVgp07g==
+atliqlh73jhiqd5pj0raehleaprr8857.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. OGP9+ePkUvJyh8lh+ZeiTPd1LTipMVK1VGuVn0ell50HMRB7LDGikfqATZhhuIZxD/pxnknsITbYKYevIo9O3g==
+aua8lkpucflnf10fss9etndjjipbib6h.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 8FmEIsxUaTYDm4Wlt0Crplc8Nb2XgVvzjG9mmk1aLMcq76dHg7h07VI5XTAr6LoFW/RjQuW0BigqTc+s1W8DlA==
+b1iaq5sslqg81ju2httf9e904qt4rr8n.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. R02JN3MOPHYBVUYk5pnuQUSzww/J/oze8qvU1NiNjqBcrJjCj4c5iRtmJIPJEUWmgYh1BDBGxSe8SanSpuPinQ==
+bavmbbf2anjjish8sn2l5tr6cn5617t2.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. zZczYCCiMDO/7IKy8dvhlUNIJsMeD+WPUNh0GQ1j87bm3nHU+ubhV/1SALr3q95QfnrspqTh46LVuFP1IfJ8nA==
+bedj3783pulppccft4q03lbmlu8nup3b.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. u8nd8XsG/UBsF2HoPJhNX4DSlwE7wOqBzXu75ZdWWCCBLmdlcNz3q5344bMfW+5iNAQv3vRTyZYHY0tio1Fs3Q==
+bjcfecuip91mt4r9i2obqdehm191lhbc.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. DOaq85zpVxH44GwcGsw4EiAzNKVvLDg1gxfusiQEP6okNZb2XUkPumI8cnRSWASOjusHMSIdRGCKORp0emtrnA==
+c2dekevl3v4np0rqq4a26ddk709i3p9j.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. sLu9/RWHbuY0un7uFlQn4IULBFTJAm1DqJrc0erbs8JqW3ie9oc34Q5SI9Br1cgGZwtxJrb3doyBFWexiVK/Bg==
+c74520uq6rorj4gmkacoque39bh26nor.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. pN1Df5knCKicWldTDIptO+0KwNjP68wpcim92KOeDzrrOqNc2XRjEQ35mLq44gOLaeOlBdVD64cHcc/cFaKg4g==
+c9ah4rsr21nk3ns0k29d4p4l98ofmohg.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. Mm/4I25ee8D9YhP20Jq0l/Upy30mzhY1mL21uFIU43yzyFURQm88M6ea6h1DnXclebRZDkT7164pN3FWMol3jA==
+c9apurso034m60ht4ec6v4mubh9gatkq.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. YyUrNC1KpN49m+WzvEEq1Vb7PRaKwH7wgH5nsmfbDKGDTkxFQmjZKEgfUcf7FMsXMGmyAKhtnrIENRAKcixnZg==
+c9rkqs38qbrvgl0oej30tgkuokc7vabc.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. OmhQYtDWU5tlL8QdVaVcHlC5q3jL6P20fDGm00Uk8F9mqf3+MOJzTfpg1Q7eFpOVH+Z6IZPaKpvRC3Ity8vThA==
+cin3u39d7o18l1b127atuj12cmkbn54s.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. wQd2rfXBZXaWWsSneubu32+pbb2u+qWW6+vCgbkb86vjY9V6P2u2/BGtEBzRGP3Pe5Iyozxk0PLwqobxKlj+Eg==
+ck8aknmd3rdb3lcud6tcuafr1h6rk2mv.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. Ybxl/ueJHKqk4Tp4yRA6RWK6wqKcDA4QwtKHAfr1BjaanyVdF3cO/I0sz85PKPCkwhQ+VsQjLM6PeYxUID+GXw==
+cnnqc40s4an4eme7esh6i2d0cnc1d3ng.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. quXJpTMyf+uzgR8MYcY8FB53TdBfIKJUrhT+xYTkkC3UmqjOMiZUO4X10pLWaT90QtwhMHadfKxhTsQQJwRGbw==
+cofac1mfntkcfgq0og35vg0icr0ho6je.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 8+oaYZVyD4XfdzRIBumUzjl9lbT67nNAi4aNVZn5wA/E0avb0bs2a5WX+lANqXznnoOCUuOgPooVkzZsSUC6Qw==
+cph4rlbjnc7n38fi2tj90dv6i8n65otl.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. cYxWih3P10ROed40XYVM/nxtVutCyTCVrdU3fK6uvK5Zr8S+M3mPyJqZNOy/kLFjCeEscxW0Xi2qEVyQ4M4sOg==
+d24sjouafhnnhku024emekt6rtkvjvsc.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. kYPzxNh9tiBbMcajYkt4D3P0yE451Ue2SfesW+q850ja+rh1Y6z/AfyqwzI+aPoL1UYS6o0kQsojeSw9XQm6rw==
+dlg1rac4r8uo722jh5upbhbcfias0f8a.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 3XzZ48BlSqg1RRrooZYsMGrH7JYRH+GTlFkKd5MbqKTsJken2gXOeOxcPhjK28wUdhpZSye6baYxaNI8f1elgw==
+dmh6l1apnsiahrll9j897radc5jc9hu6.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 3bVwA2SQH9yBl5TYIHb6pjPd9E+XqXKS0fFp1Z7GBCxtf7oMqZ1LWdtYDhQPjk+lM0HDYopVyEGI0kObN6UrRw==
+dq0hnmo7ug8aces109cmuq7id8ri26nl.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. qopr7rg6x37SlGCAP82rKJct56911kJvx9oXQlL+08rn6bIPeVZbeFNJaWVbvKvT/3fpbNGE0xqzQe6BikVb1Q==
+dq9obheclnlh18i1v5nq12ontjc7akkl.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 5dXIha5d1f1W+gsX0TW3sxtBHjvIJFffcvTdz51yacbNjY6y1jCcFHQfof6WSCYo03BcFYbU0WRAjLvCjdszqg==
+dr8jg5unagricgn2tjhglls5ce5lh9hi.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. CYvXEAXQsuAooVhdZuiNqQ/LlvUWfKSDhn3Ct8q+7/KQD9K2rBQ7Do6RP54RiedSICEcCHSiXPYHsZxFsK9NPg==
+e728us38eu1k3g7ckkdorof8f0872mpr.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. cKJJs1bP9OCmRnlgo7Yy8X0wSN6dmC4eOrf/wygdC/4fN7lUn5YOAF3rZTCCRBrwFcmoGF71o6O7SOo0Jhr+Tg==
+fhv7cfi91l0nark3q9069s6elfg4a5bb.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 7Yw6oXa7yf0uApzE52HkB/23lcp+S1Oj0Exsp9DcK2TA0MtrW63tjHW6biztKV4LomQUhRD0sBfSz0d5uRspFg==
+fjreecfoj03mn3g82f4ski5fav5fkiec.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. bHn173vkx4G+2Hd/pPDQG8nAQvF2cFFfmwytyl6RjfKyx1LsU3eOQeRGnwzW9YwMYxM11D5FzCZVqH8l2unZ6w==
+g0dp0ro8lujr39c53f2oq13k7p5c4amp.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. Ez+NACSQoU0lWU7ECG15QXQU/z2Qj0lgDa50pKBXDstngwkN/zcfC/NXIfCoHgNj6drpBrRcFSVBQhqS1PwwCw==
+g2bs7mngm5iqlv7r3nsbm4us27e0p4u8.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. csNAM/LGjRMFHtbOuQCYWqseN38o53G6UeP/egZvG+kLfcRmGEugWKI0GOJKiD2xKQv0xu96LqGzjSrfRgIx+A==
+g6li5i4u1p8cn2frhbr28g87cstde8uo.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. PFN3tRAbjHIqpkXj9THl1Jkr8Bhbmp3787fgAgPbpY+I1iyeXeTg1n8Tqht/3LrVnPo6fSC/BZzOnsyewyS6hQ==
+grvdcohgogbj4viottik993ahb0ejrgh.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. Aie4qXGsI8TpHXDPQbwd0OK5vUr27AujqYOoN4jzL7MXGkA+Ayh9UA8MKkVuZ6zlAuFhUveHSMLSYpseL5pTdg==
+h2e4noqdivufh0ovdod1hc8kmhmrqch4.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. t/g/Ntt8mGvAa7KZr3GdH44TQyVPC3EZspgEt6HLPVx3hNsqNiR0updynCVMA4AgkPOfmkDNgLVnzmhmnO563w==
+hjmbbl8d6tafc3gmr4uolcuvfr1lmmo8.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. hNOTVWjgYTTwrSx8Hsp1w5+rKyMNWsJ2ub4Z0C8ir4z12DwCqBQDem2a+oHBX1F5SmeRMW8H7Au01bUa/seQpA==
+hov8b9qs3k0m5413aksbfstptcrjv74m.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. JEa0FKNH1QgXCeygxnNEonAAjwNeSnvrUhJTuWiOVNRKujagpZDjVCf+BlnSTFPgT6tKUebhSEoAS2HiDTZuxg==
+i0m5hgg0kvp5u9hopqne00mjsl5vpmhm.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. StOvvBKAgy2cVJMp4RgV1QlXQBaxmUiQBh4m/aSEEWWXMUgWuB4B5W0jwciM7l/9HYsVQD7zH/693xHMW4D6bw==
+i49kabhsvqvuh6509n0k9ec5kamon4lu.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. kDxluWevj9VGTuHZAeIH0tJpMnXvuCa53n8Wy2tJAFqW/uRNgNl+QaZnE1Z8Re6GNHH1OG3gl8qcTW0y+cAv0Q==
+iem3k4q91lmus4frrm867ksigmak3tth.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. InrSXOo/pOtFixw0ynhiyqGKVVp0CXCJ4eE5zpvpUgdPSrSN1eriwp05RZCKebZEaW8tS845qQ07kQYVNMs1Zw==
+is8dm5d3q7dp0cbbeffej801d1g0g18p.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. gImFskBHez+dp7VRkvHI+abpkiJY9I0kTnp1ziIg79a2rj114uNlTLwDxpH0IKzUeOwmaASsNpi1EvkoBY2C1w==
+itts7f9d6b10j8atrnuo5noa05s4755l.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. OEe/szWWf2ASo1lmm2pcM+fTxKhxpVkptzFPm1laI+TyjPARqOoIYA6Bb4eNHZg7nSQ6go8s2CN4N60i4kyPYA==
+ivn0e1lto7c8927i5vlm4lqtluaeqcbq.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. Te5hjwSDOSqt6mMunKSd6kccaKw9IRVL+XRQFdtRBvn7q/ESeTyxkmDoYAprXHIEttgb//3JWnj8ek41cobFZQ==
+jba0h045nn9s3r1ibb0to6j2nhdeokei.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. KbHYvdNjUaF9URALwc94+KlcZ/8k5D4BmRbuyU8R0sdQp119wgzvGpkLQI7/7NlKdDhSG9IF4O4Ljw6yrBXwOw==
+jbfm5287o7no8etfhcrjvfestsdhpevi.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251102093003 20251019080003 51935 ac.cr. 06APxxXNfH0Biqaxr2a53q3IdrPO75HICMFWROljBpZm2BhpBJGw9isggTrcuyqRiT2fmbV9CZt5Bp5zSJXvkg==
+jjpqp67hb715cphecih912pknd96fb68.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 32wPMjH3jk9D1rZ1dwQQGViuuxiSUifR8TOWJ82nmVyOszAqNVmINeKjNp/IiYYOKCPsr5vtY5gtuYoB7i+OCQ==
+jk8jc7tkfd2i5bm0te6ap6iqj8u6jrfn.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. l1UN+us3s/t1clPIW9LNNp60/sZ2qRVtEs5D1YcGhARFAMTbCh1tDLojKAkzuQXqGrcyvDJKXp8dfj5LTrJdpg==
+jpsc1edioe2e0bjb93vo8gk349r1lff0.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. A+jfQR72KBIrLCKbePDNpje1D/C7xt8kotbR/6eq1RhwtnwGPSKIZ6gvmM5YOy05x22xjk7X1yxoedLS9tw6iw==
+k4060ron50a5opn8m98db6o54mcoodgr.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 2ISsGRoPbPoUmWfzWUCHnBeov7mx2cuTnFX0nox8wacPB/MxNlQaSwN1XpzHjnDlbM07W/gWMHV1AJLKIUx4Gw==
+k96muq57rrijdva9butgh5qe1b4vu600.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. FlmoNq0Mo45pEZ8RK9AtdKLIaZlNP4mdfTHX/wj+78r4wQTY2/gp0kzD0NrWw6Lcx6iMCCGDNuXfiMRmL7sYyg==
+l6seu58apg7d7u689rvf3r3din7185jh.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. KX88a1TOj08cgI6wfHpNmsUA7g3f+6sRa46kWPaJXbReDHA2yb3kgjJGjmuiPsJ7vhuu+LHtA5eikU7NDppjig==
+l7a2n93ml7k16pprq4i3c245c5hga0cg.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. +GcRVvdWsQNjETqwbh8cQtv3Xg+LoV0TTAlXM3/fKZqbXd+BlZQoW9bteQuEnVm83wJCYfEwW1/+wYKZfMa6pw==
+l9g7lgjj99ccu97qu3i8gafjl4e7rjr5.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. qNIaj2VWc50Wi7X3sWJNP5ZSrBWmBHf3WA9KojNXZPoItzD/2ayrH9iWnAInCYn75HJeLNIIc0aw/n/3oXjlBw==
+lc87lmchvrfv128vjhars2h5iq72qo89.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. kTDMki2FTx2iiH9FTzpOjVd++i0V2Q5nz3s36dhARvQCSyvOL/mX9Vx/ZivR/P+zTmw66Kla5tl/C6P/EDYcVg==
+lp89nl332g7sg07ibb0v29j9posmglve.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. bQPWbNVj/aaxjxH2Mplek2r+L4AjnciemeT055hXBYinJBbYwmcA5O/u4yvzhd34DFhr5ndsmrRF9y96kpP4Qg==
+lscd37jrf0r0hkhiagun940uhoie4mle.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. Qfwg3hQq3aSxi10aGfki0k+P6sXLki2+8B2HxTyekmadSw1S9tP9dVRN3eHxxELOrQm4h42YbHxgdQn+g60O5A==
+lsoodlp8c79v765ei0ujh0t197p701gc.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. sAum6d0d7QbCpEFMUwos2bGaqRh9xgDSIYhvBLSnJfATZ68KxRBuQfNx3SL200BHcefK2Agyu4ag97a6xGHDQA==
+ltud4oejg8f4nvftudvo65dd3vgna2oe.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. AeVMRvWALtz8kPkh9OQEctW2rlfhpASnABiDFWbgylR3CUs8tru/alPfT9wU2Nez1vYc+A2J3R7V0IhFXVgRTg==
+mf3jfqur4v39ecli7oo45bj58pm7anpj.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. TClKsAe/pckUlfa0+ws9lAi+Dt2o1C0UrcMkgS2GJ1LGSp7ix7uPtNYXiJMDSNdaDVnOCHpymUeuDtx+xw5mCQ==
+n298dos7lvg62tfgl7kvum59ghvr8cpb.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 0bqNJolTbDsD5f8tIQqmrBe0aqLUGS71qAwdYjmwpiYgJpmBBojcOMS25M2HJQCH1UZPlNCx4Y3hbueUkpKAEQ==
+n2uo1lt8gdipe1a5fif4j48gg33etsh6.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. wjBxtuuRBsUKSmdHzhbOdvFN7YPmS6Udpq99Fp/nko+dbrBZAq+FGy2W/8UE+oO4xGC35WgYIKz2WWDb/wTbKw==
+n3fnq7v8cuntq5ntb9keqv9gq37f6hgh.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. QTdyjnmqx27efev61X+CLIu3jlIgHtKog2vOy3NWomXKKERKjGYo84zwCi3fSlO+GdFIQgiIdyQ/V8zwQJq91w==
+n6jh2jk1cj8b5o1e7knegdu64fd3mrs0.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. K5bicUmvRiL893Kn+PsMg35u3FZQfaaxuNJnbF4HVCbqcIk5Sa7QCg82fsQkxalAJfKCf3QRb53lDIKnd8U4DQ==
+ncji5ul652p1affgb7gddsp0khh287ac.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. Cu0aYrjT1up9gacBgLha+Xm051Ey5yTeMNl4CpqFjgl/o88pkOpBrnFg1tMiy64yCf0Dmi61KBtHomcvpGpmug==
+nf3hvchj4stprqu4limlnspjqhnudvvt.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. gughC/EaVY90/CyC2Tk+retORfzscq4UxhY3FJlAEcAAsXnyqTgXbnw7wQEbCitaz1WN1qeEgMqtA3OokVYVSw==
+nhatcg2qpo95tsrctkc6303fcamc9ug3.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. gQSZ4p5M+jDZ5noQxXac/ppnqK2wZEpwTjkV4KLC3Hytvsj9kCcQETT6NjSHAQoEkkCRIe7IXoLfaDsRtHb47w==
+nj96d8b73pm7e47o2v494m5a17abdm0d.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. /cHMbue/3hSz/l+bZWsRTuxuJTcFP56BaaRbAEnK1UNtoNsWlrHL5JdoHt/jWHqUi2FqmXz7ALx3YhVUP3WU6w==
+o9nta9876v3ks0p8pe6mtjucls5thn1f.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. /Wk3QvaLRoxubjMVVwOaTdsdqJAfXad/tdovW4lxtbn+Rt4WNauXki0iOMWSzG54YKLhUIVIi5hQkIZ5vaFVCA==
+og4nv826ekl2p2f1cmq5n0hr1cnogpg2.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. m1RR3YYZiLnxX2pD25xc7UEoqO7tUoYqdEg6fWj0tP7EvfUWKzM78e1c4aXU0CMQQQFs2r+HmHUVP7J51jLxRA==
+ojck4shikit89bpj7dk58bbcfa801o0o.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. zfTnh6xJ0X9GJesHFwU1r1DueCpH6nL0slEbCKVxKXxPH8BibOKzGmS04Na+hkKYW8FqSLNgOF9ciByR7NH/3w==
+oq5je4lla7idgl8bhgudstchfmltt998.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 0uJy4h6tJtz+q1XAYA44OH4RQ4eraKWCMqA9gbb6zCwVXbICYMxNZTjtNLyWgqGxfJ+bsKYgLWCdqJH3ttfwHA==
+ovdn63njgmud59qg1624umppqsefn2i7.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. kutQFSv7MESzye5IfZszZvbdCZaAz2qvXjNRXev7KX3FQ9esJOI+PhIgLtZ2k/DNmKTEyO0BGvleXD/WvcrN0Q==
+p0bgrntoickacen2lcumg0u9t7666bi7.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. TgJqVnz3BoneNLuL4uw2O4ICIfg2gOdccWmSMqObQHeL0gd6uxb8i9CKP4/mKcjBzDUgez4Z/gX9l3yZtE6usw==
+p59dhtd3vck5ma75sru7che42q67rto8.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. gUyQbI/1aydtGfAJuq4+iDiDR6g+AwvyuWI2zJtJLggoFe1RZ5pHld3rstkitVaL+YJ1jYOizvaWXEieb983Pw==
+p6s3t9g9o1vu0t220briq62rvdosl4bg.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. iIRtANfS5o3IG9XFBVKNb5A71VMlkOHcU3WLMOkpy5aDNqpZ/ANfTeTVjCBk47KTixbOvCohMktCoP0lawCdUw==
+psjbj337estfg1r7os65oa2eqgbhf8cn.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 4CQ1rYcXQjahlD8z3nPNzSN05Fm/gyX2JgD7t2M3WfZPGKAJE9vyFFUuxIGgonQsBN437Z8Kr/1rM3eVKQONgw==
+qgmst3qnk4b2oi5fb9m548gfa0559kih.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 6hhM9ltkjnBqUu6Ah8NxHEjQRaPDbDxhRRin7Hhc9+DuZ8IDykJIRUYt48LKbEnksEpD+E7nXfm/00sSfFpVIw==
+qlmg7fpkr5f9nthe6412d0ira6g5nicj.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. TkW5fQyjbW76H007VtErPwjDHXXUnjm4GU2KnVILE+3JKyNBnX7QPk6LvEbF52p3S0W8e6MJz5EIVoqfhHpMJA==
+qpncm592gqfm6mf86i3o59tig8askiku.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. /++vRPHHamoKHTGd+FTNoRfD/E8gwrIrcgLog79n19xrjpgewr1ZexFaN/zgnYH0NEGufv3hBLu9kTVdl67VSQ==
+r18gtff84erlq4ei3kgvbotcoi5djs5c.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. gHATDMBH1MvRACCoCTcefw4HgG4g+4YRIQvTNIKR48mrMsOk91Po284an7YykcTGHtZ24/ttW8CjA8bEZMUufA==
+r5o55l0l87ipj5nfohneihnp5uv6885p.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 8nK8XB1De33kVxbZZcJ8jKdKu+5OAphifsLsEjt4tLow70n0J9FPZ32hxbS1HoEZb2yiykb1axI4P/2nIFt7bg==
+r65sp5n629bll2609r2dci5mmicdqk2c.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 0FuC3ux2Wgf8/mW5Oev7DhboD0WJLIA0uf/6v7WhZps7RUqeL2WNIQHEVD44eWotH/O9X48wn5A5ccimRaHZMA==
+rhnc4hshtv1kqhqpa852ucm2se0v3ivv.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. jYrOXB9W8dExkDq51MF2is9i16MiOs80Qb/zUl964/KVW0H4rOIwu0EbsmDHB44/+gvEWQujDyUuYbX7t54eYA==
+ru0evu3kvkopfnt69mn428uodapoipvn.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 4Utc4oJ8eIz7c3DPeOT3phY5fjVZvymaEDwDxeL1OQgKX3qPhnBLbAeQ+QxTyZXB8xaGlrKwvLjDfSULE3L7fw==
+s9n0jntj1o3uun4gnkctb4ratuuug75t.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. yVbXJKqfRFMrB/IzjhEAujTbnvmvseQK7xmzIgznm5EedKphLpry2WyQm2eCIitMnxCUUXIgM+F1jBcRGNU6dg==
+shdlvhlpg96ole4u6nbcaa0ac8ji1im2.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. lOPAeuReghmMp0DQvbaceEW9dtSWujh+ZKYneA6jAKwV7oUEAVlhIR+eiRevkvSxc8Y4hUlBiMgwPbQCKeh1cw==
+sl4bvpg24kpbbhvmgiv48kjevshe5nqe.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. sKR5wkPFecJxbuE6tDxP6NUPUWAV3Moc2C5iWymZl3+oJpj1h4ofwcehGfFZpTLnowi4jMzn+IH7lOyKc4wG6g==
+sn2lldoeg4ko4g29b678ofvh30m8rfdv.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 6heQb9gFa0GCETcYnU/jQYQuppFOA9a312qLS0lTEn690cYkoAvrwyLyCJ4Z2KNGf4+UKLzidkAWTkZ6LH1sNA==
+st8vsmup7o4ea7m7v2mpecp0avabqusq.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. P/ZeaKe43sB4hhwn+xnzo3t0s35E1LGFx0XpnqfvVyjh/wEwGiVCE72FijkTmUc7Cq1nXVu482pLJpLuv64Lkg==
+t3tqlaeb6dnjlsuu53uqgkp93ac4mi7c.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. eaLUZQmWh2afz69tLN4btyNzQYHzfUizgZ78qMW9JiOgia7AFHJI6mfseEvdFBmywUu8ykr1iZvMlOyG0RALDA==
+t68poj4upg58klmm3q72n945dg7vu11e.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251027024502 20251013011502 51935 ac.cr. eqLeOs04H++pXLttjldbPsql2LGVt7BRgx9OzykaELofORJwoZF2+gTN8AEWdwbyO3BoBtp0RhglBBVSJEAEeg==
+tjlslo6tgrjgdcqf7s43khgq9rlo8a6b.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. +X9AufZt6VnXWdO6/SmKnj7oB/C/GO4pPnTvv7AlMveniVDgHe9s1csa1CsozkuvQlr+QrCfgrSSiSM6HSU8yg==
+tjv0fsi0pafjg3q8vp0v5bem7f7s3cmp.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. FrLez9+MOC/8jdjqargyOMSGBrYSZvt6mInBjh/HSt1lSlz/Fb/aWsrTIjbg/f8qhyiPkGc+2/VewNvCCzKRzw==
+tp2nhv9maqrg5slm8bbd6cr1snj8dtkp.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. m8UpGcJYhheuvVukbkGL17RNqVO29M99c1kHr2R2OPLlyoPQeJ+KZtsOuKpztWONnOcbDIRByp0oHLetxKYthQ==
+tsshl0rd1kk047ajqrm3r3qfu4uqsnbj.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 8NfUWDtffM3tUy3u7OgB+vVGlGqKaLk8FVTDys8amwbosXqtpP3a+865pv5OmBphk1YWLpC9nhxphTpQ4yffzA==
+u1torqku7rfnmtlls40bslakq4b1638c.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. ulbwcblfX5JEdNT3m+KQlEg6Y24laeMNTW0g3isekBbz95boZI7AESFUZSbkrd8NvZHmDIFJ/jyT1rG44a9y2g==
+uil8e3fcmpc0slc7e9kccrqhcshd0rqp.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. aB4W3w4O/NevOT9WijKmvtV3/dNZ5FsyMvoLrLAqRQlMIi4u507UVs8CX+VJm/+Z/5I+kgeia0W/66iBNhvNrQ==
+uj52huktjrh6093qqr67vb5fgpeguoou.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. +sJn+CMEktvRSlvJYBn0Gqq1MwCXTKjdz02qRZ2GI7XydpgsJBaQJsmcFutOornfiwmxYZXHasVneUI7H+/G/w==
+vb42535g131lhrt6lc66h41l0as6o15u.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. 81jvOAoYuC15bcMpvvMTOcglCE5V1MNmntB7fi3X2XbJWkh6NZgU6RfZKCMwia+Um0cusKNeBgV+oF4XFoaHCQ==
+vfj4c34nbjirtvs9m3camf7orpj8bv0l.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. NfQBFSe+P2+NNdn1xX2SiGc/6IlxTnCmYsDohtyoOwOURjmmXHQ4EhK3IFt4cAV6RxbcIsTSV32gvg4rWXhnFA==
+vjq0qp03pdsjtdds0766v7rqvjah6t32.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. /dS/PiWiiMECBsnyulfu0iA8Fr8C9CT7qTdRwvq8DHaWrsZX/MVfDU3x+OFWxrBxhi2cnXtP017gD1vfhLb0VA==
+vqd1u43e7cta9057fu7snts7s1hteuku.ac.cr. 3600	RRSIG	NSEC3 13 3 3600 20251101021503 20251018004503 51935 ac.cr. Jh6oWOxslqOEGb59V+l8bNKceHAgNt7AkpkR4QEfp02hCPRnfyc7owd29M1VLWW9u4AtscH+A17H4QC9ngCZMQ==
+;; Written 813 records
+;; Time 2025-10-23 10:45:03 CST

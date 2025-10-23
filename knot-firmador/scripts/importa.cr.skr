@@ -1,0 +1,3 @@
+#/bin/bash  
+
+keymgr cr. import-skr /var/tmp/cr.skr

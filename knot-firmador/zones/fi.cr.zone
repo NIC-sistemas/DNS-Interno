@@ -1,0 +1,915 @@
+;; Zone dump (Knot DNS 3.4.6)
+fi.cr.              	3600	SOA	dns.nic.cr. ti.nic.cr. 1761237903 14400 3600 1209600 7200
+fi.cr.              	3600	NS	a.lactld.org.
+fi.cr.              	3600	NS	p.nic.cr.
+fi.cr.              	3600	NS	de.nic.cr.
+fi.cr.              	3600	NS	ca1.nic.cr.
+fi.cr.              	3600	NS	ca2.nic.cr.
+fi.cr.              	3600	NS	dns.nic.cr.
+fi.cr.              	86400	DNSKEY	256 3 13 X+yHW+989WdaTETc8+QImeJA+EoTzEWXeZXce0iVywmAPtf7cL8gooTV+eJEfBbZd+sQvZ2hMAfmZqcT+LM/wQ==
+fi.cr.              	86400	DNSKEY	257 3 13 ZzifvQ7k9jxlj038hOytY8q9xfhbPf4sy8BV4Bu6/jyRuqe/S1VGEjUxBUdG9DsL5trtXsQYcGQfpR4AeKvn5g==
+fi.cr.              	3600	NSEC3PARAM	1 0 0 -
+abc.fi.cr.          	3600	NS	ns1.s482.sureserver.com.
+abc.fi.cr.          	3600	NS	ns2.s482.sureserver.com.
+actualizacoopenae.fi.cr.	3600	NS	sol.coopenae.fi.cr.
+actualizacoopenae.fi.cr.	3600	NS	sol2.coopenae.fi.cr.
+afcp.fi.cr.         	3600	NS	kayden.ns.cloudflare.com.
+afcp.fi.cr.         	3600	NS	suzanne.ns.cloudflare.com.
+ahorroycredito.fi.cr.	3600	NS	reservado1.nic.cr.
+ahorroycredito.fi.cr.	3600	NS	reservado2.nic.cr.
+ahorroycreditocs.fi.cr.	3600	NS	reservado1.nic.cr.
+ahorroycreditocs.fi.cr.	3600	NS	reservado2.nic.cr.
+alianza.fi.cr.      	3600	NS	temp1.alianza.fi.cr.
+alianza.fi.cr.      	3600	NS	temp2.alianza.fi.cr.
+asesorescoopenae.fi.cr.	3600	NS	fenix.asesorescoopenae.fi.cr.
+asesorescoopenae.fi.cr.	3600	NS	fenix3.asesorescoopenae.fi.cr.
+fenix.asesorescoopenae.fi.cr.	3600	A	201.197.152.36
+fenix3.asesorescoopenae.fi.cr.	3600	A	170.246.159.104
+avisos-lafise.fi.cr.	3600	NS	ns.bancentro.com.ni.
+avisos-lafise.fi.cr.	3600	NS	ns1.bancolafise.com.
+avisos-lafise.fi.cr.	3600	NS	ns2.bancolafise.com.
+avit.fi.cr.         	3600	NS	ns1-02.azure-dns.com.
+avit.fi.cr.         	3600	NS	ns2-02.azure-dns.net.
+avit.fi.cr.         	3600	NS	ns3-02.azure-dns.org.
+avit.fi.cr.         	3600	NS	ns4-02.azure-dns.info.
+bac.fi.cr.          	3600	NS	ns.credomatic.com.
+bac.fi.cr.          	3600	NS	ns2.credomatic.com.
+bac.fi.cr.          	3600	NS	ns3.credomatic.com.
+bacbank.fi.cr.      	3600	NS	ns.credomatic.com.
+bacbank.fi.cr.      	3600	NS	ns2.credomatic.com.
+bacbank.fi.cr.      	3600	NS	ns3.credomatic.com.
+baccostarica.fi.cr. 	3600	NS	ns1.credomatic.com.
+baccostarica.fi.cr. 	3600	NS	ns2.credomatic.com.
+baccostarica.fi.cr. 	3600	NS	ns3.credomatic.com.
+bacinternational.fi.cr.	3600	NS	ns.credomatic.com.
+bacinternational.fi.cr.	3600	NS	ns2.credomatic.com.
+bacinternational.fi.cr.	3600	NS	ns3.credomatic.com.
+baconline.fi.cr.    	3600	NS	ns.credomatic.com.
+baconline.fi.cr.    	3600	NS	ns2.credomatic.com.
+baconline.fi.cr.    	3600	NS	ns3.credomatic.com.
+bacsanjose.fi.cr.   	3600	NS	ns1.credomatic.com.
+bacsanjose.fi.cr.   	3600	NS	ns2.credomatic.com.
+bacsanjose.fi.cr.   	3600	NS	ns3.credomatic.com.
+bancanet.fi.cr.     	3600	NS	ns.bancanet.fi.cr.
+bancanet.fi.cr.     	3600	NS	ns2.bancanet.fi.cr.
+ns.bancanet.fi.cr.  	3600	A	196.40.5.155
+ns2.bancanet.fi.cr. 	3600	A	196.40.5.156
+bancanetregional.fi.cr.	3600	NS	ns.lafise.fi.cr.
+bancanetregional.fi.cr.	3600	NS	secundario.nic.cr.
+bancoamericacentral.fi.cr.	3600	NS	ns.credomatic.com.
+bancoamericacentral.fi.cr.	3600	NS	ns2.credomatic.com.
+bancoamericacentral.fi.cr.	3600	NS	ns3.credomatic.com.
+bancobcr.fi.cr.     	3600	NS	ns.bancobcr.com.
+bancobcr.fi.cr.     	3600	NS	ns1.bancobcr.com.
+bancobcr.fi.cr.     	3600	NS	ns2.bancobcr.com.
+bancobcr.fi.cr.     	3600	NS	ns3.bancobcr.com.
+bancocathay.fi.cr.  	3600	NS	ns65.domaincontrol.com.
+bancocathay.fi.cr.  	3600	NS	ns66.domaincontrol.com.
+bancocentral.fi.cr. 	3600	NS	reservado1.nic.cr.
+bancocentral.fi.cr. 	3600	NS	reservado2.nic.cr.
+bancodesanjose.fi.cr.	3600	NS	ns.credomatic.com.
+bancodesanjose.fi.cr.	3600	NS	ns2.credomatic.com.
+bancodesanjose.fi.cr.	3600	NS	ns3.credomatic.com.
+bancogeneral.fi.cr. 	3600	NS	dns1.bgeneral.com.
+bancogeneral.fi.cr. 	3600	NS	dns2.bgeneral.com.
+bancogeneral.fi.cr. 	3600	NS	dns3.bgeneral.com.
+bancolafise.fi.cr.  	3600	NS	ns1.im-saas.com.
+bancolafise.fi.cr.  	3600	NS	ns2.im-saas.com.
+bancopopular.fi.cr. 	3600	NS	ns1-08.azure-dns.com.
+bancopopular.fi.cr. 	3600	NS	ns2-08.azure-dns.net.
+bancopopular.fi.cr. 	3600	NS	ns3-08.azure-dns.org.
+bancopopular.fi.cr. 	3600	NS	ns4-08.azure-dns.info.
+bancopopularinforma.fi.cr.	3600	NS	ns1-09.azure-dns.com.
+bancopopularinforma.fi.cr.	3600	NS	ns2-09.azure-dns.net.
+bancopopularinforma.fi.cr.	3600	NS	ns3-09.azure-dns.org.
+bancopopularinforma.fi.cr.	3600	NS	ns4-09.azure-dns.info.
+bancosanjose.fi.cr. 	3600	NS	ns1.credomatic.com.
+bancosanjose.fi.cr. 	3600	NS	ns2.credomatic.com.
+bancosanjose.fi.cr. 	3600	NS	ns3.credomatic.com.
+banhvi.fi.cr.       	3600	NS	ns.banhvi.fi.cr.
+banhvi.fi.cr.       	3600	NS	ns1.reseller-224.mco2.hostdime.com.
+banhvi.fi.cr.       	3600	NS	ns2.reseller-224.mco2.hostdime.com.
+ns.banhvi.fi.cr.    	3600	A	201.195.230.177
+ns.banhvi.fi.cr.    	3600	AAAA	2800:d302:12:106:2::55
+bccr.fi.cr.         	3600	NS	ns3.bccr.fi.cr.
+bccr.fi.cr.         	3600	NS	ns4.bccr.fi.cr.
+bccr.fi.cr.         	3600	DS	44215 8 2 F6376BD55EB64078832BB896910567145C380EE555603A5E84901DB7267D6089
+ns3.bccr.fi.cr.     	3600	A	201.193.44.101
+ns3.bccr.fi.cr.     	3600	AAAA	2800:d302:f:1112::aa
+ns4.bccr.fi.cr.     	3600	A	201.193.215.133
+ns4.bccr.fi.cr.     	3600	AAAA	2800:d302:f:1212::aa
+bcr.fi.cr.          	3600	NS	ns.bancobcr.com.
+bcr.fi.cr.          	3600	NS	ns1.bancobcr.com.
+bcr.fi.cr.          	3600	NS	ns2.bancobcr.com.
+bcr.fi.cr.          	3600	NS	ns3.bancobcr.com.
+bgeneral.fi.cr.     	3600	NS	dns1.bgeneral.com.
+bgeneral.fi.cr.     	3600	NS	dns2.bgeneral.com.
+bgeneral.fi.cr.     	3600	NS	dns3.bgeneral.com.
+bncontacto.fi.cr.   	3600	NS	ns.bncr.fi.cr.
+bncontacto.fi.cr.   	3600	NS	ns.bncontacto.fi.cr.
+bncontacto.fi.cr.   	3600	NS	ns2.bncr.fi.cr.
+bncontacto.fi.cr.   	3600	NS	ns2.bncontacto.fi.cr.
+ns.bncontacto.fi.cr.	3600	A	201.220.29.22
+ns2.bncontacto.fi.cr.	3600	A	201.220.29.151
+bncr.fi.cr.         	3600	NS	ns.bncr.fi.cr.
+bncr.fi.cr.         	3600	NS	ns2.bncr.fi.cr.
+bncr.fi.cr.         	3600	DS	42205 8 2 CBBD3CB6D9C456D90D23BBDF3C4BF3B4E75A474A292AE80A14F901B8E5B679A1
+ns.bncr.fi.cr.      	3600	A	201.220.29.22
+ns2.bncr.fi.cr.     	3600	A	201.220.29.151
+bnempresarial.fi.cr.	3600	NS	ns.bncr.fi.cr.
+bnempresarial.fi.cr.	3600	NS	ns2.bncr.fi.cr.
+bnempresarial.fi.cr.	3600	DS	22829 8 2 66156F106CE7A52BE00C9EE7DAEBDFA9E4FDACB983AC45E13101C94FAE18DD3A
+bnfondos.fi.cr.     	3600	NS	ns.bnfondos.fi.cr.
+bnfondos.fi.cr.     	3600	NS	ns2.bnfondos.fi.cr.
+bnfondos.fi.cr.     	3600	DS	60661 8 2 56CC5152DC3418458E7F553EC17E22F1C543EEA6877776FBE199E90701A5FA97
+ns.bnfondos.fi.cr.  	3600	A	201.220.29.22
+ns2.bnfondos.fi.cr. 	3600	A	201.220.29.151
+bnmovil.fi.cr.      	3600	NS	ns.bncr.fi.cr.
+bnmovil.fi.cr.      	3600	NS	ns2.bncr.fi.cr.
+bnmovil.fi.cr.      	3600	DS	18512 8 2 18EDAF1823B0D075B7EE07ADEA84AF0043E62D18230E6811E1ECB67BA5636C1F
+bnonline.fi.cr.     	3600	NS	ns.bncr.fi.cr.
+bnonline.fi.cr.     	3600	NS	ns2.bncr.fi.cr.
+bnonline.fi.cr.     	3600	DS	15550 8 2 36D9A44B36AFDC60E0F042BC7122530C600813EC98377A93BF987C1BA26ACF3F
+bnventadebienes.fi.cr.	3600	NS	ns.bncr.fi.cr.
+bnventadebienes.fi.cr.	3600	NS	ns2.bncr.fi.cr.
+bnvital.fi.cr.      	3600	NS	ns.bncr.fi.cr.
+bnvital.fi.cr.      	3600	NS	secundario.nic.cr.
+bp.fi.cr.           	3600	NS	ns1-02.azure-dns.com.
+bp.fi.cr.           	3600	NS	ns2-02.azure-dns.net.
+bp.fi.cr.           	3600	NS	ns3-02.azure-dns.org.
+bp.fi.cr.           	3600	NS	ns4-02.azure-dns.info.
+bpdc.fi.cr.         	3600	NS	ns1-07.azure-dns.com.
+bpdc.fi.cr.         	3600	NS	ns2-07.azure-dns.net.
+bpdc.fi.cr.         	3600	NS	ns3-07.azure-dns.org.
+bpdc.fi.cr.         	3600	NS	ns4-07.azure-dns.info.
+cafsa.fi.cr.        	3600	NS	ns.cafsa.fi.cr.
+cafsa.fi.cr.        	3600	NS	ns102.cloudns.net.
+ns.cafsa.fi.cr.     	3600	A	186.177.87.50
+cajadeande.fi.cr.   	3600	NS	ns1.cajadeande.fi.cr.
+cajadeande.fi.cr.   	3600	NS	ns2.cajadeande.fi.cr.
+cajadeande.fi.cr.   	3600	NS	ns3.cajadeande.fi.cr.
+cajadeande.fi.cr.   	3600	NS	ns4.cajadeande.fi.cr.
+ns1.cajadeande.fi.cr.	3600	A	200.91.71.227
+ns2.cajadeande.fi.cr.	3600	A	201.193.202.205
+ns3.cajadeande.fi.cr.	3600	A	186.15.232.124
+ns4.cajadeande.fi.cr.	3600	A	186.15.232.130
+camaradebancos.fi.cr.	3600	NS	ns1.digitalocean.com.
+camaradebancos.fi.cr.	3600	NS	ns2.digitalocean.com.
+camaradebancos.fi.cr.	3600	NS	ns3.digitalocean.com.
+cathayseguros.fi.cr.	3600	NS	ns1.speedydns.net.
+cathayseguros.fi.cr.	3600	NS	ns2.speedydns.net.
+centraldirecto.fi.cr.	3600	NS	ns3.bccr.fi.cr.
+centraldirecto.fi.cr.	3600	NS	ns4.bccr.fi.cr.
+centraldirecto.fi.cr.	3600	DS	6094 8 2 CA8C4ED34FC64118013F42745AC4B858BBA077FA7F4164C66AE75DFF1240BBF3
+comunicacionbccr.fi.cr.	3600	NS	ns-a-1.getresponse360.pl.
+comunicacionbccr.fi.cr.	3600	NS	ns-a-2.getresponse360.pl.
+conassif.fi.cr.     	3600	NS	ns1-37.azure-dns.com.
+conassif.fi.cr.     	3600	NS	ns2-37.azure-dns.net.
+conassif.fi.cr.     	3600	NS	ns3-37.azure-dns.org.
+conassif.fi.cr.     	3600	NS	ns4-37.azure-dns.info.
+conexionmucap.fi.cr.	3600	NS	ns.conexionmucap.fi.cr.
+conexionmucap.fi.cr.	3600	NS	ns1.conexionmucap.fi.cr.
+conexionmucap.fi.cr.	3600	NS	love.ns.cloudflare.com.
+conexionmucap.fi.cr.	3600	NS	moura.ns.cloudflare.com.
+ns.conexionmucap.fi.cr.	3600	A	201.193.223.196
+ns1.conexionmucap.fi.cr.	3600	A	186.32.190.246
+coocique.fi.cr.     	3600	NS	pdns1.registrar-servers.com.
+coocique.fi.cr.     	3600	NS	pdns2.registrar-servers.com.
+coopavegra.fi.cr.   	3600	NS	aria.ns.cloudflare.com.
+coopavegra.fi.cr.   	3600	NS	leonard.ns.cloudflare.com.
+coope-ande.fi.cr.   	3600	NS	ico.intercoop.fi.cr.
+coope-ande.fi.cr.   	3600	NS	secundario.nic.cr.
+coope-ande1.fi.cr.  	3600	NS	ico.intercoop.fi.cr.
+coope-ande1.fi.cr.  	3600	NS	secundario.nic.cr.
+coopealianza.fi.cr. 	3600	NS	brady.ns.cloudflare.com.
+coopealianza.fi.cr. 	3600	NS	teagan.ns.cloudflare.com.
+coopealianzanotifica.fi.cr.	3600	NS	brady.ns.cloudflare.com.
+coopealianzanotifica.fi.cr.	3600	NS	teagan.ns.cloudflare.com.
+coopeande.fi.cr.    	3600	NS	ns.interamerica.net.
+coopeande.fi.cr.    	3600	NS	ns3.interamerica.net.
+coopeande6.fi.cr.   	3600	NS	srv301.infranetworking.com.
+coopeande6.fi.cr.   	3600	NS	srv302.infranetworking.com.
+coopeaya.fi.cr.     	3600	NS	ns1-05.azure-dns.com.
+coopeaya.fi.cr.     	3600	NS	ns2-05.azure-dns.net.
+coopeaya.fi.cr.     	3600	NS	ns3-05.azure-dns.org.
+coopeaya.fi.cr.     	3600	NS	ns4-05.azure-dns.info.
+coopebanacio.fi.cr. 	3600	NS	ns4788.banahosting.com.
+coopebanacio.fi.cr. 	3600	NS	ns4789.banahosting.com.
+coopebanpo.fi.cr.   	3600	NS	ns-312.awsdns-39.com.
+coopebanpo.fi.cr.   	3600	NS	ns-589.awsdns-09.net.
+coopebanpo.fi.cr.   	3600	NS	ns-1399.awsdns-46.org.
+coopebanpo.fi.cr.   	3600	NS	ns-1745.awsdns-26.co.uk.
+coopebanpoenlinea.fi.cr.	3600	NS	ns-495.awsdns-61.com.
+coopebanpoenlinea.fi.cr.	3600	NS	ns-622.awsdns-13.net.
+coopebanpoenlinea.fi.cr.	3600	NS	ns-1387.awsdns-45.org.
+coopebanpoenlinea.fi.cr.	3600	NS	ns-1951.awsdns-51.co.uk.
+coopebanpotarjetas.fi.cr.	3600	NS	sol.coopenae.fi.cr.
+coopebanpotarjetas.fi.cr.	3600	NS	sol3.coopenae.fi.cr.
+coopecaja.fi.cr.    	3600	NS	ns3.coopecaja.fi.cr.
+coopecaja.fi.cr.    	3600	NS	secundario.nic.cr.
+ns3.coopecaja.fi.cr.	3600	A	190.241.180.131
+coopecar.fi.cr.     	3600	NS	ns1.coopecar.fi.cr.
+coopecar.fi.cr.     	3600	NS	ns2.coopecar.fi.cr.
+ns1.coopecar.fi.cr. 	3600	A	190.106.77.251
+ns2.coopecar.fi.cr. 	3600	A	3.216.94.20
+coopefyl.fi.cr.     	3600	NS	lee.ns.cloudflare.com.
+coopefyl.fi.cr.     	3600	NS	emerie.ns.cloudflare.com.
+coopefylenlinea.fi.cr.	3600	NS	deb.ns.cloudflare.com.
+coopefylenlinea.fi.cr.	3600	NS	jasper.ns.cloudflare.com.
+coopegrecia.fi.cr.  	3600	NS	ns-199.awsdns-24.com.
+coopegrecia.fi.cr.  	3600	NS	ns-724.awsdns-26.net.
+coopegrecia.fi.cr.  	3600	NS	ns-1073.awsdns-06.org.
+coopegrecia.fi.cr.  	3600	NS	ns-1951.awsdns-51.co.uk.
+coopegreciamovil.fi.cr.	3600	NS	ns-280.awsdns-35.com.
+coopegreciamovil.fi.cr.	3600	NS	ns-986.awsdns-59.net.
+coopegreciamovil.fi.cr.	3600	NS	ns-1494.awsdns-58.org.
+coopegreciamovil.fi.cr.	3600	NS	ns-1697.awsdns-20.co.uk.
+coopejudicial.fi.cr.	3600	NS	ns1-08.azure-dns.com.
+coopejudicial.fi.cr.	3600	NS	ns2-08.azure-dns.net.
+coopejudicial.fi.cr.	3600	NS	ns3-08.azure-dns.org.
+coopejudicial.fi.cr.	3600	NS	ns4-08.azure-dns.info.
+coopemedicos.fi.cr. 	3600	NS	ns-464.awsdns-58.com.
+coopemedicos.fi.cr. 	3600	NS	ns-519.awsdns-00.net.
+coopemedicos.fi.cr. 	3600	NS	ns-1063.awsdns-04.org.
+coopemedicos.fi.cr. 	3600	NS	ns-2001.awsdns-58.co.uk.
+coopemedicos-tarjetas.fi.cr.	3600	NS	sol.coopenae.fi.cr.
+coopemedicos-tarjetas.fi.cr.	3600	NS	sol3.coopenae.fi.cr.
+coopemep.fi.cr.     	3600	NS	ns19.domaincontrol.com.
+coopemep.fi.cr.     	3600	NS	ns20.domaincontrol.com.
+coopemepenlinea.fi.cr.	3600	NS	reservado1.nic.cr.
+coopemepenlinea.fi.cr.	3600	NS	reservado2.nic.cr.
+coopenae.fi.cr.     	3600	NS	fenix.coopenae.fi.cr.
+coopenae.fi.cr.     	3600	NS	fenix3.coopenae.fi.cr.
+fenix.coopenae.fi.cr.	3600	A	201.197.152.36
+fenix3.coopenae.fi.cr.	3600	A	170.246.159.104
+coopenaecr.fi.cr.   	3600	NS	may.ns.cloudflare.com.
+coopenaecr.fi.cr.   	3600	NS	ashton.ns.cloudflare.com.
+coopenaeitsp.fi.cr. 	3600	NS	sol.coopenae.fi.cr.
+coopenaeitsp.fi.cr. 	3600	NS	sol2.coopenae.fi.cr.
+coopenaeitsp.fi.cr. 	3600	NS	sol3.coopenae.fi.cr.
+coopenaeitspd.fi.cr.	3600	NS	fenix.coopenaeitspd.fi.cr.
+coopenaeitspd.fi.cr.	3600	NS	fenix3.coopenaeitspd.fi.cr.
+fenix.coopenaeitspd.fi.cr.	3600	A	201.197.152.36
+fenix3.coopenaeitspd.fi.cr.	3600	A	170.246.159.104
+coopenaeotp.fi.cr.  	3600	NS	fenix.coopenaeotp.fi.cr.
+coopenaeotp.fi.cr.  	3600	NS	fenix3.coopenaeotp.fi.cr.
+fenix.coopenaeotp.fi.cr.	3600	A	201.197.152.36
+fenix3.coopenaeotp.fi.cr.	3600	A	170.246.159.104
+coopenaep.fi.cr.    	3600	NS	fenix.coopenaep.fi.cr.
+coopenaep.fi.cr.    	3600	NS	fenix2.coopenaep.fi.cr.
+coopenaep.fi.cr.    	3600	NS	fenix3.coopenaep.fi.cr.
+fenix.coopenaep.fi.cr.	3600	A	201.197.152.36
+fenix2.coopenaep.fi.cr.	3600	A	190.52.111.36
+fenix3.coopenaep.fi.cr.	3600	A	170.246.159.104
+coopenaevirtual.fi.cr.	3600	NS	fenix.coopenaevirtual.fi.cr.
+coopenaevirtual.fi.cr.	3600	NS	fenix3.coopenaevirtual.fi.cr.
+fenix.coopenaevirtual.fi.cr.	3600	A	201.197.152.36
+fenix3.coopenaevirtual.fi.cr.	3600	A	170.246.159.104
+cooperativauniversitaria.fi.cr.	3600	NS	ns75.domaincontrol.com.
+cooperativauniversitaria.fi.cr.	3600	NS	ns76.domaincontrol.com.
+coopesanramon.fi.cr.	3600	NS	ns-385.awsdns-48.com.
+coopesanramon.fi.cr.	3600	NS	ns-751.awsdns-29.net.
+coopesanramon.fi.cr.	3600	NS	ns-1444.awsdns-52.org.
+coopesanramon.fi.cr.	3600	NS	ns-2027.awsdns-61.co.uk.
+coopeservidores.fi.cr.	3600	NS	ns1.cs.fi.cr.
+coopeservidores.fi.cr.	3600	NS	ns1.coopeservidores.fi.cr.
+coopeservidores.fi.cr.	3600	NS	ns2.cs.fi.cr.
+coopeservidores.fi.cr.	3600	NS	ns2.coopeservidores.fi.cr.
+ns1.coopeservidores.fi.cr.	3600	A	200.91.163.155
+ns2.coopeservidores.fi.cr.	3600	A	200.91.163.155
+coopesipe.fi.cr.    	3600	NS	ns1.quarzoinnovacion.com.
+coopesipe.fi.cr.    	3600	NS	ns2.quarzoinnovacion.com.
+coopeuna.fi.cr.     	3600	NS	ns31.domaincontrol.com.
+coopeuna.fi.cr.     	3600	NS	ns32.domaincontrol.com.
+corredoramutualseguros.fi.cr.	3600	NS	ns1.pxserver1.com.
+corredoramutualseguros.fi.cr.	3600	NS	ns2.pxserver1.com.
+cpgr.fi.cr.         	3600	NS	ns-476.awsdns-59.com.
+cpgr.fi.cr.         	3600	NS	ns-828.awsdns-39.net.
+cpgr.fi.cr.         	3600	NS	ns-1346.awsdns-40.org.
+cpgr.fi.cr.         	3600	NS	ns-1587.awsdns-06.co.uk.
+credecoop.fi.cr.    	3600	NS	ns-336.awsdns-42.com.
+credecoop.fi.cr.    	3600	NS	ns-795.awsdns-35.net.
+credecoop.fi.cr.    	3600	NS	ns-1321.awsdns-37.org.
+credecoop.fi.cr.    	3600	NS	ns-1899.awsdns-45.co.uk.
+credecoopenlinea.fi.cr.	3600	NS	ns-155.awsdns-19.com.
+credecoopenlinea.fi.cr.	3600	NS	ns-832.awsdns-40.net.
+credecoopenlinea.fi.cr.	3600	NS	ns-1169.awsdns-18.org.
+credecoopenlinea.fi.cr.	3600	NS	ns-1601.awsdns-08.co.uk.
+creditogrupomutual.fi.cr.	3600	NS	ns-98.awsdns-12.com.
+creditogrupomutual.fi.cr.	3600	NS	ns-581.awsdns-08.net.
+creditogrupomutual.fi.cr.	3600	NS	ns-1070.awsdns-05.org.
+creditogrupomutual.fi.cr.	3600	NS	ns-1702.awsdns-20.co.uk.
+credomatic.fi.cr.   	3600	NS	ns.credomatic.com.
+credomatic.fi.cr.   	3600	NS	ns1.credomatic.com.
+credomatic.fi.cr.   	3600	NS	ns2.credomatic.com.
+cs.fi.cr.           	3600	NS	ns1.cs.fi.cr.
+cs.fi.cr.           	3600	NS	ns1.coopeservidores.fi.cr.
+cs.fi.cr.           	3600	NS	ns2.cs.fi.cr.
+cs.fi.cr.           	3600	NS	ns2.coopeservidores.fi.cr.
+ns1.cs.fi.cr.       	3600	A	200.91.163.155
+ns2.cs.fi.cr.       	3600	A	200.91.163.155
+csahorroycredito.fi.cr.	3600	NS	reservado1.nic.cr.
+csahorroycredito.fi.cr.	3600	NS	reservado2.nic.cr.
+csclick.fi.cr.      	3600	NS	ns-120.awsdns-15.com.
+csclick.fi.cr.      	3600	NS	ns-944.awsdns-54.net.
+csclick.fi.cr.      	3600	NS	ns-1464.awsdns-55.org.
+csclick.fi.cr.      	3600	NS	ns-1975.awsdns-54.co.uk.
+csenlinea.fi.cr.    	3600	NS	ns1.cs.fi.cr.
+csenlinea.fi.cr.    	3600	NS	ns1.coopeservidores.fi.cr.
+csenlinea.fi.cr.    	3600	NS	ns2.cs.fi.cr.
+csenlinea.fi.cr.    	3600	NS	ns2.coopeservidores.fi.cr.
+csgrupofinanciero.fi.cr.	3600	NS	reservado1.nic.cr.
+csgrupofinanciero.fi.cr.	3600	NS	reservado2.nic.cr.
+csm.fi.cr.          	3600	NS	ns1.mysecurecloudhost.com.
+csm.fi.cr.          	3600	NS	ns2.mysecurecloudhost.com.
+csm.fi.cr.          	3600	NS	ns3.mysecurecloudhost.com.
+csm.fi.cr.          	3600	NS	ns4.mysecurecloudhost.com.
+cu.fi.cr.           	3600	NS	ns69.domaincontrol.com.
+cu.fi.cr.           	3600	NS	ns70.domaincontrol.com.
+desyfin.fi.cr.      	3600	NS	ns1.reseller-224.mco2.hostdime.com.
+desyfin.fi.cr.      	3600	NS	ns2.reseller-224.mco2.hostdime.com.
+diwobank.fi.cr.     	3600	NS	ns1-38.azure-dns.com.
+diwobank.fi.cr.     	3600	NS	ns2-38.azure-dns.net.
+diwobank.fi.cr.     	3600	NS	ns3-38.azure-dns.org.
+diwobank.fi.cr.     	3600	NS	ns4-38.azure-dns.info.
+easydeskpluscoopenae.fi.cr.	3600	NS	fenix.easydeskpluscoopenae.fi.cr.
+easydeskpluscoopenae.fi.cr.	3600	NS	fenix3.easydeskpluscoopenae.fi.cr.
+fenix.easydeskpluscoopenae.fi.cr. 3600	A	201.197.152.36
+fenix3.easydeskpluscoopenae.fi.cr. 3600	A	170.246.159.104
+esfera.fi.cr.       	3600	NS	ns.bancobcr.com.
+esfera.fi.cr.       	3600	NS	ns1.bancobcr.com.
+esfera.fi.cr.       	3600	NS	ns2.bancobcr.com.
+esfera.fi.cr.       	3600	NS	ns3.bancobcr.com.
+ets.fi.cr.          	3600	NS	kayden.ns.cloudflare.com.
+ets.fi.cr.          	3600	NS	suzanne.ns.cloudflare.com.
+ficq.fi.cr.         	3600	NS	pdns1.registrar-servers.com.
+ficq.fi.cr.         	3600	NS	pdns2.registrar-servers.com.
+fincomeca.fi.cr.    	3600	NS	koa.ns.cloudflare.com.
+fincomeca.fi.cr.    	3600	NS	meera.ns.cloudflare.com.
+gmapi.fi.cr.        	3600	NS	ns11.constellix.com.
+gmapi.fi.cr.        	3600	NS	ns21.constellix.com.
+gmapi.fi.cr.        	3600	NS	ns31.constellix.com.
+gmapi.fi.cr.        	3600	NS	ns41.constellix.net.
+gmapi.fi.cr.        	3600	NS	ns51.constellix.net.
+gmapi.fi.cr.        	3600	NS	ns61.constellix.net.
+gmapp.fi.cr.        	3600	NS	ns11.constellix.com.
+gmapp.fi.cr.        	3600	NS	ns21.constellix.com.
+gmapp.fi.cr.        	3600	NS	ns31.constellix.com.
+gmapp.fi.cr.        	3600	NS	ns41.constellix.net.
+gmapp.fi.cr.        	3600	NS	ns51.constellix.net.
+gmapp.fi.cr.        	3600	NS	ns61.constellix.net.
+gmg.fi.cr.          	3600	NS	dns1.gmg.fi.cr.
+gmg.fi.cr.          	3600	NS	dns2.gmg.fi.cr.
+dns1.gmg.fi.cr.     	3600	A	186.26.113.201
+dns2.gmg.fi.cr.     	3600	A	190.241.192.102
+grupofinanciero.fi.cr.	3600	NS	reservado1.nic.cr.
+grupofinanciero.fi.cr.	3600	NS	reservado2.nic.cr.
+grupofinancierocs.fi.cr.	3600	NS	reservado1.nic.cr.
+grupofinancierocs.fi.cr.	3600	NS	reservado2.nic.cr.
+grupofinancierogmg.fi.cr.	3600	NS	hdns1.nic.cr.
+grupofinancierogmg.fi.cr.	3600	NS	hdns2.nic.cr.
+grupofinancierogmg.fi.cr.	3600	NS	hdns3.nic.cr.
+grupofinancierogmg.fi.cr.	3600	NS	hdns4.nic.cr.
+grupofinancierogmg.fi.cr.	3600	DS	61012 13 2 326B97E8D248B0371C1121498711914A61B854B6AC782ECA7EA597691BCEBD90
+grupofinancierom.fi.cr.	3600	NS	ns1-03.azure-dns.com.
+grupofinancierom.fi.cr.	3600	NS	ns2-03.azure-dns.net.
+grupofinancierom.fi.cr.	3600	NS	ns3-03.azure-dns.org.
+grupofinancierom.fi.cr.	3600	NS	ns4-03.azure-dns.info.
+grupomutual.fi.cr.  	3600	NS	ns01.adndatacenters.com.
+grupomutual.fi.cr.  	3600	NS	ns02.adndatacenters.com.
+grupomutual.fi.cr.  	3600	NS	ns03.adndatacenters.com.
+grupomutual.fi.cr.  	3600	NS	ns04.adndatacenters.com.
+grupomutual.fi.cr.  	3600	DS	37744 8 2 7865CA9E996828AA027128280006413BFD066C7EC06769458E1000C4334E519B
+grupomutual.fi.cr.  	3600	DS	44965 8 2 9179E01D4706FDC979134DFFFFDE17757072F72EE3F4AFF4E1C74BCEEACC1B15
+grupomutualalajuelalavivienda.fi.cr. 3600	NS	ns11.constellix.com.
+grupomutualalajuelalavivienda.fi.cr. 3600	NS	ns21.constellix.com.
+grupomutualalajuelalavivienda.fi.cr. 3600	NS	ns31.constellix.com.
+grupomutualalajuelalavivienda.fi.cr. 3600	NS	ns41.constellix.net.
+grupomutualalajuelalavivienda.fi.cr. 3600	NS	ns51.constellix.net.
+grupomutualalajuelalavivienda.fi.cr. 3600	NS	ns61.constellix.net.
+gruposama.fi.cr.    	3600	NS	ns11.constellix.com.
+gruposama.fi.cr.    	3600	NS	ns21.constellix.com.
+gruposama.fi.cr.    	3600	NS	ns31.constellix.com.
+gruposama.fi.cr.    	3600	NS	ns41.constellix.net.
+gruposama.fi.cr.    	3600	NS	ns51.constellix.net.
+gruposama.fi.cr.    	3600	NS	ns61.constellix.net.
+holawink.fi.cr.     	3600	NS	sol.coopenae.fi.cr.
+holawink.fi.cr.     	3600	NS	sol2.coopenae.fi.cr.
+infocoopealianza.fi.cr.	3600	NS	sol.coopenae.fi.cr.
+infocoopealianza.fi.cr.	3600	NS	sol3.coopenae.fi.cr.
+infogrupomutual.fi.cr.	3600	NS	ns1.sitiosparaemprendedores.com.
+infogrupomutual.fi.cr.	3600	NS	ns2.sitiosparaemprendedores.com.
+jpc.fi.cr.          	3600	NS	charles.ns.cloudflare.com.
+jpc.fi.cr.          	3600	NS	lindsey.ns.cloudflare.com.
+jpc.fi.cr.          	3600	DS	2371 13 2 8CCD7BC16CFF111B677C1C1209F0E8B3AFF2455140AC0648C326C645B5E43659
+lafise.fi.cr.       	3600	NS	ns.lafise.fi.cr.
+lafise.fi.cr.       	3600	NS	ns2.lafise.fi.cr.
+lafise.fi.cr.       	3600	NS	ns3.lafise.fi.cr.
+ns.lafise.fi.cr.    	3600	A	196.40.5.155
+ns2.lafise.fi.cr.   	3600	A	196.40.17.204
+ns3.lafise.fi.cr.   	3600	A	186.176.9.52
+lafiseenlinea.fi.cr.	3600	NS	ns.bancanet.fi.cr.
+lafiseenlinea.fi.cr.	3600	NS	ns2.bancanet.fi.cr.
+lafiseonline.fi.cr. 	3600	NS	ns.bancanet.fi.cr.
+lafiseonline.fi.cr. 	3600	NS	ns2.bancanet.fi.cr.
+linkdepagocoopenae.fi.cr.	3600	NS	fenix.linkdepagocoopenae.fi.cr.
+linkdepagocoopenae.fi.cr.	3600	NS	fenix3.linkdepagocoopenae.fi.cr.
+fenix.linkdepagocoopenae.fi.cr.	3600	A	201.197.152.36
+fenix3.linkdepagocoopenae.fi.cr. 3600	A	170.246.159.104
+mgrupofinanciero.fi.cr.	3600	NS	ns1-04.azure-dns.com.
+mgrupofinanciero.fi.cr.	3600	NS	ns2-04.azure-dns.net.
+mgrupofinanciero.fi.cr.	3600	NS	ns3-04.azure-dns.org.
+mgrupofinanciero.fi.cr.	3600	NS	ns4-04.azure-dns.info.
+micoopesr.fi.cr.    	3600	NS	ns-446.awsdns-55.com.
+micoopesr.fi.cr.    	3600	NS	ns-765.awsdns-31.net.
+micoopesr.fi.cr.    	3600	NS	ns-1316.awsdns-36.org.
+micoopesr.fi.cr.    	3600	NS	ns-1974.awsdns-54.co.uk.
+micredomatic.fi.cr. 	3600	NS	ns.credomatic.com.
+micredomatic.fi.cr. 	3600	NS	ns1.credomatic.com.
+micredomatic.fi.cr. 	3600	NS	ns2.credomatic.com.
+mucap.fi.cr.        	3600	NS	ns.mucap.fi.cr.
+mucap.fi.cr.        	3600	NS	ns1.mucap.fi.cr.
+mucap.fi.cr.        	3600	NS	love.ns.cloudflare.com.
+mucap.fi.cr.        	3600	NS	moura.ns.cloudflare.com.
+ns.mucap.fi.cr.     	3600	A	201.193.223.196
+ns1.mucap.fi.cr.    	3600	A	186.32.190.246
+multimoney.fi.cr.   	3600	NS	pdns07.domaincontrol.com.
+multimoney.fi.cr.   	3600	NS	pdns08.domaincontrol.com.
+mutualaj.fi.cr.     	3600	NS	ns11.constellix.com.
+mutualaj.fi.cr.     	3600	NS	ns21.constellix.com.
+mutualaj.fi.cr.     	3600	NS	ns31.constellix.com.
+mutualaj.fi.cr.     	3600	NS	ns41.constellix.net.
+mutualaj.fi.cr.     	3600	NS	ns51.constellix.net.
+mutualaj.fi.cr.     	3600	NS	ns61.constellix.net.
+mutualalajuela.fi.cr.	3600	NS	ns11.constellix.com.
+mutualalajuela.fi.cr.	3600	NS	ns21.constellix.com.
+mutualalajuela.fi.cr.	3600	NS	ns31.constellix.com.
+mutualalajuela.fi.cr.	3600	NS	ns41.constellix.net.
+mutualalajuela.fi.cr.	3600	NS	ns51.constellix.net.
+mutualalajuela.fi.cr.	3600	NS	ns61.constellix.net.
+mutualempresarial.fi.cr.	3600	NS	ns11.constellix.com.
+mutualempresarial.fi.cr.	3600	NS	ns21.constellix.com.
+mutualempresarial.fi.cr.	3600	NS	ns31.constellix.com.
+mutualempresarial.fi.cr.	3600	NS	ns41.constellix.net.
+mutualempresarial.fi.cr.	3600	NS	ns51.constellix.net.
+mutualempresarial.fi.cr.	3600	NS	ns61.constellix.net.
+mutualvalores.fi.cr.	3600	NS	ns11.constellix.com.
+mutualvalores.fi.cr.	3600	NS	ns21.constellix.com.
+mutualvalores.fi.cr.	3600	NS	ns31.constellix.com.
+mutualvalores.fi.cr.	3600	NS	ns41.constellix.net.
+mutualvalores.fi.cr.	3600	NS	ns51.constellix.net.
+mutualvalores.fi.cr.	3600	NS	ns61.constellix.net.
+mvalores.fi.cr.     	3600	NS	ns1-08.azure-dns.com.
+mvalores.fi.cr.     	3600	NS	ns2-08.azure-dns.net.
+mvalores.fi.cr.     	3600	NS	ns3-08.azure-dns.org.
+mvalores.fi.cr.     	3600	NS	ns4-08.azure-dns.info.
+mvaloresenlinea.fi.cr.	3600	NS	ns1-09.azure-dns.com.
+mvaloresenlinea.fi.cr.	3600	NS	ns2-09.azure-dns.net.
+mvaloresenlinea.fi.cr.	3600	NS	ns3-09.azure-dns.org.
+mvaloresenlinea.fi.cr.	3600	NS	ns4-09.azure-dns.info.
+mycredomatic.fi.cr. 	3600	NS	ns.credomatic.com.
+mycredomatic.fi.cr. 	3600	NS	ns1.credomatic.com.
+mycredomatic.fi.cr. 	3600	NS	ns2.credomatic.com.
+ocf.fi.cr.          	3600	NS	ns.admintekcr.net.
+ocf.fi.cr.          	3600	NS	ns1.admintekcr.net.
+ocf.fi.cr.          	3600	NS	ns2.admintekcr.net.
+opcccss.fi.cr.      	3600	NS	ns1-38.azure-dns.com.
+opcccss.fi.cr.      	3600	NS	ns2-38.azure-dns.net.
+opcccss.fi.cr.      	3600	NS	ns3-38.azure-dns.org.
+opcccss.fi.cr.      	3600	NS	ns4-38.azure-dns.info.
+pcd.fi.cr.          	3600	NS	ns1.p201.dns.oraclecloud.net.
+pcd.fi.cr.          	3600	NS	ns2.p201.dns.oraclecloud.net.
+pcd.fi.cr.          	3600	NS	ns3.p201.dns.oraclecloud.net.
+pcd.fi.cr.          	3600	NS	ns4.p201.dns.oraclecloud.net.
+popularpensiones.fi.cr.	3600	NS	denver.ns.cloudflare.com.
+popularpensiones.fi.cr.	3600	NS	jillian.ns.cloudflare.com.
+popularseguros.fi.cr.	3600	NS	ns1-07.azure-dns.com.
+popularseguros.fi.cr.	3600	NS	ns2-07.azure-dns.net.
+popularseguros.fi.cr.	3600	NS	ns3-07.azure-dns.org.
+popularseguros.fi.cr.	3600	NS	ns4-07.azure-dns.inf.
+popularvalores.fi.cr.	3600	NS	a4-64.akam.net.
+popularvalores.fi.cr.	3600	NS	a8-67.akam.net.
+popularvalores.fi.cr.	3600	NS	a9-64.akam.net.
+popularvalores.fi.cr.	3600	NS	a1-159.akam.net.
+popularvalores.fi.cr.	3600	NS	a28-65.akam.net.
+popularvisa.fi.cr.  	3600	NS	ns1.bancopopularcr.com.
+popularvisa.fi.cr.  	3600	NS	ns2.bancopopularcr.com.
+portal-coopemepenlinea.fi.cr.	3600	NS	reservado1.nic.cr.
+portal-coopemepenlinea.fi.cr.	3600	NS	reservado2.nic.cr.
+prival.fi.cr.       	3600	NS	ns37.domaincontrol.com.
+prival.fi.cr.       	3600	NS	ns38.domaincontrol.com.
+promerica.fi.cr.    	3600	NS	ns1.a0.impervasecuredns.net.
+promerica.fi.cr.    	3600	NS	ns1.a1.impervasecuredns.net.
+promerica.fi.cr.    	3600	NS	ns1.a2.impervasecuredns.net.
+promericaapps.fi.cr.	3600	NS	ns1.a0.impervasecuredns.net.
+promericaapps.fi.cr.	3600	NS	ns1.a1.impervasecuredns.net.
+promericaapps.fi.cr.	3600	NS	ns1.a2.impervasecuredns.net.
+scotiabank.fi.cr.   	3600	NS	aus2.akam.net.
+scotiabank.fi.cr.   	3600	NS	eur2.akam.net.
+scotiabank.fi.cr.   	3600	NS	eur3.akam.net.
+scotiabank.fi.cr.   	3600	NS	usc2.akam.net.
+scotiabank.fi.cr.   	3600	NS	usw6.akam.net.
+scotiabank.fi.cr.   	3600	NS	usw7.akam.net.
+scotiabank.fi.cr.   	3600	NS	ns1-16.akam.net.
+scotiabank.fi.cr.   	3600	NS	ns1-208.akam.net.
+selva.fi.cr.        	3600	NS	ns1.crservers.net.
+selva.fi.cr.        	3600	NS	ns2.crservers.net.
+selva.fi.cr.        	3600	NS	ns3.crservers.net.
+sinpe.fi.cr.        	3600	NS	ns3.bccr.fi.cr.
+sinpe.fi.cr.        	3600	NS	ns4.bccr.fi.cr.
+sinpe.fi.cr.        	3600	DS	39811 8 2 55BC4D9D5AF9F98D833ADB2EE0C3500E4242DCA71E64B6CDAC7E29DF0B0807A6
+sinpe-tp.fi.cr.     	3600	NS	ns1-05.azure-dns.com.
+sinpe-tp.fi.cr.     	3600	NS	ns2-05.azure-dns.net.
+sofi.fi.cr.         	3600	NS	ns8479.hostgator.com.
+sofi.fi.cr.         	3600	NS	ns8480.hostgator.com.
+solucionesdigitales.fi.cr.	3600	NS	fenix.solucionesdigitales.fi.cr.
+solucionesdigitales.fi.cr.	3600	NS	fenix3.solucionesdigitales.fi.cr.
+fenix.solucionesdigitales.fi.cr. 3600	A	201.197.152.36
+fenix3.solucionesdigitales.fi.cr. 3600	A	170.246.159.104
+sugef.fi.cr.        	3600	NS	ns3.bccr.fi.cr.
+sugef.fi.cr.        	3600	NS	ns4.bccr.fi.cr.
+sugef.fi.cr.        	3600	DS	49510 8 2 F294896D2A61FA1F33F66C8FC5FB72A2B78CA995581034EFC95766BAF7B8A2F8
+sugese.fi.cr.       	3600	NS	ns3.bccr.fi.cr.
+sugese.fi.cr.       	3600	NS	ns4.bccr.fi.cr.
+sugese.fi.cr.       	3600	DS	65284 8 2 77862FE55FE61AC60DFD349195803B5FBDBE874015205FF6D5E7F783D62F2B21
+sugeval.fi.cr.      	3600	NS	ns3.bccr.fi.cr.
+sugeval.fi.cr.      	3600	NS	ns4.bccr.fi.cr.
+sugeval.fi.cr.      	3600	DS	25570 8 2 052F5B85D5AC849505CE6882344DCBBE92F3B68EFF85FB6719EE62F560177ABA
+supen.fi.cr.        	3600	NS	ns3.bccr.fi.cr.
+supen.fi.cr.        	3600	NS	ns4.bccr.fi.cr.
+supen.fi.cr.        	3600	DS	43879 8 2 9D820E9AAFD5D9DA49C53627D571A1D8D347099463D5BD5B85F76E71740899C7
+superfinancieras.fi.cr.	3600	NS	ns1-01.azure-dns.com.
+superfinancieras.fi.cr.	3600	NS	ns2-01.azure-dns.net.
+superfinancieras.fi.cr.	3600	NS	ns3-01.azure-dns.org.
+superfinancieras.fi.cr.	3600	NS	ns4-01.azure-dns.info.
+tarjetascoopegrecia.fi.cr.	3600	NS	ns-436.awsdns-54.com.
+tarjetascoopegrecia.fi.cr.	3600	NS	ns-585.awsdns-09.net.
+tarjetascoopegrecia.fi.cr.	3600	NS	ns-1046.awsdns-02.org.
+tarjetascoopegrecia.fi.cr.	3600	NS	ns-2022.awsdns-60.co.uk.
+tucan.fi.cr.        	3600	NS	ns.bancobcr.com.
+tucan.fi.cr.        	3600	NS	ns1.bancobcr.com.
+tucan.fi.cr.        	3600	NS	ns2.bancobcr.com.
+tucan.fi.cr.        	3600	NS	ns3.bancobcr.com.
+tucan.fi.cr.        	3600	DS	10076 8 2 9FC889FB962EA3E6A8C217AAD1AA40E3F231ECD3572C605876408AABC5C09B20
+uatvista360coopenae.fi.cr.	3600	NS	fenix.uatvista360coopenae.fi.cr.
+uatvista360coopenae.fi.cr.	3600	NS	fenix3.uatvista360coopenae.fi.cr.
+fenix.uatvista360coopenae.fi.cr. 3600	A	201.197.152.36
+fenix3.uatvista360coopenae.fi.cr. 3600	A	170.246.159.104
+vidaplena.fi.cr.    	3600	NS	webserver.vidaplena.fi.cr.
+vidaplena.fi.cr.    	3600	NS	secundario.nic.cr.
+webserver.vidaplena.fi.cr.	3600	A	190.241.119.106
+vista360coopenae.fi.cr.	3600	NS	fenix.vista360coopenae.fi.cr.
+vista360coopenae.fi.cr.	3600	NS	fenix3.vista360coopenae.fi.cr.
+fenix.vista360coopenae.fi.cr.	3600	A	201.197.152.36
+fenix3.vista360coopenae.fi.cr.	3600	A	170.246.159.104
+;; DNSSEC signatures
+fi.cr.              	3600	RRSIG	NS 13 2 3600 20251104030003 20251021013003 59754 fi.cr. hXou74Cl+iNebN71Fy8vce/mV+ipnBHql0CrMGvwKemg0Q30b4LhHVT9PRlwhzb1EWqyOow8K5053e0UKbmkdA==
+fi.cr.              	3600	RRSIG	SOA 13 2 3600 20251106164506 20251023151506 59754 fi.cr. h3evgq0G/78NFJclBBLcVVhIGhDIxw0SfyKw8Nsi/+iWddFp6hVGeVOHHT9bHduQd2QZ6KoJOcolYTuWmzxDuw==
+fi.cr.              	86400	RRSIG	DNSKEY 13 2 86400 20251105055427 20251022042427 18946 fi.cr. GIlozobVrATEEykaAqAJXxS3Z83PhoTl/Kc60C2CMkqhcSW4TpW3NZrbjb18ISgIg3B6wJ+Z+Zl7Jx67mos+Gw==
+fi.cr.              	3600	RRSIG	NSEC3PARAM 13 2 3600 20251104030003 20251021013003 59754 fi.cr. Zc7ycvkFbAJtVJiZhE4iVMqLPu2RdkUqjyuL/2ZlbvBTipNR/HuK8WPS8miamQ+SBqfLYtN0fssog/tqs+x1Ug==
+bccr.fi.cr.         	3600	RRSIG	DS 13 3 3600 20251104030003 20251021013003 59754 fi.cr. A0DVhNlgdGuzsMVeJWmdHo0/i6hSzBRVvYHCWJ4QSw4xknQPrNUvz7WWOE0is7EeqBhjwXZ0hBTzE8K5P8mYqg==
+bncr.fi.cr.         	3600	RRSIG	DS 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 8RAXMC+u8W1GbAwLXHvMbyCKy+J4Hdogdw7cMO55eoH7cTCCQpwaCMZoqGxvXuJONrfzSzxK/gko8RvZTP5nGg==
+bnempresarial.fi.cr.	3600	RRSIG	DS 13 3 3600 20251104030003 20251021013003 59754 fi.cr. VBB7Rs2pP8R0IAAFUnhtYij0c4NegqY2frZgDwzdoFYi/pHcFIVj1Ntcm59vSBkcjXEeHEIKqNmPg+L4YAIhkg==
+bnfondos.fi.cr.     	3600	RRSIG	DS 13 3 3600 20251104030003 20251021013003 59754 fi.cr. /RiqNukcJhAeOuNlsoOQkGatqasz7g2h4g/akdgySnSlCRwa+hLdj+mecCIcPhKzaCJht5L0UFyvahEhDF8uxQ==
+bnmovil.fi.cr.      	3600	RRSIG	DS 13 3 3600 20251104030003 20251021013003 59754 fi.cr. fiI2w7i6bttisy0lzXcKsUc6qMIJxjK37dIw5zkWSWkB+jpDpOngRhfqTLhRA2q8In5Cyg1XLvpxMHjMy26WXw==
+bnonline.fi.cr.     	3600	RRSIG	DS 13 3 3600 20251104030003 20251021013003 59754 fi.cr. XUczH/1xtltf74yYSykHsW5PlPLWA66N8g/avZfQ4zVXPqy1HEDswIj6YTAvnFjk5r7MxNHnKCmg7BWb43wePQ==
+centraldirecto.fi.cr.	3600	RRSIG	DS 13 3 3600 20251104030003 20251021013003 59754 fi.cr. GZoZLHJI2ZOb4U6DZ4ekQz1yekPPRFB+eOXBF+tmLaezO7Ir6wCHqjBTSDaFWboeffDbOcbkRiNhx3a+iP93oQ==
+grupofinancierogmg.fi.cr.	3600	RRSIG	DS 13 3 3600 20251029140003 20251015123003 59754 fi.cr. 9mlcmnLU54PrvEmAz6yzFYkCluCVVCVzrUi+GfbddYAfAzwp3WGsx3xC9b+vjJjp32o5YIl3tWBpbtsd803ymg==
+grupomutual.fi.cr.  	3600	RRSIG	DS 13 3 3600 20251104030003 20251021013003 59754 fi.cr. cFTzFvuauRoIjN0A09Oil5u0d9FWRu6seRV9sD9QoahYqDYNgUGgbXMtVM3h4RnGuABwad7j7HlZyJeVMShyKg==
+jpc.fi.cr.          	3600	RRSIG	DS 13 3 3600 20251104030003 20251021013003 59754 fi.cr. n21Bk0iI/FHr6DzFOGmV/Oy3QuzzyR6hYlpRp0BCOH2Z9pmrkHfwIZg/l1go1G/fB+8q0JHMMElqJ/O9eRFNGA==
+sinpe.fi.cr.        	3600	RRSIG	DS 13 3 3600 20251104030003 20251021013003 59754 fi.cr. yTqZGFviAaQLWKMOUnHYzH4JKcHUcvuS55PmslWR9dGHiwSdET7R6Otp/l1Sn06Q6NagHRPR0YduZ+bjml1G0Q==
+sugef.fi.cr.        	3600	RRSIG	DS 13 3 3600 20251104030003 20251021013003 59754 fi.cr. gqKcNtAwT7bvOksJW22+D/1Bcb4WYvgNKg9+Bv7J7vSrL2Wr6iyc8NtPv/MghV1Yeao+3pTIJsGjzlhwSzHffA==
+sugese.fi.cr.       	3600	RRSIG	DS 13 3 3600 20251104030003 20251021013003 59754 fi.cr. QcwE628dieOlnKNi18KwFTrzBaUee+iIxWUDEyefT9gVJCs+jqQCipbXPkbo6PV9PAPtdxCvWqij2rDtNq0vaQ==
+sugeval.fi.cr.      	3600	RRSIG	DS 13 3 3600 20251104030003 20251021013003 59754 fi.cr. INQOS36VTM3aqucsiNcP0GC59Eb3kbYHhPLxnnbwjcJ62Td0cWjAFMrVf8fFdrZsJXpMqZzry2jBFeP+JEoFpA==
+supen.fi.cr.        	3600	RRSIG	DS 13 3 3600 20251104030003 20251021013003 59754 fi.cr. Ar+iJgQUOi++/dApNAEmFaT+K8vdB+4FtM0FdJPPIZJYCtaGoM3C80BVln2+hakvYnOBJW3GFtiRhC7uQg3VUA==
+tucan.fi.cr.        	3600	RRSIG	DS 13 3 3600 20251104030003 20251021013003 59754 fi.cr. L+t2fX1ARBk1LUujYbjC1GXgewjMzcYGJn6mcbOWuBCj/xCocGKfIGNvoD+SRXntl0vL3pJrVBALqDt/71p2hA==
+;; DNSSEC NSEC3 chain
+03r8o8leuf0hjuqgils5103p57och33a.fi.cr. 3600	NSEC3	1 0 0 - 05lo7pghig73gkhbhsifcvk2tumqs8t0 NS
+05lo7pghig73gkhbhsifcvk2tumqs8t0.fi.cr. 3600	NSEC3	1 0 0 - 0c2r2tcoi9a92komfq2ekij2gcrrrbo6 NS
+0c2r2tcoi9a92komfq2ekij2gcrrrbo6.fi.cr. 3600	NSEC3	1 0 0 - 0e7ufe6sdnl9rln7g6irdasjrj1lrdss NS
+0e7ufe6sdnl9rln7g6irdasjrj1lrdss.fi.cr. 3600	NSEC3	1 0 0 - 0lf1esuac7temmntv2n7or2bmog6ph0h NS
+0lf1esuac7temmntv2n7or2bmog6ph0h.fi.cr. 3600	NSEC3	1 0 0 - 0mdrpmc2ohv796hdqifjls0jkboav8rd NS
+0mdrpmc2ohv796hdqifjls0jkboav8rd.fi.cr. 3600	NSEC3	1 0 0 - 15mc7cu7cg4a9salquuks0mnk79letd7 NS
+15mc7cu7cg4a9salquuks0mnk79letd7.fi.cr. 3600	NSEC3	1 0 0 - 26ansaetj6eh48fieso7uo98f5d196g9 NS
+26ansaetj6eh48fieso7uo98f5d196g9.fi.cr. 3600	NSEC3	1 0 0 - 2co2f0nb35viuq842sqaor48k2krc69k NS
+2co2f0nb35viuq842sqaor48k2krc69k.fi.cr. 3600	NSEC3	1 0 0 - 2iv46bosn8i9e3f36b2qt31lol04ataj NS
+2iv46bosn8i9e3f36b2qt31lol04ataj.fi.cr. 3600	NSEC3	1 0 0 - 2shcu19poq1cv4rks140kh0kk8fnsh9k NS
+2shcu19poq1cv4rks140kh0kk8fnsh9k.fi.cr. 3600	NSEC3	1 0 0 - 31prajvh4f0s79bke53pssoattiepo5p NS DS RRSIG
+31prajvh4f0s79bke53pssoattiepo5p.fi.cr. 3600	NSEC3	1 0 0 - 328s46ppsnokkm30h3ob25nm07jbv73o NS DS RRSIG
+328s46ppsnokkm30h3ob25nm07jbv73o.fi.cr. 3600	NSEC3	1 0 0 - 353oi4f6ktci13egkj91j7dkoa2oaqnp NS
+353oi4f6ktci13egkj91j7dkoa2oaqnp.fi.cr. 3600	NSEC3	1 0 0 - 355rnl2l1ak5v9emgdrles0981mtirev NS
+355rnl2l1ak5v9emgdrles0981mtirev.fi.cr. 3600	NSEC3	1 0 0 - 3ji0555tn0aeouiacqgcu2r9dp11eo48 NS
+3ji0555tn0aeouiacqgcu2r9dp11eo48.fi.cr. 3600	NSEC3	1 0 0 - 3lj2cjgadasv60jc960fg690375fm0kc NS
+3lj2cjgadasv60jc960fg690375fm0kc.fi.cr. 3600	NSEC3	1 0 0 - 3pm4931i6o4lg239e3vshl2c0m9e3gal NS
+3pm4931i6o4lg239e3vshl2c0m9e3gal.fi.cr. 3600	NSEC3	1 0 0 - 4359p5plbpad6vifjc63u5ioe9gfg7tg NS
+4359p5plbpad6vifjc63u5ioe9gfg7tg.fi.cr. 3600	NSEC3	1 0 0 - 4ge3ffmpdm5gummlib88hli1k5d4pnjl NS
+4ge3ffmpdm5gummlib88hli1k5d4pnjl.fi.cr. 3600	NSEC3	1 0 0 - 4sgb2mtg3s6r4in9bganjh7gb3gqndvc NS
+4sgb2mtg3s6r4in9bganjh7gb3gqndvc.fi.cr. 3600	NSEC3	1 0 0 - 4ss6ak99ft7cugtm0v2423eu83q9q0sn NS
+4ss6ak99ft7cugtm0v2423eu83q9q0sn.fi.cr. 3600	NSEC3	1 0 0 - 4tbrr3b7i9fr7so83nmefgnvlgbjl2ki NS
+4tbrr3b7i9fr7so83nmefgnvlgbjl2ki.fi.cr. 3600	NSEC3	1 0 0 - 533e336v6o3grafn6tdjtf0pc2995qvv NS
+533e336v6o3grafn6tdjtf0pc2995qvv.fi.cr. 3600	NSEC3	1 0 0 - 57oo0q3re9l60l8vs5c3b11bl7lt90as NS
+57oo0q3re9l60l8vs5c3b11bl7lt90as.fi.cr. 3600	NSEC3	1 0 0 - 5jopcd4no6qfvvi2ft66o4vqsp15lgje NS DS RRSIG
+5jopcd4no6qfvvi2ft66o4vqsp15lgje.fi.cr. 3600	NSEC3	1 0 0 - 5r18ati2moju44eqkkokja1um6m8bfjf NS
+5r18ati2moju44eqkkokja1um6m8bfjf.fi.cr. 3600	NSEC3	1 0 0 - 5rotj5bgg47n93pc53mi4t8vhsf39e95 NS
+5rotj5bgg47n93pc53mi4t8vhsf39e95.fi.cr. 3600	NSEC3	1 0 0 - 5tget8c903g2m9jnv9lrkmo1bftu6got NS
+5tget8c903g2m9jnv9lrkmo1bftu6got.fi.cr. 3600	NSEC3	1 0 0 - 6dlpm6pl8uu7kqnur93vnorqf3nb974r NS
+6dlpm6pl8uu7kqnur93vnorqf3nb974r.fi.cr. 3600	NSEC3	1 0 0 - 6hedvujm4bencsh8sbjn61s1j41qet71 NS
+6hedvujm4bencsh8sbjn61s1j41qet71.fi.cr. 3600	NSEC3	1 0 0 - 6ulehoo42rs84fcdsasd87i4buqiqhva NS
+6ulehoo42rs84fcdsasd87i4buqiqhva.fi.cr. 3600	NSEC3	1 0 0 - 6v81j80jenu95dichhbikhppm6v4q20n NS
+6v81j80jenu95dichhbikhppm6v4q20n.fi.cr. 3600	NSEC3	1 0 0 - 78l84eppm9n578lb09fsaeugueo7520h NS
+78l84eppm9n578lb09fsaeugueo7520h.fi.cr. 3600	NSEC3	1 0 0 - 7959iv534vn7fh7dvs8mf175rsanikmm NS
+7959iv534vn7fh7dvs8mf175rsanikmm.fi.cr. 3600	NSEC3	1 0 0 - 7a09uguqelc5hakh15cadkje2rts1aab NS
+7a09uguqelc5hakh15cadkje2rts1aab.fi.cr. 3600	NSEC3	1 0 0 - 7cbid1f0vc5kgq40i3dcujgsimdd93hs NS
+7cbid1f0vc5kgq40i3dcujgsimdd93hs.fi.cr. 3600	NSEC3	1 0 0 - 7okru6mlvimbf8q1u8tsbf667404q26f NS DS RRSIG
+7okru6mlvimbf8q1u8tsbf667404q26f.fi.cr. 3600	NSEC3	1 0 0 - 86i8si2jlsb15posd4aq5sbt3qcoa38d NS
+86i8si2jlsb15posd4aq5sbt3qcoa38d.fi.cr. 3600	NSEC3	1 0 0 - 8rraooancpah70tr27b2jf56uta8o1gi NS DS RRSIG
+8rraooancpah70tr27b2jf56uta8o1gi.fi.cr. 3600	NSEC3	1 0 0 - 8sd06cvl4itdo8c7b56t9os1ti6efng8 NS
+8sd06cvl4itdo8c7b56t9os1ti6efng8.fi.cr. 3600	NSEC3	1 0 0 - 8u12t4gmdql36161qn2mf12bur7sa6mf NS
+8u12t4gmdql36161qn2mf12bur7sa6mf.fi.cr. 3600	NSEC3	1 0 0 - 92nv8k8h7uuk2lar7e9s5umcpk1b7hbc NS
+92nv8k8h7uuk2lar7e9s5umcpk1b7hbc.fi.cr. 3600	NSEC3	1 0 0 - 93dtdmsu4m3uhinra8asf81mn5jj3nh2 NS
+93dtdmsu4m3uhinra8asf81mn5jj3nh2.fi.cr. 3600	NSEC3	1 0 0 - 93p92cvtt16t32bjv95ae2u6cgombor4 NS
+93p92cvtt16t32bjv95ae2u6cgombor4.fi.cr. 3600	NSEC3	1 0 0 - 96d2ug1tvbrf4i3to3abphkld23phvr8 NS
+96d2ug1tvbrf4i3to3abphkld23phvr8.fi.cr. 3600	NSEC3	1 0 0 - 9dihn5pfce1q86iu6s4dgk1b5l9r3spk NS
+9dihn5pfce1q86iu6s4dgk1b5l9r3spk.fi.cr. 3600	NSEC3	1 0 0 - 9jj6bqamu74skfg1ei2dogrd62r132i4 NS
+9jj6bqamu74skfg1ei2dogrd62r132i4.fi.cr. 3600	NSEC3	1 0 0 - 9khldmkqit3agsjhes4rsrv22a67hi16 NS
+9khldmkqit3agsjhes4rsrv22a67hi16.fi.cr. 3600	NSEC3	1 0 0 - a8hdlsdgv8ikm7e3n7d135nm7b1our6g NS
+a8hdlsdgv8ikm7e3n7d135nm7b1our6g.fi.cr. 3600	NSEC3	1 0 0 - abfduhch4rhpkb8q3h8dt13jc0q3reh6 NS
+abfduhch4rhpkb8q3h8dt13jc0q3reh6.fi.cr. 3600	NSEC3	1 0 0 - ai2ggsc7nhtinf6dcfb2qbf04qkblmsp NS
+ai2ggsc7nhtinf6dcfb2qbf04qkblmsp.fi.cr. 3600	NSEC3	1 0 0 - aie5dn3psng4bign54ajf0sfct5a01v9 NS
+aie5dn3psng4bign54ajf0sfct5a01v9.fi.cr. 3600	NSEC3	1 0 0 - ask3t8olk0rgdm8v2vgs3apjkrp5sora NS
+ask3t8olk0rgdm8v2vgs3apjkrp5sora.fi.cr. 3600	NSEC3	1 0 0 - b74qi8lq5q3s8c82ssit756nnmkkus3d NS
+b74qi8lq5q3s8c82ssit756nnmkkus3d.fi.cr. 3600	NSEC3	1 0 0 - b8t5feur1844lp4abpg5juit2bfb0kag NS
+b8t5feur1844lp4abpg5juit2bfb0kag.fi.cr. 3600	NSEC3	1 0 0 - bfu19jqvu37fft028ucfj27j4rv1a027 NS
+bfu19jqvu37fft028ucfj27j4rv1a027.fi.cr. 3600	NSEC3	1 0 0 - ble4sr1p7i3b4gmhf6anhlvceve5end8 NS
+ble4sr1p7i3b4gmhf6anhlvceve5end8.fi.cr. 3600	NSEC3	1 0 0 - br8p7s9srnu6dceklq88fuf1jfneeqp7 NS
+br8p7s9srnu6dceklq88fuf1jfneeqp7.fi.cr. 3600	NSEC3	1 0 0 - btnqmsi1autmfriflbljnv9fej1ugmtg NS
+btnqmsi1autmfriflbljnv9fej1ugmtg.fi.cr. 3600	NSEC3	1 0 0 - c2sego65v9rc5nm77qqvke12sq1o2krt NS
+c2sego65v9rc5nm77qqvke12sq1o2krt.fi.cr. 3600	NSEC3	1 0 0 - c7bfj6abd3bm58li14o65fpkakfiia3a NS DS RRSIG
+c7bfj6abd3bm58li14o65fpkakfiia3a.fi.cr. 3600	NSEC3	1 0 0 - c9pagou5u44s87t1770865uicqhm4r17 NS
+c9pagou5u44s87t1770865uicqhm4r17.fi.cr. 3600	NSEC3	1 0 0 - ckb5ce03g053jpnv449oot4aqnabd1h7 NS
+ckb5ce03g053jpnv449oot4aqnabd1h7.fi.cr. 3600	NSEC3	1 0 0 - d0h0hpti683k38kf0mqeigfuaa4m5g3b NS
+d0h0hpti683k38kf0mqeigfuaa4m5g3b.fi.cr. 3600	NSEC3	1 0 0 - dfr1ikuetmd5bh4f3quaokefkfrku9nm NS
+dfr1ikuetmd5bh4f3quaokefkfrku9nm.fi.cr. 3600	NSEC3	1 0 0 - dggnti2d10kecpbe3ofeiv27jke6t9ra NS
+dggnti2d10kecpbe3ofeiv27jke6t9ra.fi.cr. 3600	NSEC3	1 0 0 - dh681g9o29vh0qr4jotiafg5ncv9pq48 NS
+dh681g9o29vh0qr4jotiafg5ncv9pq48.fi.cr. 3600	NSEC3	1 0 0 - dhk0pqvhr4gptg2l4bvkrqu2aumrlebu NS
+dhk0pqvhr4gptg2l4bvkrqu2aumrlebu.fi.cr. 3600	NSEC3	1 0 0 - dj9b40n55khn9ua0c9qoep9re5pivlds NS
+dj9b40n55khn9ua0c9qoep9re5pivlds.fi.cr. 3600	NSEC3	1 0 0 - dq2no85fkcdukmevg9fotslr6kcuv3dr NS
+dq2no85fkcdukmevg9fotslr6kcuv3dr.fi.cr. 3600	NSEC3	1 0 0 - e20kmjougdacs6egrvvpdhhapbmapi85 NS
+e20kmjougdacs6egrvvpdhhapbmapi85.fi.cr. 3600	NSEC3	1 0 0 - e2dqh5ut2tv3bgp8lm50d24cjs2773ja NS
+e2dqh5ut2tv3bgp8lm50d24cjs2773ja.fi.cr. 3600	NSEC3	1 0 0 - ebn0epps0t13qq1vj4ov1g3hps2c95u4 NS
+ebn0epps0t13qq1vj4ov1g3hps2c95u4.fi.cr. 3600	NSEC3	1 0 0 - emk09dc4lnbknl548or4hm2cal77un5n NS
+emk09dc4lnbknl548or4hm2cal77un5n.fi.cr. 3600	NSEC3	1 0 0 - en01quu9g0plfm0n45gq0j5abp5dam40 NS
+en01quu9g0plfm0n45gq0j5abp5dam40.fi.cr. 3600	NSEC3	1 0 0 - f89b51fib62b7pojgkc6jfnvqrcac1re NS
+f89b51fib62b7pojgkc6jfnvqrcac1re.fi.cr. 3600	NSEC3	1 0 0 - fkhv2ll88ss2td8ts7olt5ode97dpgre NS
+fkhv2ll88ss2td8ts7olt5ode97dpgre.fi.cr. 3600	NSEC3	1 0 0 - g5o8sabgc270r88i0rb15ktjlr247daa NS
+g5o8sabgc270r88i0rb15ktjlr247daa.fi.cr. 3600	NSEC3	1 0 0 - gatjj6tulbq584k5s3s4mt6fc2j8t4bp NS
+gatjj6tulbq584k5s3s4mt6fc2j8t4bp.fi.cr. 3600	NSEC3	1 0 0 - gcuchmk87a9fp0vu1e12f478le5gf996 NS
+gcuchmk87a9fp0vu1e12f478le5gf996.fi.cr. 3600	NSEC3	1 0 0 - gjqkuiij6fm708tnpnjm8h18t7h7r1pg NS
+gjqkuiij6fm708tnpnjm8h18t7h7r1pg.fi.cr. 3600	NSEC3	1 0 0 - gmpm5p8ap4iv50qqmbkdsiqtqes3sud5 NS
+gmpm5p8ap4iv50qqmbkdsiqtqes3sud5.fi.cr. 3600	NSEC3	1 0 0 - h11htjkqj2ifo2qhaqptlbiplv1o0t8g NS
+h11htjkqj2ifo2qhaqptlbiplv1o0t8g.fi.cr. 3600	NSEC3	1 0 0 - hp6vmtphrnttiqkq5dh0piob8p5jorop NS
+hp6vmtphrnttiqkq5dh0piob8p5jorop.fi.cr. 3600	NSEC3	1 0 0 - hur6g7ifakpto7taq2c8k2fm3u6a17js NS DS RRSIG
+hur6g7ifakpto7taq2c8k2fm3u6a17js.fi.cr. 3600	NSEC3	1 0 0 - i319qd61406lge29jlp8kstl8onf2mn0 NS
+i319qd61406lge29jlp8kstl8onf2mn0.fi.cr. 3600	NSEC3	1 0 0 - i9si3rk5eq0hug1qshaf175urmfaqblj NS DS RRSIG
+i9si3rk5eq0hug1qshaf175urmfaqblj.fi.cr. 3600	NSEC3	1 0 0 - ikcjt8t1ds3mgdnmkbmjlha6o78vij6m NS
+ikcjt8t1ds3mgdnmkbmjlha6o78vij6m.fi.cr. 3600	NSEC3	1 0 0 - jic89l7h69dp703srjsm79er0494nadu NS
+jic89l7h69dp703srjsm79er0494nadu.fi.cr. 3600	NSEC3	1 0 0 - jj691ipcuaivnhs97ttmjo0btmpvgc5j NS
+jj691ipcuaivnhs97ttmjo0btmpvgc5j.fi.cr. 3600	NSEC3	1 0 0 - jrf9ne2oneag84cqvmmrq65kr8g8di70 NS
+jrf9ne2oneag84cqvmmrq65kr8g8di70.fi.cr. 3600	NSEC3	1 0 0 - jtar54q992pvldg84e1q7hns3tvj886l NS
+jtar54q992pvldg84e1q7hns3tvj886l.fi.cr. 3600	NSEC3	1 0 0 - k37pl60jir2cfvoamijg7bq2roiq5isb NS
+k37pl60jir2cfvoamijg7bq2roiq5isb.fi.cr. 3600	NSEC3	1 0 0 - kg0vtvpe9cvjva4rjt72fs7ouhcvfdkl NS
+kg0vtvpe9cvjva4rjt72fs7ouhcvfdkl.fi.cr. 3600	NSEC3	1 0 0 - kh7a6o728kvtfdm2ldsdk93hgabl03lq NS
+kh7a6o728kvtfdm2ldsdk93hgabl03lq.fi.cr. 3600	NSEC3	1 0 0 - kionsbnfg124ppjnqj7p0vvdfv50eph1 NS
+kionsbnfg124ppjnqj7p0vvdfv50eph1.fi.cr. 3600	NSEC3	1 0 0 - kme4mom06acvbmkm4tlbnr3fejokfd5b NS DS RRSIG
+kme4mom06acvbmkm4tlbnr3fejokfd5b.fi.cr. 3600	NSEC3	1 0 0 - kpg25s4gfae2h0bubj12umg2sd7lurl7 NS
+kpg25s4gfae2h0bubj12umg2sd7lurl7.fi.cr. 3600	NSEC3	1 0 0 - ktv7epj56h9ss05ve3o4cpibe6ph9l47 NS
+ktv7epj56h9ss05ve3o4cpibe6ph9l47.fi.cr. 3600	NSEC3	1 0 0 - ku08q6lblurbkldiapf1ps9n6namievc NS
+ku08q6lblurbkldiapf1ps9n6namievc.fi.cr. 3600	NSEC3	1 0 0 - l57kk7213j4lbi3nasbj1fndi66fdtvu NS
+l57kk7213j4lbi3nasbj1fndi66fdtvu.fi.cr. 3600	NSEC3	1 0 0 - ldu1sd5blpn12gki50u1hl0nbcerh7h3 NS
+ldu1sd5blpn12gki50u1hl0nbcerh7h3.fi.cr. 3600	NSEC3	1 0 0 - lg8qhr3pomo007jhovi7uia6oan4em92 NS
+lg8qhr3pomo007jhovi7uia6oan4em92.fi.cr. 3600	NSEC3	1 0 0 - m0kdj9c8evtpt7hmsh900q0kh2au5tpq NS
+m0kdj9c8evtpt7hmsh900q0kh2au5tpq.fi.cr. 3600	NSEC3	1 0 0 - m531st9i15n5agkpv6kokv6co0esg5p8 NS
+m531st9i15n5agkpv6kokv6co0esg5p8.fi.cr. 3600	NSEC3	1 0 0 - m6981u2v1djm9qq4abfo32pcgish77de NS
+m6981u2v1djm9qq4abfo32pcgish77de.fi.cr. 3600	NSEC3	1 0 0 - mecthtj2nb26g7vd7911u27v7t9as919 NS DS RRSIG
+mecthtj2nb26g7vd7911u27v7t9as919.fi.cr. 3600	NSEC3	1 0 0 - mfbg9qrfufeqtvn83ocb9hcmdgihqjdv NS
+mfbg9qrfufeqtvn83ocb9hcmdgihqjdv.fi.cr. 3600	NSEC3	1 0 0 - mgaq97lu0mejgvdo3uad03lpcsvjgsi0 NS
+mgaq97lu0mejgvdo3uad03lpcsvjgsi0.fi.cr. 3600	NSEC3	1 0 0 - mlgm4van2663fuitd07d33n9i2f6ik2a NS
+mlgm4van2663fuitd07d33n9i2f6ik2a.fi.cr. 3600	NSEC3	1 0 0 - mmddq67ga3rsv33or9mlb5eoaesar2rv NS
+mmddq67ga3rsv33or9mlb5eoaesar2rv.fi.cr. 3600	NSEC3	1 0 0 - mr6rjodi3qe6f529u86h81frcj9ds5hs NS
+mr6rjodi3qe6f529u86h81frcj9ds5hs.fi.cr. 3600	NSEC3	1 0 0 - n37t6gh9au90453ea0oelhlv0dtnsmmk NS DS RRSIG
+n37t6gh9au90453ea0oelhlv0dtnsmmk.fi.cr. 3600	NSEC3	1 0 0 - n3jakkbqvbrjeqc1qkvlp7qk9g18mdri NS
+n3jakkbqvbrjeqc1qkvlp7qk9g18mdri.fi.cr. 3600	NSEC3	1 0 0 - n4p42onm1ptgol0onbadp4pgbhiru84f NS
+n4p42onm1ptgol0onbadp4pgbhiru84f.fi.cr. 3600	NSEC3	1 0 0 - n92rrfl8mbvd8dji25dl8tb2fg4n4k0n NS
+n92rrfl8mbvd8dji25dl8tb2fg4n4k0n.fi.cr. 3600	NSEC3	1 0 0 - nefkqr3amcc5qkspon6p5d9mlub7tnig NS
+nefkqr3amcc5qkspon6p5d9mlub7tnig.fi.cr. 3600	NSEC3	1 0 0 - neh4gjpa5geqsuc6qlu30qp950sp9mt1 NS
+neh4gjpa5geqsuc6qlu30qp950sp9mt1.fi.cr. 3600	NSEC3	1 0 0 - njkqflm3t1qn6joe61tkbcjqlda0go80 NS
+njkqflm3t1qn6joe61tkbcjqlda0go80.fi.cr. 3600	NSEC3	1 0 0 - no1auogrctt5a6n7f5t4ljtc6dlha7o6 NS
+no1auogrctt5a6n7f5t4ljtc6dlha7o6.fi.cr. 3600	NSEC3	1 0 0 - np936392hsqbulteoqvhk8pp9oa1ao13 NS
+np936392hsqbulteoqvhk8pp9oa1ao13.fi.cr. 3600	NSEC3	1 0 0 - nqknr8d028bs50rj3gp0lo6b13mv6hfk NS DS RRSIG
+nqknr8d028bs50rj3gp0lo6b13mv6hfk.fi.cr. 3600	NSEC3	1 0 0 - nsifb0t08v9gagqkvr9a8pddqhpcdm08 NS DS RRSIG
+nsifb0t08v9gagqkvr9a8pddqhpcdm08.fi.cr. 3600	NSEC3	1 0 0 - o3jrb5jsc4pk61lkhd0vsa2kijqbfjg4 NS
+o3jrb5jsc4pk61lkhd0vsa2kijqbfjg4.fi.cr. 3600	NSEC3	1 0 0 - o58t14kr1bj8eg0hr7pkr58l9favdlo1 NS
+o58t14kr1bj8eg0hr7pkr58l9favdlo1.fi.cr. 3600	NSEC3	1 0 0 - oauhteu9vqj5hbtgm6t74tb6gkhl52n1 NS
+oauhteu9vqj5hbtgm6t74tb6gkhl52n1.fi.cr. 3600	NSEC3	1 0 0 - ocfnl04t9e55npvit1i1inm8frmsk97t NS
+ocfnl04t9e55npvit1i1inm8frmsk97t.fi.cr. 3600	NSEC3	1 0 0 - oftm64makqned2u54qoajuco4koh4jp0 NS
+oftm64makqned2u54qoajuco4koh4jp0.fi.cr. 3600	NSEC3	1 0 0 - oskaujm7ulejarhb7vl38vs1o8kngu45 NS
+oskaujm7ulejarhb7vl38vs1o8kngu45.fi.cr. 3600	NSEC3	1 0 0 - p2o5o4ugvrq825fge6dbmsorj13050vu NS
+p2o5o4ugvrq825fge6dbmsorj13050vu.fi.cr. 3600	NSEC3	1 0 0 - pa2nbokqag69ck1rdj5tvh37i92kqk8e NS DS RRSIG
+pa2nbokqag69ck1rdj5tvh37i92kqk8e.fi.cr. 3600	NSEC3	1 0 0 - pdl4cin625sn3a65o9jkvoibug2tscof NS
+pdl4cin625sn3a65o9jkvoibug2tscof.fi.cr. 3600	NSEC3	1 0 0 - phltuljlclu5q8g2hrh51tr1le32thsg NS
+phltuljlclu5q8g2hrh51tr1le32thsg.fi.cr. 3600	NSEC3	1 0 0 - prgr43noascm84f1d1ni0eblc1ait31p NS
+prgr43noascm84f1d1ni0eblc1ait31p.fi.cr. 3600	NSEC3	1 0 0 - prhqdb42ht9a5srv16j605lm2ijfahiu NS
+prhqdb42ht9a5srv16j605lm2ijfahiu.fi.cr. 3600	NSEC3	1 0 0 - q6e9p5msfc2re79i9b539nfm6nigialn NS
+q6e9p5msfc2re79i9b539nfm6nigialn.fi.cr. 3600	NSEC3	1 0 0 - q8cpohi3b72pn3n1msoo4fj6v9m2aqmv NS
+q8cpohi3b72pn3n1msoo4fj6v9m2aqmv.fi.cr. 3600	NSEC3	1 0 0 - q9cql3qg726l7j43s40hpfb32h1i9ohr NS
+q9cql3qg726l7j43s40hpfb32h1i9ohr.fi.cr. 3600	NSEC3	1 0 0 - qdc5l75m4rf9goba1o5angu6ak0rmjsi NS
+qdc5l75m4rf9goba1o5angu6ak0rmjsi.fi.cr. 3600	NSEC3	1 0 0 - qhgodh845mhlg6cet5mqpcfhfmvnqi4b NS
+qhgodh845mhlg6cet5mqpcfhfmvnqi4b.fi.cr. 3600	NSEC3	1 0 0 - r8ut5rat9d08stm2uo05tfp0uroeegl7 NS
+r8ut5rat9d08stm2uo05tfp0uroeegl7.fi.cr. 3600	NSEC3	1 0 0 - r9hcroo44hege539c3ce10i6pbs814u3 NS
+r9hcroo44hege539c3ce10i6pbs814u3.fi.cr. 3600	NSEC3	1 0 0 - rhj1o8d9kibsp17bds1j4i0m1f8p3j0h NS
+rhj1o8d9kibsp17bds1j4i0m1f8p3j0h.fi.cr. 3600	NSEC3	1 0 0 - rt8dj4dqaov66c723j2ferq51i4nmggr NS
+rt8dj4dqaov66c723j2ferq51i4nmggr.fi.cr. 3600	NSEC3	1 0 0 - s1q5re76gtfi150vov82r7hsbo1pv7tq NS
+s1q5re76gtfi150vov82r7hsbo1pv7tq.fi.cr. 3600	NSEC3	1 0 0 - s3d6f2p1bejss99pcummd7asi2884j99 NS
+s3d6f2p1bejss99pcummd7asi2884j99.fi.cr. 3600	NSEC3	1 0 0 - se250triivm6pve1cnci2q5q2ra7vdbn NS
+se250triivm6pve1cnci2q5q2ra7vdbn.fi.cr. 3600	NSEC3	1 0 0 - sn3j54btdh02mae0ukqcalcka1d89n7i NS
+sn3j54btdh02mae0ukqcalcka1d89n7i.fi.cr. 3600	NSEC3	1 0 0 - srrrc895taah85mll0ajro7ubpgqsqo4 NS DS RRSIG
+srrrc895taah85mll0ajro7ubpgqsqo4.fi.cr. 3600	NSEC3	1 0 0 - srtlo5l3s4p81vjutgqii8hmhvnvov62 NS
+srtlo5l3s4p81vjutgqii8hmhvnvov62.fi.cr. 3600	NSEC3	1 0 0 - suc8rgoblffgii0lkpc24upbu45pva72 NS
+suc8rgoblffgii0lkpc24upbu45pva72.fi.cr. 3600	NSEC3	1 0 0 - t0qlp5jeqnimf6jlrvp8rh0v3vo7qia7 NS
+t0qlp5jeqnimf6jlrvp8rh0v3vo7qia7.fi.cr. 3600	NSEC3	1 0 0 - t33vqvq5anl5ta5g6uakqbolluq3ka27 NS DS RRSIG
+t33vqvq5anl5ta5g6uakqbolluq3ka27.fi.cr. 3600	NSEC3	1 0 0 - t7odhlfbkqurorojq8ik62blj2d8djc7 NS
+t7odhlfbkqurorojq8ik62blj2d8djc7.fi.cr. 3600	NSEC3	1 0 0 - tangv95tf5eqtfc8tlj49ttkam3gcsib NS
+tangv95tf5eqtfc8tlj49ttkam3gcsib.fi.cr. 3600	NSEC3	1 0 0 - ubn033ojfnf53jj9b1udi9ldgjo2iejj NS
+ubn033ojfnf53jj9b1udi9ldgjo2iejj.fi.cr. 3600	NSEC3	1 0 0 - ugrvnbde2tsqmrmadbsn8c1k6km17ojl NS SOA RRSIG DNSKEY NSEC3PARAM
+ugrvnbde2tsqmrmadbsn8c1k6km17ojl.fi.cr. 3600	NSEC3	1 0 0 - uoo8lqtfbgn4ukdce6mqmri8en5gga6i NS
+uoo8lqtfbgn4ukdce6mqmri8en5gga6i.fi.cr. 3600	NSEC3	1 0 0 - uqn8r6sa2ftoeffnekaeu92f94l64dte NS
+uqn8r6sa2ftoeffnekaeu92f94l64dte.fi.cr. 3600	NSEC3	1 0 0 - vks9qo2loe6m2tl1a4mejsp9rkb19ecj NS
+vks9qo2loe6m2tl1a4mejsp9rkb19ecj.fi.cr. 3600	NSEC3	1 0 0 - vl2agb7rl0c27donm92vceuvolplph4c NS
+vl2agb7rl0c27donm92vceuvolplph4c.fi.cr. 3600	NSEC3	1 0 0 - vlnsnuaku9vddumfa5e2fsh1jkrtj8k7 NS
+vlnsnuaku9vddumfa5e2fsh1jkrtj8k7.fi.cr. 3600	NSEC3	1 0 0 - 03r8o8leuf0hjuqgils5103p57och33a NS
+;; DNSSEC NSEC3 signatures
+03r8o8leuf0hjuqgils5103p57och33a.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. HqC+iOz3UhIAc0s2WGQfY/P14NKU1x3KeFdHfX7sJPI9fm1wPAE5MNAPta4PRyZafTU7emgAF3XJ4qvgRKgFNw==
+05lo7pghig73gkhbhsifcvk2tumqs8t0.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. LA71ejR7xYTmrKq3MSrR9nvvYIQgUWTnu3GXfFNPjeAEW7NaeSO9643Pxq6AarJHwcQBt7MoviqCTz/oJYRvLA==
+0c2r2tcoi9a92komfq2ekij2gcrrrbo6.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. Plh+AcKsJnL00NTNzeehkJiDqMV/pyNByhg/CcdhYTYJC9xincRuhdkXHiPirkfqdSHjSIJu6IZ5TuDDW9U5Qw==
+0e7ufe6sdnl9rln7g6irdasjrj1lrdss.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. ZPK3mIrlx9SgMJ422itkb/nR9oGzC3PKkBEus5B8KY3zIs+wUaJp+0Vq8Fjm70RKk5JDJJcpua5CD7UkHpPiCQ==
+0lf1esuac7temmntv2n7or2bmog6ph0h.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. prIF+UKeWXEDGwEfdfCzvtiXERv/WmRuDLkuz+v4sS/KIVrPkb5lTyvzUbnbRx1GRT+44ONMhsyatTqJ9eLzVQ==
+0mdrpmc2ohv796hdqifjls0jkboav8rd.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. n+sRGEtKM+ZhRAcRu68gyMzbecQDdY1DQn18bCxUOiSzS4qVRWuuJRYo8oPnNqWqH2a8KiaLuCEJm6L3ZSYfqQ==
+15mc7cu7cg4a9salquuks0mnk79letd7.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 04GQ0YIf/twFNeiBfnNt3tZHA81DEK53LBYwZXNiFIQxF0T30BT3MhrDddRnp2erzFdxi/ksILnWFosr0WRwAQ==
+26ansaetj6eh48fieso7uo98f5d196g9.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. RBD4U/wx6akeTZDqaxDYrlCrSOHU4mV0rd/PzNOS/LbCXBRvjnnmWhDXZEIHqcp6Tyoj8kQIYBGnXbl4KVt6mQ==
+2co2f0nb35viuq842sqaor48k2krc69k.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. /0L/WjlIyqwJx12B5jcFv8KoduXlV2K819Fk2nfvhoBxYD4Qux+dzUfYcFPtSnBx/6Fo9syWGvb9iG+tkJKVJg==
+2iv46bosn8i9e3f36b2qt31lol04ataj.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. exT0bP6I2sYMyz8UMuf9OnWPGYCi0DDlFPjGUpT+CeLGwMrt71B0LH35xKQ3Ph7RK/GMe01xcUmVNGTP5GnOQg==
+2shcu19poq1cv4rks140kh0kk8fnsh9k.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251026203004 20251012190004 59754 fi.cr. OrjY2ONLH17oYe0ZWwyT8HnH7rZpPm0fiJBrzhHLZR4xxeeKiZ8cxXY+RmGi12pqvW2zvMPc93+j6Jd3irChWg==
+31prajvh4f0s79bke53pssoattiepo5p.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251026203004 20251012190004 59754 fi.cr. sgZ5LXn52GuhB15GpWlQqMLVNmeG1kwmC8uo9fnk3kMbwhKPrtCEV7tLzz89+SgCT83aMRmizCqacu4vNxJrGQ==
+328s46ppsnokkm30h3ob25nm07jbv73o.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. CwdcV2csHrbJZ6A69A2jaDeyBI7XyA/xHg7JAAJJcjiyVsnmY9RvecdLq+yCksAg6BYwkGCUQxHYSpXoI7046w==
+353oi4f6ktci13egkj91j7dkoa2oaqnp.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. e7/lcFKIQOfU+HhNb4WljihHtZdvoVYj6O8u205nCCmlJgeZPGTw5RP1GX7W+8gssOY4TECC4lXa5wxxOzYZYQ==
+355rnl2l1ak5v9emgdrles0981mtirev.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. AZVNRttBCQEf3wVpwBq9Wt4HHTkXH7RG8Tx+L4McaVHoQvlVi5l69BvqTZ8y2WQns4Y28IhdAANjugM4WYMvEg==
+3ji0555tn0aeouiacqgcu2r9dp11eo48.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. c9ZYRlOl0CAGIOQ2L+7IzqeG1XfATZaCu5xkk9cafD7VqxIpwwDvn+ZT42LLYXNQMTdAbY4ofxvtgir6NUAa5w==
+3lj2cjgadasv60jc960fg690375fm0kc.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. gSdOwGY6V5536dix/vd4aqhN/9JlffkEKIqN1YrRedrnOYHNfGWGt62mHEBuEkaYsYzD5J2oA2OwXiBss/XOEQ==
+3pm4931i6o4lg239e3vshl2c0m9e3gal.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. FZV8TB/I9E+pXXWNNTKeAQBPj9Mtlc03Ki+wLK/sep4vQnbHl7nxPbkYtXCrq7nSJWxz5mLR55kst0qnR1+lfw==
+4359p5plbpad6vifjc63u5ioe9gfg7tg.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 0RHAYmrPWrCwNDKMpeFACp9BPOBnW2BdTsxgWC1Q4A3TlFJ0l8EUtZH/ZRwUVfCqVDLuhptAFd3fsGk/DyPa2A==
+4ge3ffmpdm5gummlib88hli1k5d4pnjl.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. hgT0QT1aIXzi/Xzou49s9KLlct2ePICZar4r7IALpcBwajn25KhuSCw/McakrPiHYDKymR/+hKuisJd+RwZtvw==
+4sgb2mtg3s6r4in9bganjh7gb3gqndvc.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. yGNwF4g0b4Ka8KrJSB/kI+gQcFJg4azgkn9Q51VoWxD8/lWvF0NtzEKyx3X+mBI/GsT8XMByiHS2SWyrQh6ZMQ==
+4ss6ak99ft7cugtm0v2423eu83q9q0sn.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. Kq5bxJ8YcctRt+aeLsTSGFhCg6ZwoFpliU7zw1+SOsl+FqwigdCo4PoUqqXvCh0yXjKJzCRuEHN6a62SG0ncxw==
+4tbrr3b7i9fr7so83nmefgnvlgbjl2ki.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 1E54yZUZKwkATe/uavaNus2fvRP2alTdF3t0nL7fQMqOZSvjUUJe+eHzydsjGG+/xRpQNocnUJbohe7nCOm/Jg==
+533e336v6o3grafn6tdjtf0pc2995qvv.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. tkQDpqj93b1p8MzFiWO0JHTnV/bmb3pyynPdvbdykkRumxT0zXagMNuVLi29YASEI6j6/WmstP7IGJXa5Qz71A==
+57oo0q3re9l60l8vs5c3b11bl7lt90as.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. JYPnoT+yxsKMRMWLNRNMyFP5++mJqkkffI/950vM9HK1tYRRsLmLAB592zO55DybgsgmWxOodE19RXOy8ljyjQ==
+5jopcd4no6qfvvi2ft66o4vqsp15lgje.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. C5kGZI06BVZhplHV5wqPDL6heJzrPXxfLQjgd8lIhP9jqYa+6r//BQ2ZFTWdwMJcu+8I74SjVS8ZKwVPLoqsqA==
+5r18ati2moju44eqkkokja1um6m8bfjf.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. Gl2NMEbKgWM6VCpFepjgVxI2963YiUlo+M8IcqIybKGhcI5c1Dk6fhbsHOpMsyBH8by1+m8dSVTA0qgqmDEJmg==
+5rotj5bgg47n93pc53mi4t8vhsf39e95.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 4XqnwF5yCrG6iLL6+kOAVgxUI+wAf9VpU5s0bRokWpmQdpjT0uKDcWdbd6dqk02ie3O3mFCQHykK2s2Y8wpB0Q==
+5tget8c903g2m9jnv9lrkmo1bftu6got.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 2ENAtPIflbLiaqqcNbp6hQzHsGrql/+ZmFXT6qVGgGIWM7jCIj4TucunN0phyYDkiOxH8gael5QZwtI88Kv9pg==
+6dlpm6pl8uu7kqnur93vnorqf3nb974r.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. JEPXZKrg7iB8BmQKx93bbgTyq0hd16GKP6rj/3qqstS1DqI9PYWf6X5khTn+3ujh435k+qTf64CCO5g6mf5e8A==
+6hedvujm4bencsh8sbjn61s1j41qet71.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. JaqGU06F2QBBegXotd73G9G7QEz6A4RVe+sYDaZPBeBR0CDjmxaSAzJfB8zJHOvxPqdj72kSHRPFfI8vowKPFg==
+6ulehoo42rs84fcdsasd87i4buqiqhva.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. s+kgiEFtHJrUl75W9XnQczjx52u5+6IdjC5BVo5ZEW+ElNEhb0/esJ2GEHkPOHXxKVlnKCcfeUhm+pdQV43qAg==
+6v81j80jenu95dichhbikhppm6v4q20n.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 9+MRxD+SJHsG4gpN8JKnOx1GhNKIk1SB6K7oZqESfygI39bXacK8I3SrAVt80juJen4Oe3XFUlRbUH79e7TDOA==
+78l84eppm9n578lb09fsaeugueo7520h.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 2NIHud3O/wwA7C2udPxVPFVxPdROs8LsSyYNfKv7JsR5gFl1xyzpxarD7U++qns5698I0JlvLUSP/5fIQs9D9Q==
+7959iv534vn7fh7dvs8mf175rsanikmm.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. Cztmy9bEuwzCp6icd0NBAjvTLoyibWqBxe00DoceagW8StgeMLkI1GN9q3hmUsC2tMYMmkVo/68t9Wxcak0lug==
+7a09uguqelc5hakh15cadkje2rts1aab.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. Dv+SDsKaAsCnc7EGQXQIj0cm4hfcWLsEf4CE1UNN0x1yazSns6Ujrf2gXau8ETGhmKj9MX1uxbZU+e8jvDeSKg==
+7cbid1f0vc5kgq40i3dcujgsimdd93hs.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. prcQ3BvP/4YIykZXBa66slA21xSms+Y6N08BkUwJTNPaO54Iidu3swE6Q+GP5wdvYdNR9BJe0bUDmP+nHoqlYA==
+7okru6mlvimbf8q1u8tsbf667404q26f.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. rKRGKyvWr+SVf/KnxLOsL9j/zs8qRJOnfJ2yPAv628yjL/o0WxYNKobLvE9c5+nJCanuN0VFMrsTRKinGbL8vQ==
+86i8si2jlsb15posd4aq5sbt3qcoa38d.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. TlAUA3YxdjDKNO7Qho8zcKSAfsk9p/phV+DOSzCjg7m/MfpvKkTQG8uZ/ipOryHP0DqJUs109A5RiLWe9hKcPQ==
+8rraooancpah70tr27b2jf56uta8o1gi.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. /PZO7Qch313zELVst84Nr3XZsyyxhC1r4HOXbiQR+2sJgykzFHAL1j2jnlYVkpLjmGX8ZWkBs6wOZ66pxBI9Sg==
+8sd06cvl4itdo8c7b56t9os1ti6efng8.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. WsYdzb9VH9wXOVDrZ3v57+O7bOMPmVBJO0inaG2h97UVuIXV2meV/Y2hwitGN0rzb4kRVppmSNw7OQQXiyRqWg==
+8u12t4gmdql36161qn2mf12bur7sa6mf.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. g470NWqEOKBsvJtlYieDbyuMqCBk9kwlvwS9VAVxVGX77k8k4U1sbk6AUeJNxTUpf+/lqBesLeYXOHKLqHHL2A==
+92nv8k8h7uuk2lar7e9s5umcpk1b7hbc.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. bI/MgDaAUG0M5WysbW7RqJ6NZm1mdiSiyrvtXiHbQ4E4qWm9Ew54A4LU/qi3HO5Rb6dfwQ1UCVgvnr18Rezmlw==
+93dtdmsu4m3uhinra8asf81mn5jj3nh2.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. zyWtKR3JTans0G2MtroP8uwsongs+RNBoeqPmp/23hwBxHKcD1CVenCgjAx1KcZgJ+h7MubaZNvuZgKGOmh+MA==
+93p92cvtt16t32bjv95ae2u6cgombor4.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. i2A9nPV9sJlWcaIxkw5VJ40nPVMmC8mEbL9dfS4zpFf7b5xdz9rhr62CMIaGxmolVHTDKSffxfctvuWPVwEYWQ==
+96d2ug1tvbrf4i3to3abphkld23phvr8.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. zhbJAhp4gGmivGjXZEG6IXe+eHJTG4LUB8vX+3NCsXc/T+G1Go+08L5ffKEMGLTH/xDQoT2oZk82G2o0ukt62A==
+9dihn5pfce1q86iu6s4dgk1b5l9r3spk.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. MZLjkOppyqiPLpR2l5Gax+omgFkEUsuFnZoRW5SVFWmqO8TheoZkCtxvHXBCBnEDSg8POSj4LpfcjCJt7ClYEg==
+9jj6bqamu74skfg1ei2dogrd62r132i4.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. egYdL9vA0oXNlAsiO0EUWneI7BetFwyde6oppAUbAL+fPbB85pd08ttMwpjMcWZ8bs2XKgM4n79GNFCNDUv7zg==
+9khldmkqit3agsjhes4rsrv22a67hi16.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. rjQ+J5yDz3zuKoT3GDOdFSn/PwiSOgjSSxkbuI1q8mX/tA6+UXrBkMH/H9W8PJbQ/oBfYOIj1lT45PslcopWiQ==
+a8hdlsdgv8ikm7e3n7d135nm7b1our6g.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. zKfYIrE877bI7kCEs9yj4cgdQRlQg73b2yNXUKlGnSKygjrOZqxqCxT7wOs4RWW2KzctbucORJjXpnvYMV76mA==
+abfduhch4rhpkb8q3h8dt13jc0q3reh6.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. GhKQUYuextxRyvK61SeHqXV2DXRSCci8nANxFdNyIvM5RoaFny5fz5y7mILRggOHoYdl9aXezPx6qBCNYP2Qcw==
+ai2ggsc7nhtinf6dcfb2qbf04qkblmsp.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. fGe0kG4fYVmaCpKJBy4VeA2aNHDmz2UDkT85jtsMsHweDmpMmsYatsAA//NOIVoqnE6MPRT7x9iAzhD0aQXqPw==
+aie5dn3psng4bign54ajf0sfct5a01v9.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 3DddyyIZJJIe+JefZoON53gGLxOUkbedch6Z+UydV518IKLCqdRDttYwjAxHrIif2EEmM+hqGMooV9sFiBmHSA==
+ask3t8olk0rgdm8v2vgs3apjkrp5sora.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. CDLPIDEdD6Ba0Fz8tCltpIfS41AUwNFIl9C3DSnwXh1PtWUXPgrXAo5HXeiik6oEpvO8uWDzK9+ME5ap0xOxhg==
+b74qi8lq5q3s8c82ssit756nnmkkus3d.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. n+NWY0IlefY7XQGuAyP+e6DTZxC5Jg9OTPTJ4tmGaj2lShYKujdOKjn0sHpDHVhNVPXHS9WMIhb2UNx757ooPQ==
+b8t5feur1844lp4abpg5juit2bfb0kag.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105153004 20251022140004 59754 fi.cr. uzioj8QhbGe0o38LrjwiI9B83BPO3/Q8BMk8ob4zwOBJgjxQiDv8hfzBSjkS2QQ5gBUAiYnRhtbo2vEeFI5m5w==
+bfu19jqvu37fft028ucfj27j4rv1a027.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251105153004 20251022140004 59754 fi.cr. ogbojAvVBFZzPZ2gw3gtIbEhA3yan1bfbzpWS4th8v37W03Bzpo5bo6O1aNbtFSu8PNc33Qw0EQ55Rvq+QsTfA==
+ble4sr1p7i3b4gmhf6anhlvceve5end8.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. i5Dawt216WmsiPOOSYc9JnnVnlaO2Wh9JgvEFwC5ETnPee2pPQKvLzLpPIUEQXcXEOXcdZkc8e7HxTNuMWTpiA==
+br8p7s9srnu6dceklq88fuf1jfneeqp7.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 0wZrYCiJM85gFJS9KKxMbzcrKYmzjtB59HXmlSSZcuMLjuhauc1eqlUNUlYwLFFXbcozQCal/1Pg+4DVXzOJoA==
+btnqmsi1autmfriflbljnv9fej1ugmtg.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. AahpSaWnugqS+M3jCcuu/0713RFDLp9la6jxUWtP/9yS3vsJGUlP9anNe2zA7QPHabg20v8+7YGdHgVR7IWMng==
+c2sego65v9rc5nm77qqvke12sq1o2krt.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. yoVfpHfjcP49cc3Zh4hR3aeRkVueHVtCLnt0eZQdU9Alya9U1DvKZvOAcJzhK/Brz6DH6SeGlKpAiMJvFqSLoQ==
+c7bfj6abd3bm58li14o65fpkakfiia3a.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 2Ks5jLvcEeWbcrMBpq+knV0Lip2m1w7M45oXniznvkCfXnexZVoGajmCUY8qzVno8bPhWZzliDcsMW92W297cQ==
+c9pagou5u44s87t1770865uicqhm4r17.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. MWTY0mkJFk6u47jqf1S0BroiccydG2SmD7pYC1M05YhQVj0K0bbgxJ0ZIvIqsS+jwh5f5ay0N7I7mbA6YSbk/A==
+ckb5ce03g053jpnv449oot4aqnabd1h7.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. ECJ6WnW6s8W+Lv5h/Ml8isU/mmYvqauPAlSVPCGwime2YCLA5M2N/DdfohzZHogjc+GEyC5pOArr+71zTvjqtQ==
+d0h0hpti683k38kf0mqeigfuaa4m5g3b.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. hFJBkQFebXht99Jen1Ou2mirFRmkLmo5NHd/UDE0VFykVi7GnQmJWZzG7MykamS+l0etGy5dKYFYNrFJ9VdssQ==
+dfr1ikuetmd5bh4f3quaokefkfrku9nm.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. LKeciQvQ/rk+RW7SMwd5CLWJ1XHMAd8zCmaUcylxslRXBDBf7Ly1E0c6A+pXPLkBRs66n81NHPZM4AR5AGH/BQ==
+dggnti2d10kecpbe3ofeiv27jke6t9ra.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. AOXKteiP9Kj/s3K08Y5B05Od0aF5pQ0W+rW89UdzRokjjbdGlbZnhWQopXDVc8/FbZuesH2eyE4zuYeKDiWPXg==
+dh681g9o29vh0qr4jotiafg5ncv9pq48.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. lUsFNGgpTotZMXBa6YC2ziVGvGUcc7RnDlV6qBTrXqL21goB/h+eqfdfsH31cGTGf47X2herhbN21cdPX/C6wg==
+dhk0pqvhr4gptg2l4bvkrqu2aumrlebu.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. dnoCiv85V6bTxWLYvHy52vYyuNxK5OQXcCpDfFPIaamqRePKL7jmw1Xhs9Ls4zyR755yl7ppt5WoQvdwRsCXsA==
+dj9b40n55khn9ua0c9qoep9re5pivlds.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. CZnXEocmhg+CgPCWITm5oIxumm3TfVZrpYsgdM1w+CsvhLmtih3slROYe/w5NkkMv8l0BCKCTKDQLDK3j/9fFw==
+dq2no85fkcdukmevg9fotslr6kcuv3dr.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. p88hIH9KdsXoAw7fVQuU9PiRKSN4wHNW4QzNkANXm6Kd+bomP30gLXboDSUQKc3vB9+9ze4m7JtyQqe1Ak/AoQ==
+e20kmjougdacs6egrvvpdhhapbmapi85.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. kwUG9pi45S6Arokp7ylUw2gk8OtudsWwVtIpCQ7CzEch1/sImf4y8aVMnpC66tDqfF5n0qRcFcr42lZQx4BPtQ==
+e2dqh5ut2tv3bgp8lm50d24cjs2773ja.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. Y50//NS+Czx/2XEgJvqED2g8GAh5lNxNq0/sNaolcEJHf4WtsRTTreBI+2PMdE9DH1/iWiqL9xvkMw0ZeSC0fQ==
+ebn0epps0t13qq1vj4ov1g3hps2c95u4.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. XiUflkVQSH28YVb3R5iAGth81DqyWGQLMEuS3ewpMzzQO9xfHlOy/yOhZbyAkzLJ1V/mboqXe203ryo3NuwD8A==
+emk09dc4lnbknl548or4hm2cal77un5n.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. gwx7EATQXEFhvgrISl+1Sio0F8oE63kMUzS1hzdfQwrgTPIT4BhUdLHe+Gl19gUfUs8E67CmD2Pwn9G+/LTzhQ==
+en01quu9g0plfm0n45gq0j5abp5dam40.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. thaqOnZaOjyG/nYA6YEzm+8M49lcpGEpp8XUSwfzafEsf/KvQg4rakQTkUta5aSWPdXC4sXNFjnQP+s//rVH/Q==
+f89b51fib62b7pojgkc6jfnvqrcac1re.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. mQsr4k6su3/Iye+Hxa1sV6ghUiEqRiAsOgH5wz5EL2VNaWoNXz0Xda31J7Pg4PK3Zqp9zOFDZ6HduHBQ4EUeOw==
+fkhv2ll88ss2td8ts7olt5ode97dpgre.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. rcCckouoW9NXUYGI1wM0sQVp/modqSeMnPU6ixeUWz17wwp8ZkukVxRljoXKfwvCB4giNQjyAVaEGI2fkPmCGg==
+g5o8sabgc270r88i0rb15ktjlr247daa.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 7VsVcv5s7sruSTEYSL3RBRyit0S7Sn3/9dAUnSRXh1WvUz/ejh+5Q2gHskHfDvVdf1n+PPcwfxY70kAu3q+DGQ==
+gatjj6tulbq584k5s3s4mt6fc2j8t4bp.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 6oHEzU17ee7s4dEauqD2IViz3caCmJGDshqdca/3HeBhJ3Oh4fg3wCaTkBeXIX93au7osS0tT6XKb/pAvIqA5g==
+gcuchmk87a9fp0vu1e12f478le5gf996.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. kn9miB9RpMfi58VpRYZaUIYaTiGN6kqQRvO04A/7Bh2ITY5xb8as/m4/WNG7NU75gkOCxn1xbJX5ofdaOK1xgw==
+gjqkuiij6fm708tnpnjm8h18t7h7r1pg.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. mxa5FHOAPcjiPYWUEj9d6FlgxaXN6BOo64UlhVswxICGZ/6Edie7Q/ndVW4DgUcKh6WPfCwwxXdZ9jJdGJjTCw==
+gmpm5p8ap4iv50qqmbkdsiqtqes3sud5.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. CfjBFzI4O4rBcq1wBGDQ79BBAp7CINVX3cjYWc/FyCTM+fJSgzioqgJzId84NJtySsmv94LUy+sO3Zdgtt4xIw==
+h11htjkqj2ifo2qhaqptlbiplv1o0t8g.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 8zl8OSILrkkGbhBDWbF440QSCAJSOKNXxQtR+DmceylQ+tOjAPr68Dzor3i/5HOlMAOTCbYEGcBcH90cMCevEg==
+hp6vmtphrnttiqkq5dh0piob8p5jorop.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. asKXNebC1UWM6j4s7Evhz+NyKp+A5XhxRaoNaIsbPpP9tYL1QPL5HSkz30YvwGAwr95wVK5SW49DmII/rGU/iw==
+hur6g7ifakpto7taq2c8k2fm3u6a17js.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. HjqM3Bjm1fraVvEBieu0D4PzIM0lcRC7F/X1SOVx3BobcTsGAIHgeBC0UnVo1ut3+CU5cNFQ9yOmg9Kndj+roQ==
+i319qd61406lge29jlp8kstl8onf2mn0.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. lQ9UGZaflPFmiYUmpKy3/fRDxbtZmTIcG/jx+6/BDU0DxTKBy3PTUr+TTfofTV0u/8t0rL7cNtzj3Qv9E3l1xg==
+i9si3rk5eq0hug1qshaf175urmfaqblj.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. g3LjwZMt5d5lYosADDEqqVRrkYET5An2CCoQwoZ6ySHV3m1foXSIpfHjQJFJQJRvSgvsvdMUGIRnO1wBPvB2LQ==
+ikcjt8t1ds3mgdnmkbmjlha6o78vij6m.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 9w6m+ClcmsmzZF/jXEK/x+5cgKn62JB8xDBtOAhF96ikH9RIA4KtgsQhKBdUdZzqwvxvAk8fwtg61Ws5x2veeg==
+jic89l7h69dp703srjsm79er0494nadu.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. JvfzOgrFSj5Py95q2R9ZvFheiBXfVYbyNZVTUUmtAinKSJqr2V5nqZdqxZcNqZNYPJpRUBJxxr3pI4vjjKmdVQ==
+jj691ipcuaivnhs97ttmjo0btmpvgc5j.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. tcaICWbbyhau/Kbu+FeizxOnFuDZSxhZHIOo3sVl/asbmwYiF2i+hfuBe9yRf8MmagSB8RnV3aib0JgVhhf85Q==
+jrf9ne2oneag84cqvmmrq65kr8g8di70.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. AcaKZv6jXoEkuJdaEc6C25u8+qINlLtsSL3T1wUt+gla9SLkgyOd0VjUfB8NMiAM3j97TIqpXdrKfwV5WgYuvA==
+jtar54q992pvldg84e1q7hns3tvj886l.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 1vBcSXJXrQViwVQUWo78c1Nrcf+197fi5DGxgdc85OsVgmcABuVam/gM8Nq95r+KpPqIN/6cNWcm1Bl/VTtVsw==
+k37pl60jir2cfvoamijg7bq2roiq5isb.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. KXTJdKPC0kwtvz5IllzJbcaPwmjTRAwaTfyPrRHcfwz3ds9gS6W5ACfXdJhZjuldj8+7FzDBrXDnmOmLRDqujg==
+kg0vtvpe9cvjva4rjt72fs7ouhcvfdkl.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. mRXUaywVvYbAcTitCdo31SKhsric4GyaYAnPjrfECnpl53QO4nbx/RrArqi6V9s2nZbDPS0QDq3Nwla+ryD5cw==
+kh7a6o728kvtfdm2ldsdk93hgabl03lq.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 9J2pgZgr2f09bogTVI1fEUiXwqGM6OlZojw+iAGjwQA4R3L4xp6CGpED5esbI6Rvdwsce3HhmheezjKk3lt7cg==
+kionsbnfg124ppjnqj7p0vvdfv50eph1.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 79Nb7175maGogXqyxVld4jJPzJU4ayayoSL91ONRtvJwhQTcBX6wNgcOLtulVazu2E/7rrs0aCSOVtDxC9SIbw==
+kme4mom06acvbmkm4tlbnr3fejokfd5b.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. L2qrHmelhKMCJnGf1TAzrJDL/OpawVkNJ/h5ORYgTSMgtWcIC5Lu08Fe3KBYJtXoU4QkuGKQgofBPO2VkPFiqA==
+kpg25s4gfae2h0bubj12umg2sd7lurl7.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 006a2gvQBiXb6dp9BrqhwF5iI4aGGCgqnx19Y9gvuGzYoRFM3gAornwxog9BS5+QO2x3TJjQnQkOF7a/hCJBiA==
+ktv7epj56h9ss05ve3o4cpibe6ph9l47.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. u0hF9rByV5gz1fkApP3KxtuVQ/1gt5w2okXW66g2UAd5tQwJsBf2ojmR5n+sU3s2WFZr9eULDbIctmBCELby2w==
+ku08q6lblurbkldiapf1ps9n6namievc.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. sLgkoB7D+/CenEgEhdTtUkDY1kaGZSY2WNqet/bnvHf17jSz/Ibyp+Vg8+u2IgYdsvCiJGlh57WwNBwmLE+ZgA==
+l57kk7213j4lbi3nasbj1fndi66fdtvu.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 9jkTbZnBF/z/r13UyFfimkgVV2Qf3UVnhi/No2CX2PTjEMAP8sxUEbqZjTJ0IdYV+QkfK2rurzE/epCwTMfR2Q==
+ldu1sd5blpn12gki50u1hl0nbcerh7h3.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. l/kPPHOvQcHa+ddNLCHBuLZd6eXyXU2XlE5gPMpBLE5NgueuiyNqmZ7+xgrn9uadppTBuXpHeWsjUXg0VwLTrg==
+lg8qhr3pomo007jhovi7uia6oan4em92.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 98XWaYagNXaT5IxP1g2AkmpF9j3sWKXGKfCUJl8Vk9L9C17Lu+FPu68M0TJ/oKcdO8jrIcnOxu6DpnBjzn7vtw==
+m0kdj9c8evtpt7hmsh900q0kh2au5tpq.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. ovKkT0fsCQGRjSoe4+h1KjQHIg2Xk2021TqmSZe/FOs+0qB0ieP7BMfPE9WUpPJpn9W2EIQDpR/GF97TTy2Ngw==
+m531st9i15n5agkpv6kokv6co0esg5p8.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. U56W7TPpTVYLpLknjWLqj49pitV5P3ApjQ+Yrgu5KIhqJv0orYJ2m6GH4C9sBWlRbbEwFr9TgAlqHfMgcIJTAw==
+m6981u2v1djm9qq4abfo32pcgish77de.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. Gj2ZmGRR/wGUj9f89YVqu5IZMlEAgyn8OwHx7UDRy9K+9fc3QZ/aqDhliAeCLXHFbncII6B0HMFQkoHrd44adg==
+mecthtj2nb26g7vd7911u27v7t9as919.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. swUHV+ZDpQ6x9o9nSa7SWWhd6eg5bbB5EaK3iwHwBYr4lW4CsfV42SbUcu6Lh425902PtU1wFs+wXgBKAN2KNg==
+mfbg9qrfufeqtvn83ocb9hcmdgihqjdv.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. QuEkE5VWCYJiHAQql36YeX3sOXz/HNVWEG1W83P7wJ2InV2CEX18JGTqUW2nqLSdNcL9EVIOXBwJSesdzma0SA==
+mgaq97lu0mejgvdo3uad03lpcsvjgsi0.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. d9ozx4Iy3CktCckyHDuC8FcRFY3bOk89kKXyexXssuVmIJLE/OtkmVReLh2wKI3dLwK8ExBWmHkA+1OIlqdU5Q==
+mlgm4van2663fuitd07d33n9i2f6ik2a.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. SugUN6R2aOEm6vBGvozzvuPG0nVCMdqjkzo2YjuXQbKu5k+PcBKnhMLKis5DyUA12poUz7qKXgyaKma3X3OXHA==
+mmddq67ga3rsv33or9mlb5eoaesar2rv.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. z0dLtmRW560i745Lgo41SjH8tskErcob/supXss6syS88YI77Ef6+hadwbDutaehT0eEWLH40rJfizRPZ63MdA==
+mr6rjodi3qe6f529u86h81frcj9ds5hs.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 8++0MPjLBdM4cY7YQo/KSUuCDkJpZlWN/k9SwL6av3Fgc6QXU3iokNqyfHuOzkCmttO2yRZwuklPyVqChMK2hQ==
+n37t6gh9au90453ea0oelhlv0dtnsmmk.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. srH/yRouMjCvN+oqoDTODsQLCcYilohtNKbFFw2q1Lh2nXvO+Rzo50auHgV9EbzXp/lakMK0q6lEc3jRKqP66g==
+n3jakkbqvbrjeqc1qkvlp7qk9g18mdri.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. DI5TkBb/4cxBdtk5euz1zFtdgbjUWwL7WUzf5qPPFCEWC02S1dgYbdLcd+4nwxoZR33bp4dKshhxSenKT7FbAg==
+n4p42onm1ptgol0onbadp4pgbhiru84f.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. agkqW2JL++EI0XjiTpvL1vMDOISrgtVwNTPmj9wYaX6adVI1z3ex5C4/TbeUqGdbOPdIkcCzT7/dB5RxfmvbSQ==
+n92rrfl8mbvd8dji25dl8tb2fg4n4k0n.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. RQXgvP8G5F+lhtYek+bXNdj7Jryty3zxYK2IhpqVV3jqxi9FP4+NrehnXY3J3A1uOVBFtQLs+aG0b55kPECQ8Q==
+nefkqr3amcc5qkspon6p5d9mlub7tnig.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. REmbbQHOgSwgilBGGgDSJ5v9HjFlWfWxBqV6p1XmfdMbfL8cyWJBBiG5mn7GGzinJEfthUNUYnyaoL/yZxyO5A==
+neh4gjpa5geqsuc6qlu30qp950sp9mt1.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. dffz5WxsQQrDzQ5+kWixNjTF23d3astzWvB3HHl0nTs/joIPo4N7tmtJL8gwlzRq01+zBjs8yNdH7FaMl91n+A==
+njkqflm3t1qn6joe61tkbcjqlda0go80.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. sURy9dxUTC/iJMex3siHxdkWiq+0FlaBzLt6LEkPxUkr8wR0EitCnW42TOgLlIgIaZIK/OOBod5LtaJEzv/eOw==
+no1auogrctt5a6n7f5t4ljtc6dlha7o6.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. L7Ol0gX/8PheVDoFzXvuJ88cqvJlNVy+Lo7iMT9Aqmevep3atYC3W1lzO1JOs7R9u+WX9iLM991etwBkfrR/Zg==
+np936392hsqbulteoqvhk8pp9oa1ao13.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. M5QdNjK84qU48g066ayFsVFKbTcmGK1SyD4nVJSwefefG9tfQWH8XgBhhLpm631NKaxfo4Ix0wJV8tSxt+5VLg==
+nqknr8d028bs50rj3gp0lo6b13mv6hfk.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. swRDrRGCTcSr0gKSos3wurtEg0oQfcxw04+IpnB6uVecuMZSaWLX4Y+sklEMNHmMCPp39yOw9ggK3teIGHhk1w==
+nsifb0t08v9gagqkvr9a8pddqhpcdm08.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. zp9YC0jmXpXnUVzYuoSmB/S7WEnpHRGb6P9EUot0gN3yZwstsTEMlDqO6pe3diE19/+C3gtFmr8QPAOEyOWX0w==
+o3jrb5jsc4pk61lkhd0vsa2kijqbfjg4.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. cX2qnhBRTJRv32WDpBMqG1tRyFt2C9Hp4TYoc5ctMFgRnWyi46/HU2dQ99Vv+9+ciSCLVofBv0WNbVFrzHR+7Q==
+o58t14kr1bj8eg0hr7pkr58l9favdlo1.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. yipHSpJ+1PFqKlZsCVA198aOcmnyJt9pWArXwGS/98SacVnW3rhADY5YElpXSFqtNakCNyLH4OtucdcXEnCl2g==
+oauhteu9vqj5hbtgm6t74tb6gkhl52n1.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. gDyLh9rFDKOr1aAU+/ore8yMdwKkpOdC3bTh849MIT3oroY4gl/AwgGb9vHmcP4LjTJfJy9uJgKJn0iAB2Ua9g==
+ocfnl04t9e55npvit1i1inm8frmsk97t.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. Y+W4obiw7XoBJpz0jY3j51dkkFVdf3UE/5Nur+cBTAbzCQc4UGKIOYsDqsUF3HbQ0/0pEdGy70CfUnw34ayQkA==
+oftm64makqned2u54qoajuco4koh4jp0.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. iIOX9fYoStx3Ezj1TSCi/pDNDUTVfSWJFplFkQ9qdTtxoRQ/0C/rvVtVipw+dyXhQke8tL8BXaAhp7G9zuZv6g==
+oskaujm7ulejarhb7vl38vs1o8kngu45.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. pLH2XYWEIkPbcYOmdEzuFLOB5KMkBu4sj4LsAQMun1Aphi5UjMqUHs6RJdx29FX8vuwyYTVIOkuIWoBT+GLMLw==
+p2o5o4ugvrq825fge6dbmsorj13050vu.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. D1XQ0AS7r23mpSuoEE1pBArcJt9o/buaWlrJKm9rWaRcwQxAyU1K0rVbId8uHgZpp2d1R6F2X1cOKPT5i/u67w==
+pa2nbokqag69ck1rdj5tvh37i92kqk8e.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. E3u04keUihTlQ1RTPPtx7GADVRoI5hILzX1vXrIPl7NFjwDx4WxiG8+wG4oO89AeRsJab//QtzR3iwvG45TzMg==
+pdl4cin625sn3a65o9jkvoibug2tscof.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. hmyc8Tho9FNQMyI9lA1QSRnt5zUtMYV43vgxLyeaGTIWyue/DyO9sd0bYvZB+i02iqITCdqhceu6kg5XNpsZJg==
+phltuljlclu5q8g2hrh51tr1le32thsg.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. ib146s3ZrGMJC10N5NK+IgrMAtt5RpdaY8kukHH2OUdvtlBKV0Bmbc4O6UmGutyX/sIYE2X/JL6+rrwTkanMLw==
+prgr43noascm84f1d1ni0eblc1ait31p.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. U+185BjPAdkzpHVnCiwWGvrfAtMynw3P//ObFCpg/eB3QTmWQTFe3+rS5veu1Y88vPS4z5kfDOIEI1+mCpUXWw==
+prhqdb42ht9a5srv16j605lm2ijfahiu.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 7R+nk77jDan6VgSGx/Fo/IjSI2Nn8rdf8JsmI50IymeNLqGg9pcDdxfTDTtNN4Qkaic74rfksCGxC/VJZiNW6Q==
+q6e9p5msfc2re79i9b539nfm6nigialn.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 3QHqLny+bAVi88x2Ek/DahZ4P0YcF76gRm0SiDmH8a8+jo5yl//NaYtQVDXEzObxfEbyZqcZP+saqZ9UWTxUZQ==
+q8cpohi3b72pn3n1msoo4fj6v9m2aqmv.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. NKXDQub01greRiqIRxem5mS6ZjYMVYU4PXH0sWOMzvBCc0S4J5jqhmujkbW57ZBnJehzgZLV6NpyteUkf+r/Kw==
+q9cql3qg726l7j43s40hpfb32h1i9ohr.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. cIoXnkckTk48WOYv7aWMIbb9SOO4D1EvP9gH666O6ZxmeABl9NjDwluuBwKUlbZVBpAVUabP9pPIMbIg0J0wBQ==
+qdc5l75m4rf9goba1o5angu6ak0rmjsi.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. m6LwgNK5Y+qpnw7/n6ChKDg0OAbsRvaLz7vVn32rJ1U9QZdL9vJeOFYQFuKIkqxcCjWvPwXHOGJHCa4hnTJMVA==
+qhgodh845mhlg6cet5mqpcfhfmvnqi4b.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. ZgFgYO4CXQ/R1H9txPK8YlRqWRNs0YPVXTgF7ohqzpPPjNMsNmz3aaun4yMAMfCk8YB4gu7E/9Gb6BhWhyzvtg==
+r8ut5rat9d08stm2uo05tfp0uroeegl7.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. DtuKL/KGsZrr5zc4hUD+uIU732FQBu3PqjrwNoxsJBql5bGxueO6D66WV4E1v0D3qHjyLIzuIYb7bZTJNt0QpA==
+r9hcroo44hege539c3ce10i6pbs814u3.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. r9/VYnM5h5JrOi2HWGg1xw8nkNx8KFF02EuEeexeG/zPUWm2daQc69gcS6I+kCEA5RLJ8K3dED2zlJLbXeK36A==
+rhj1o8d9kibsp17bds1j4i0m1f8p3j0h.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. slv0aC++W351Y3Wf8U1Om/Ae2Usn8hY8KG4jeF+LDBrpBCb2+czfX2jILyOrL9siw7lc0qY5/fQYHZ7i0Xn05Q==
+rt8dj4dqaov66c723j2ferq51i4nmggr.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. DDlrFHTtmZrMU6ibKyyram9//gLbtNyNAiJBwm9VXOHqRrS9PrFTjKbDyJyFQvwNVMV5YnM8Ar2/A+DQKwqL/w==
+s1q5re76gtfi150vov82r7hsbo1pv7tq.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. cXlsn2eS3B4ZmiYYQiKP4cM1I0vQvMyiW0riRrCIN750NIaX8Cn7mIpJn1EvdhboysnalnlmQ8PLjTshnO0r1g==
+s3d6f2p1bejss99pcummd7asi2884j99.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. lZzcr26a/6GN5dtZidQ/0Vp5oI9X7grCW6s7X+EheIokgN4OMS3d9tpb3s+N9fcVSV8b8pPhP9hjG5poTJ8b/w==
+se250triivm6pve1cnci2q5q2ra7vdbn.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 8q2KZSEjC83dmU8vlmzYXq2ytaN4iyZ3wy7qwgjtVLGY//cg4AHOSmTwoE3QR9/o9VlLRRJyLoczWY7QMxHI8w==
+sn3j54btdh02mae0ukqcalcka1d89n7i.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. Gpsg5n/Xx2oRhsRTkeFqz8DueL1NWxgPYDkWMJ5CDt6hyGs4lOvELfaHhDyapf6zXGtiG0xfLOa67gnaiP1m2A==
+srrrc895taah85mll0ajro7ubpgqsqo4.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 7mnxKZOQKylpO5j1bkEi0u1IyvVTQ7+crv9zoNQ8UbC7jN9mm4IsoEKFDNa4WxWx4t+URI99kJ1pc4bboYau5g==
+srtlo5l3s4p81vjutgqii8hmhvnvov62.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 1frzW9rywk/k6bnKS9NqeJ06ySCxBq64MzJeA9/bJYVXOpyUdeSMadA+cki2uZimJr6mpkJqJF63KAHEhrD7Kg==
+suc8rgoblffgii0lkpc24upbu45pva72.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. dvSwr/aIupqSeGMlkVeVoOH5ljCSyP9bhhYdwZCPZIVrF6M+pwC4wFc40ePk73MZk4JOljOiwumE/uA52hCfaQ==
+t0qlp5jeqnimf6jlrvp8rh0v3vo7qia7.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. ZMHAE0Mkr/k1tillerhh7adSuyr4eQ00FZn2pJc1YP3AtJceIVZwP5Dpsye5pBAoKjim4I7gQp68kWBZ5QX8Aw==
+t33vqvq5anl5ta5g6uakqbolluq3ka27.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. qlTGiYuQsDh2EOT9juj8WrI+tbdIqdS+wNXumw373nqL4TKfNALwodWbd3NfQ59wgSsrbWvDQuXf4SqkxbLm2A==
+t7odhlfbkqurorojq8ik62blj2d8djc7.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. NReLTImvUbkhJhGuBxjc4Br6vkRP3Wv75F8DzbPSW/eITSLHgeUXPVa7bnjT1oZLYfeTxeAbxZILfmkuZOQq/Q==
+tangv95tf5eqtfc8tlj49ttkam3gcsib.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. MqmCaY446lHyT6u9Cg6Ac3MSNSZ3Hp6/mhwfB+/2YshiLGecIDMMfewXE9YHBjseCjjm//+siK2baT4S2J+E6Q==
+ubn033ojfnf53jj9b1udi9ldgjo2iejj.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. m4MgfkB1ddEmtxXM/r+kn9jqgHFT7T7p9VL9SkPQiJHJi6r/+3fmx+0WGqKovapveHSw3nXTvfywgQkmkkU1ig==
+ugrvnbde2tsqmrmadbsn8c1k6km17ojl.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 8+w1LZ+veID2J9b2LcXH5Y0TYTwyVFqIjXXGAb58/SqMhAqiPODK8zkRTvu6g16vWT0moTxry49KXjPsq5Pldw==
+uoo8lqtfbgn4ukdce6mqmri8en5gga6i.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. tFT1CY38qTDQ3wgJTA9KfBHnQhLax3ycIUysAuezRkUFkzCcMCGQ9Lun6rKI9WNJ2QXYFT0KYABewN9lsdmX+A==
+uqn8r6sa2ftoeffnekaeu92f94l64dte.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 1oeTc1S3zRfK87L2rVMMjK2ng4uPfTRI9uVVK13eMUl2gDvpDEJJe58IsHOPrIzG41uuHH0XbbPdNxNXoVMojQ==
+vks9qo2loe6m2tl1a4mejsp9rkb19ecj.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. qyikedKztvMPcuDEBf/VYqo/rkK4YxGDl3c0rdWOH23KvCocFoXluONSsDpfNgPaa0WEjf4ZaSrTtt09prquQQ==
+vl2agb7rl0c27donm92vceuvolplph4c.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. 2Tk8awsE7kPRA3l2ydlfX5x1/JMrJoUbjL79qOSBidvcgUf69hWDupoXLOm4GdXZvBzn04eZQOEJMIgeFHxGYA==
+vlnsnuaku9vddumfa5e2fsh1jkrtj8k7.fi.cr. 3600	RRSIG	NSEC3 13 3 3600 20251104030003 20251021013003 59754 fi.cr. CJiT6iwmEAg82qB/g6PayruJeCkQpgbMcl+W1V7YrCwfghnPexLNObMw4kWJtmVeICAL2/7m9AkIa7QRwSmH7g==
+;; Written 909 records
+;; Time 2025-10-23 10:45:06 CST

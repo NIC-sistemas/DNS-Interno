@@ -1,0 +1,15 @@
+#!/bin/bash
+ZONA=$1
+DNSDIR=/var/cache/bind
+# Genera salt (base) para NSEC3  
+salt=`printf %04x%04x $RANDOM $RANDOM`
+cd $DNSDIR
+rm -f *201*
+# Instalación de nuevos dnskeyrrset y llaves de ser necesario
+/usr/local/bin/instala.dnskeyrrset $ZONA
+# Inclusión de DS de clientes y de las llaves de la zona para firmado
+cat db.$ZONA $DNSDIR/dssets/dsset-clientes.$ZONA keys/$ZONA.dnskeyrrset > db.$ZONA.r 
+mv db.$ZONA.r db.$ZONA 
+# Firmado de la zona
+/usr/sbin/dnssec-signzone -n 8 -N increment -3 $salt -r /dev/urandom   -o $ZONA db.$ZONA keys/$ZONA.zsk.key
+# 

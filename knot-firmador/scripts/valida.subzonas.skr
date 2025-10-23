@@ -1,0 +1,7 @@
+#/bin/bash  
+
+for a in ac ed co fi sa or go; do \
+  echo "$a.cr"
+  keymgr $a.cr. validate-skr /var/tmp/$a.cr.skr; \
+done
+

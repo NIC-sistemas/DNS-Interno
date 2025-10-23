@@ -1,0 +1,28 @@
+#!/bin/bash
+
+DNSDIR=/var/lib/knot/zones
+rm -f $DNSDIR/db.cr-*
+
+# Genera zonas en /var/lib/knot/zones
+/usr/bin/genzone_client -z $DNSDIR cr
+#ssh -p7879 192.168.30.200 genzone_client  cr
+#scp -P7879 192.168.30.200:/root/db.cr /var/lib/knot/zones
+ 
+# Agrega a db.cr algunos dominios
+
+# Obtiene los DS de clientes de .cr
+
+# Agrega DS de subdominios a zona .cr
+
+#cat  /var/tmp/dsset-all  $DNSDIR/dsset-crnet.cr. $DNSDIR/dsset-nic.cr. $DNSDIR/dsset-igf.cr.  >>  $DNSDIR/db.cr
+
+mv $DNSDIR/db.cr $DNSDIR/cr.zone
+chown knot:knot $DNSDIR/cr.zone
+
+#fi
+
+cat   /var/tmp/dsset-subzonas-2024  >>  $DNSDIR/cr.zone
+
+# Firma zona .cr
+/usr/sbin/knotc zone-reload cr
+logger "[DNSNIC] Zona .cr firmada, fecha `date`"

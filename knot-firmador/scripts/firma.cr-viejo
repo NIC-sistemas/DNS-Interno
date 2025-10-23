@@ -1,0 +1,6 @@
+#!/bin/bash
+
+/usr/local/bin/firma.lassubzonas-viejo
+/usr/local/bin/firma.lazonaraiz-viejo
+#rsync -aq /var/cache/bind/db*signed 200.107.82.18:/var/cache/bind
+#ssh 200.107.82.18 "service bind9 restart"

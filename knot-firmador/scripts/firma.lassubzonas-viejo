@@ -1,0 +1,31 @@
+#!/bin/bash
+
+SUBZONAS="ac.cr ed.cr sa.cr or.cr go.cr co.cr fi.cr"
+#DNSDIR=/var/lib/knot/zones
+DNSDIR=/var/cache/bind 
+rm -f $DNSDIR/db*cr-*
+
+# Genera zonas en /var/cache/bind
+
+/usr/bin/genzone_client -z $DNSDIR $SUBZONAS
+
+# Firma de subzonas
+
+cd $DNSDIR
+for a in $SUBZONAS;  do
+#	cat >> $DNSDIR/db.$a << EOF
+#_EOF__.$a.  IN   TXT     "Zona correctamente generada, fecha `date`"
+#EOF
+#	mv $a.zone $a.zone.old
+#	mv db.$a $a.zone
+#	chown knot:knot $a.zone
+#	/usr/sbin/knotc zone-reload $a
+#	/usr/sbin/knotc zone-reload $a
+#	logger "[DNSNIC] Zona $a.cr firmada, `date`"
+	cat >> $DNSDIR/db.$a << EOF
+__EOF__.$a.  IN   TXT     "Zona correctamente generada, fecha `date`"
+EOF
+	/usr/local/bin/firma.zona $a
+	logger "[DNSNIC] Zona $a firmada, `date`"
+done
+#knotc reload
