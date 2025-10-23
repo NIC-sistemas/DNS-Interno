@@ -1,0 +1,53 @@
+#!/bin/bash
+#
+# Script que genera las subzonas bajo CR usando Fred genzone_client
+# y luego recarga Knot, que se encarga de firmarlas.
+#
+LOG_TAG="genzone_client subzonas"
+
+logger -s user.info -t "$LOG_TAG"  "[DNSNIC] genzone_client iniciando"
+SUBZONAS="ac.cr ed.cr sa.cr or.cr go.cr co.cr fi.cr"
+
+DNSDIR=/var/lib/knot/zones
+BACKDNSDIR=/var/lib/knot/zones/bak
+
+AHORA=$(/bin/date +%Y%m%d%H%M)
+
+# Eliminamos archivos temporales de fred
+rm -f $DNSDIR/db*cr-*
+
+# Genera zonas en DNSDIR
+/usr/bin/genzone_client -z $DNSDIR $SUBZONAS
+if [ $? -ne 0 ]; then
+       logger -s user.err -t "$LOG_TAG"  "[DNSNIC] Problema con genzone_client, abortando"
+       exit 1
+fi
+
+# Firma y publicación de subzonas
+cd $DNSDIR
+for zona in $SUBZONAS; do
+    if [ ! -f db.${zona} ]; then
+        logger -s user.err -t "$LOG_TAG" "[DNSNIC] Problema Archivo de zona db.${zona} no existe, abortando"
+        exit 1
+    fi
+
+    # Respaldo de zona anterior
+    mv ${zona}.zone ${BACKDNSDIR}/${zona}.zone.${AHORA}
+    if [ $? -ne 0 ]; then
+        logger -s user.err -t "$LOG_TAG"  "Problema con backup de archivo de zona, posible disco lleno? Abortando"
+        exit 1
+    fi
+
+    mv db.${zona} ${zona}.zone
+    chown knot:knot ${zona}.zone
+
+    /usr/sbin/knotc zone-reload ${zona}
+    if [ $? -ne 0 ]; then
+        logger -s user.err -t "$LOG_TAG" "Problema con knotc reload en zona ${zona}"
+    fi
+
+    logger -s user.info -t "$LOG_TAG"  "Subzona ${zona} firmada"
+done
+
+logger -s user.info -t "$LOG_TAG" "[DNSNIC] genzone_client subzonas exito"
+exit 0
